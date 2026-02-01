@@ -23869,12 +23869,6 @@
     <Stock>0</Stock>
   </Product>
   <Product>
-    <SKU>5451219</SKU>
-    <Name>CAPYBARA дневник А5</Name>
-    <Price>5.57</Price>
-    <Stock>0</Stock>
-  </Product>
-  <Product>
     <SKU>62895</SKU>
     <Name>MITAMA цветна глина 2 в 1</Name>
     <Price>3.60</Price>
@@ -32896,6 +32890,48 @@
     <SKU>D92706</SKU>
     <Name>FROZEN малка чанта с две лица</Name>
     <Price>11.20</Price>
+    <Stock>1</Stock>
+  </Product>
+  <Product>
+    <SKU>33522</SKU>
+    <Name>Violetta портмоне</Name>
+    <Price>6.60</Price>
+    <Stock>1</Stock>
+  </Product>
+  <Product>
+    <SKU>28894</SKU>
+    <Name>VIOLETTA бележник</Name>
+    <Price>6.60</Price>
+    <Stock>1</Stock>
+  </Product>
+  <Product>
+    <SKU>33638</SKU>
+    <Name>VIOLETTA малка чанта</Name>
+    <Price>11.90</Price>
+    <Stock>1</Stock>
+  </Product>
+  <Product>
+    <SKU>33676</SKU>
+    <Name>VIOLETTA малка чанта</Name>
+    <Price>12.90</Price>
+    <Stock>1</Stock>
+  </Product>
+  <Product>
+    <SKU>30897</SKU>
+    <Name>VIOLETTA портмоне за врат</Name>
+    <Price>7.11</Price>
+    <Stock>1</Stock>
+  </Product>
+  <Product>
+    <SKU>38282</SKU>
+    <Name>VIOLETTA портмоне за врат</Name>
+    <Price>7.11</Price>
+    <Stock>1</Stock>
+  </Product>
+  <Product>
+    <SKU>30569</SKU>
+    <Name>VIOLETTA  малка раница</Name>
+    <Price>15.29</Price>
     <Stock>1</Stock>
   </Product>
 </Products>
