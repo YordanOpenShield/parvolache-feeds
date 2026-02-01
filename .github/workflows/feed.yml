@@ -1,0 +1,62 @@
+name: Transform XML Feed
+
+on:
+  schedule:
+    # Run at the top of every hour (00:00, 01:00, etc. UTC)
+    - cron: '0 * * * *'
+  workflow_dispatch:
+    inputs:
+      partner:
+        description: 'Partner name (ozone, amazon, etc)'
+        required: false
+        default: 'ozone'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  transform:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      
+      - name: Run transformation script
+        run: python transform.py ${{ github.event.inputs.partner || 'ozone' }}
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update partner feeds - $(date -u +'%Y-%m-%d %H:%M:%S UTC')" && git push)
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: transform
+    if: always()
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}
+      
+      - name: Upload output to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
+          cname: false
