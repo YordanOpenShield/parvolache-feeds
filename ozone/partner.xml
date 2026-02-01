@@ -32893,6 +32893,12 @@
     <Stock>1</Stock>
   </Product>
   <Product>
+    <SKU>87739</SKU>
+    <Name>Camp Rock портмоне</Name>
+    <Price>6.60</Price>
+    <Stock>1</Stock>
+  </Product>
+  <Product>
     <SKU>33522</SKU>
     <Name>Violetta портмоне</Name>
     <Price>6.60</Price>
@@ -32932,6 +32938,24 @@
     <SKU>30569</SKU>
     <Name>VIOLETTA  малка раница</Name>
     <Price>15.29</Price>
+    <Stock>1</Stock>
+  </Product>
+  <Product>
+    <SKU>38268</SKU>
+    <Name>VIOLETTA ученическа раница</Name>
+    <Price>37.27</Price>
+    <Stock>1</Stock>
+  </Product>
+  <Product>
+    <SKU>30910</SKU>
+    <Name>VIOLETTA малка чанта</Name>
+    <Price>11.90</Price>
+    <Stock>1</Stock>
+  </Product>
+  <Product>
+    <SKU>33454</SKU>
+    <Name>VIOLETTA касичка с катинар</Name>
+    <Price>4.04</Price>
     <Stock>1</Stock>
   </Product>
 </Products>
