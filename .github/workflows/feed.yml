@@ -16,6 +16,10 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 env:
   CUSTOM_DOMAIN: ${{ vars.CUSTOM_DOMAIN }}
 
@@ -38,11 +42,6 @@ jobs:
       
       - name: Run transformation script
         run: python transform.py ${{ github.event.inputs.partner || 'ozone' }}
-
-      - name: Write CNAME for custom domain
-        if: env.CUSTOM_DOMAIN != ''
-        run: |
-          echo "${CUSTOM_DOMAIN}" > output/CNAME
       
       - name: Commit and push changes
         run: |
@@ -55,16 +54,29 @@ jobs:
     runs-on: ubuntu-latest
     needs: transform
     if: always()
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           ref: ${{ github.head_ref || github.ref_name }}
-      
-      - name: Upload output to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+
+      - name: Write CNAME for custom domain
+        if: env.CUSTOM_DOMAIN != ''
+        run: |
+          echo "${CUSTOM_DOMAIN}" > output/CNAME
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./output
-          cname: ${{ env.CUSTOM_DOMAIN || '' }}
+          path: ./output
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
