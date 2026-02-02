@@ -16,6 +16,9 @@ permissions:
   pages: write
   id-token: write
 
+env:
+  CUSTOM_DOMAIN: ${{ vars.CUSTOM_DOMAIN }}
+
 jobs:
   transform:
     runs-on: ubuntu-latest
@@ -35,6 +38,11 @@ jobs:
       
       - name: Run transformation script
         run: python transform.py ${{ github.event.inputs.partner || 'ozone' }}
+
+      - name: Write CNAME for custom domain
+        if: env.CUSTOM_DOMAIN != ''
+        run: |
+          echo "${CUSTOM_DOMAIN}" > output/CNAME
       
       - name: Commit and push changes
         run: |
@@ -59,4 +67,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./output
-          cname: false
+          cname: ${{ env.CUSTOM_DOMAIN || '' }}
