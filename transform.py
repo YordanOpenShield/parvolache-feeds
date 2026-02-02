@@ -170,10 +170,12 @@ def transform_feed(source_root: etree._Element, config) -> etree._Element:
             output_fields = config.transform_product(product_data)
             
             # Validate required fields
-            missing_required = [
-                field for field, required in config.OUTPUT_SCHEMA 
-                if required and not output_fields.get(field)
-            ]
+            missing_required = []
+            for field_info in config.OUTPUT_SCHEMA:
+                field_name = field_info[0]
+                required = field_info[1]
+                if required and not output_fields.get(field_name):
+                    missing_required.append(field_name)
             
             if missing_required:
                 continue
@@ -181,10 +183,20 @@ def transform_feed(source_root: etree._Element, config) -> etree._Element:
             # Create product element
             product_elem = etree.SubElement(products_root, config.OUTPUT_PRODUCT_ELEMENT)
             
-            # Add output fields
-            for field_name, _required in config.OUTPUT_SCHEMA:
+            # Add output fields with optional CDATA support
+            for field_info in config.OUTPUT_SCHEMA:
+                field_name = field_info[0]
+                use_cdata = field_info[2] if len(field_info) > 2 else False
+                
                 if field_name in output_fields:
-                    etree.SubElement(product_elem, field_name).text = output_fields[field_name]
+                    field_elem = etree.SubElement(product_elem, field_name)
+                    value = output_fields[field_name]
+                    
+                    if use_cdata and value:
+                        # Add CDATA section
+                        field_elem.text = etree.CDATA(value)
+                    else:
+                        field_elem.text = value
             
         except Exception as e:
             logger.debug(f"Error processing product {idx}: {e}")

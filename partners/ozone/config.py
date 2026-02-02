@@ -14,40 +14,55 @@ SOURCE_NAMESPACE = {
 
 # XPath mappings to extract data from source XML
 FIELD_MAPPINGS = {
-    'sku': './/sc:ProductCode/text()',
+    'catalog_num': './/sc:ProductCode/text()',
     'name': './/sc:ProductName/sc:BG/text()',
     'price': './/sc:ProductPrice/text()',
+    'price_client': './/sc:ProductDistributorPrice/text()',
     'quantity_label': './/sc:ProductQuantityLabel/text()',
+    'barcode': './/sc:ProductBarcode/text()',
+    'brand': './/sc:BrandName/sc:BG/text()',
+    'category': './/sc:CategoryPath/sc:BG/text()',
+    'color': './/sc:Color/sc:BG/text()',
 }
 
-# Stock status mapping (map quantity_label values to stock availability)
+# Stock status mapping (map quantity_label values to stock availability text)
 STOCK_MAPPING = {
-    'instock': '1',      # In stock
-    'outofstock': '0',   # Out of stock
+    'instock': 'Да',      # In stock
+    'outofstock': 'Не',   # Out of stock
 }
 
 # Default values for missing fields
 DEFAULTS = {
-    'sku': '',
+    'catalog_num': '',
     'name': '',
     'price': '0',
-    'stock': '0',
+    'price_client': '0',
+    'available': 'Не',
+    'barcode': 'N/A',
+    'brand': 'N/A',
+    'category': '',
+    'color': 'N/A',
 }
 
 # Output XML schema definition
-# Each field: (xml_tag, required)
+# Each field: (xml_tag, required, use_cdata)
 OUTPUT_SCHEMA = [
-    ('SKU', True),
-    ('Name', True),
-    ('Price', True),
-    ('Stock', False),
+    ('catalog_num', True, False),
+    ('name', True, True),         # CDATA
+    ('price', True, False),
+    ('price_client', True, False),
+    ('available', False, False),
+    ('barcode', False, True),     # CDATA
+    ('brand', False, True),       # CDATA
+    ('category', False, True),    # CDATA
+    ('color', False, True),       # CDATA
 ]
 
 # Root element name for output XML
-OUTPUT_ROOT_ELEMENT = 'Products'
+OUTPUT_ROOT_ELEMENT = 'products'
 
 # Product element name for output XML
-OUTPUT_PRODUCT_ELEMENT = 'Product'
+OUTPUT_PRODUCT_ELEMENT = 'item'
 
 def transform_product(product_data: dict) -> dict:
     """
@@ -63,11 +78,16 @@ def transform_product(product_data: dict) -> dict:
     """
     # Determine stock availability
     quantity_label = product_data.get('quantity_label', '').lower()
-    stock = STOCK_MAPPING.get(quantity_label, '0')
+    available = STOCK_MAPPING.get(quantity_label, DEFAULTS['available'])
     
     return {
-        'SKU': product_data.get('sku', DEFAULTS['sku']),
-        'Name': product_data.get('name', DEFAULTS['name']),
-        'Price': product_data.get('price', DEFAULTS['price']),
-        'Stock': stock,
+        'catalog_num': product_data.get('catalog_num', DEFAULTS['catalog_num']),
+        'name': product_data.get('name', DEFAULTS['name']),
+        'price': product_data.get('price', DEFAULTS['price']),
+        'price_client': product_data.get('price_client', DEFAULTS['price_client']),
+        'available': available,
+        'barcode': product_data.get('barcode', DEFAULTS['barcode']) or DEFAULTS['barcode'],
+        'brand': product_data.get('brand', DEFAULTS['brand']) or DEFAULTS['brand'],
+        'category': product_data.get('category', DEFAULTS['category']) or DEFAULTS['category'],
+        'color': product_data.get('color', DEFAULTS['color']) or DEFAULTS['color'],
     }
