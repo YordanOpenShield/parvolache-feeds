@@ -28187,7 +28187,7 @@
     <name><![CDATA[KIDEA ароматен дневник с аксесоари бисквитка]]></name>
     <price>5.57</price>
     <price_client>3.90</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130104420]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
     <category></category>
@@ -51690,6 +51690,17 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>706998</catalog_num>
+    <name><![CDATA[KIDEA ароматен дневник с аксесоари Малинов крем]]></name>
+    <price>6.08</price>
+    <price_client>4.26</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601706998]]></barcode>
+    <brand><![CDATA[KIDEA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>706981</catalog_num>
     <name><![CDATA[KIDEA ароматен дневник с аксесоари Вафла]]></name>
     <price>6.08</price>
@@ -55577,7 +55588,7 @@
     <name><![CDATA[KIDEA Minecraft геометричен комплект Пъзел 20 см 4 части]]></name>
     <price>4.55</price>
     <price_client>3.19</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601706615]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
     <category></category>
@@ -59119,7 +59130,7 @@
     <name><![CDATA[KIDEA магически карти за оцветяване Приятели]]></name>
     <price>4.50</price>
     <price_client>3.15</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601708428]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
     <category></category>
@@ -59130,7 +59141,7 @@
     <name><![CDATA[KIDEA магически карти за оцветяване Превозни средства]]></name>
     <price>4.50</price>
     <price_client>3.15</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601708435]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
     <category></category>
@@ -59207,7 +59218,7 @@
     <name><![CDATA[KIDEA оцветяване с грим Принцеси]]></name>
     <price>6.50</price>
     <price_client>4.55</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601708350]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
     <category></category>
@@ -59218,7 +59229,7 @@
     <name><![CDATA[KIDEA оцветяване с грим Красота]]></name>
     <price>6.50</price>
     <price_client>4.55</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601708367]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
     <category></category>
@@ -59284,7 +59295,7 @@
     <name><![CDATA[KIDEA гел-ключодържатели]]></name>
     <price>7.50</price>
     <price_client>5.25</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601708787]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
     <category></category>
