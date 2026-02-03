@@ -19266,7 +19266,7 @@
     <name><![CDATA[FOOTBALL 17 комплект бутилка и кутия за храна]]></name>
     <price>10.17</price>
     <price_client>10.17</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130087259]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -43268,7 +43268,7 @@
     <name><![CDATA[CAPYBARA стикери комплект 3 бр.]]></name>
     <price>0.82</price>
     <price_client>0.57</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[4030969812716]]></barcode>
     <brand><![CDATA[Capybara]]></brand>
     <category></category>
@@ -43754,6 +43754,17 @@
     <price_client>1.97</price_client>
     <available>Не</available>
     <barcode><![CDATA[6972615185165]]></barcode>
+    <brand><![CDATA[Capybara]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>5451219</catalog_num>
+    <name><![CDATA[CAPYBARA дневник А5]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Не</available>
+    <barcode><![CDATA[6956345451219]]></barcode>
     <brand><![CDATA[Capybara]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -60441,6 +60452,17 @@
     <price_client>2.83</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>82315</catalog_num>
+    <name><![CDATA[FOOTBALL 16 комплект бутилка и кутия за храна]]></name>
+    <price>8.13</price>
+    <price_client>5.69</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130082315]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
