@@ -60467,4 +60467,37 @@
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
+  <item>
+    <catalog_num>67473</catalog_num>
+    <name><![CDATA[CARS 46 несесер с 1 цип, ПЪЛЕН]]></name>
+    <price>12.73</price>
+    <price_client>8.91</price_client>
+    <available>Не</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>50628</catalog_num>
+    <name><![CDATA[CARS  несесер с 1 цип, ПЪЛЕН]]></name>
+    <price>12.73</price>
+    <price_client>8.91</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130050628]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>50291</catalog_num>
+    <name><![CDATA[CARS  несесер с 1 цип]]></name>
+    <price>8.64</price>
+    <price_client>6.41</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130050291]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
 </products>
