@@ -3482,7 +3482,7 @@
     <price>0.51</price>
     <price_client>0.36</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[3800500740386]]></barcode>
     <brand><![CDATA[Disney]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -3570,7 +3570,7 @@
     <price>0.51</price>
     <price_client>0.36</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[3800500740362]]></barcode>
     <brand><![CDATA[Disney]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -3647,7 +3647,7 @@
     <price>0.51</price>
     <price_client>0.36</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[3800500740379]]></barcode>
     <brand><![CDATA[Disney]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -3779,7 +3779,7 @@
     <price>0.51</price>
     <price_client>0.36</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[3800500740393]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -3867,7 +3867,7 @@
     <price>0.51</price>
     <price_client>0.36</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[3800500740409]]></barcode>
     <brand><![CDATA[Disney]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -3955,7 +3955,7 @@
     <price>0.51</price>
     <price_client>0.36</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[3800500740416]]></barcode>
     <brand><![CDATA[Disney]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -60562,6 +60562,28 @@
     <price_client>9.27</price_client>
     <available>Да</available>
     <barcode><![CDATA[5901130049677]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>33430</catalog_num>
+    <name><![CDATA[VIOLETTA  химикалка с 6 цвята]]></name>
+    <price>2.51</price>
+    <price_client>1.75</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130033430]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>48656</catalog_num>
+    <name><![CDATA[SOY LUNA стикери]]></name>
+    <price>0.97</price>
+    <price_client>0.68</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130048656]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
