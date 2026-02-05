@@ -36701,7 +36701,7 @@
     <name><![CDATA[SPIDERMAN портмоне]]></name>
     <price>10.48</price>
     <price_client>7.34</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8054708305228]]></barcode>
     <brand><![CDATA[Coriex]]></brand>
     <category></category>
@@ -60496,6 +60496,28 @@
     <price_client>6.41</price_client>
     <available>Да</available>
     <barcode><![CDATA[5901130050291]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>50482</catalog_num>
+    <name><![CDATA[SOY LUNA несесер с 2 ципа, ПЪЛЕН]]></name>
+    <price>13.75</price>
+    <price_client>9.63</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130050482]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>51618</catalog_num>
+    <name><![CDATA[SOY LUNA несесер с 2 ципа]]></name>
+    <price>9.15</price>
+    <price_client>6.41</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130051618]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
