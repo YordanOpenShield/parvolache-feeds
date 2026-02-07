@@ -60645,7 +60645,7 @@
   </item>
   <item>
     <catalog_num>606809</catalog_num>
-    <name><![CDATA[BAMBINO Butterfly несесер с 1 цип]]></name>
+    <name><![CDATA[BAMBINO Cat несесер с 1 цип]]></name>
     <price>8.64</price>
     <price_client>6.41</price_client>
     <available>Да</available>
@@ -60695,6 +60695,270 @@
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[St.Majewski]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>606823</catalog_num>
+    <name><![CDATA[BAMBINO Dinosaur спортна торба]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[St.Majewski]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>606878</catalog_num>
+    <name><![CDATA[BAMBINO Monster Truck спортна торба]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[St.Majewski]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>606830</catalog_num>
+    <name><![CDATA[BAMBINO Bolide спортна торба]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[St.Majewski]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>606854</catalog_num>
+    <name><![CDATA[BAMBINO Butterfly спортна торба]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[St.Majewski]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>606861</catalog_num>
+    <name><![CDATA[BAMBINO Flowers спортна торба]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[St.Majewski]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>606885</catalog_num>
+    <name><![CDATA[BAMBINO Cat спортна торба]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[St.Majewski]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>606847</catalog_num>
+    <name><![CDATA[BAMBINO Goal спортна торба]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[St.Majewski]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>606816</catalog_num>
+    <name><![CDATA[BAMBINO Owl спортна торба]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[St.Majewski]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>292286</catalog_num>
+    <name><![CDATA[Star Darlings несесер с 2 отделения]]></name>
+    <price>7.90</price>
+    <price_client>5.53</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[St.Majewski]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>292316</catalog_num>
+    <name><![CDATA[Star Darlings спортна торба]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[St.Majewski]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>292279</catalog_num>
+    <name><![CDATA[STAR DARLINGS малка раница]]></name>
+    <price>15.29</price>
+    <price_client>10.70</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[St.Majewski]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>678949</catalog_num>
+    <name><![CDATA[ABC123 BALLERINA портмоне]]></name>
+    <price>6.60</price>
+    <price_client>4.62</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[ABC123]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>678888</catalog_num>
+    <name><![CDATA[ABC123 OWL портмоне]]></name>
+    <price>6.60</price>
+    <price_client>4.62</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[ABC123]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>679120</catalog_num>
+    <name><![CDATA[ABC123 DINO портмоне]]></name>
+    <price>6.60</price>
+    <price_client>4.62</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[ABC123]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>6791069</catalog_num>
+    <name><![CDATA[ABC123 FORMULA портмоне]]></name>
+    <price>6.60</price>
+    <price_client>4.62</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[ABC123]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>678871</catalog_num>
+    <name><![CDATA[ABC123 OWL спортна торба]]></name>
+    <price>6.08</price>
+    <price_client>4.26</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[ABC123]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>678932</catalog_num>
+    <name><![CDATA[ABC123 BALLERINA спортна торба]]></name>
+    <price>6.08</price>
+    <price_client>4.26</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[ABC123]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>679113</catalog_num>
+    <name><![CDATA[ABC123 DINO спортна торба]]></name>
+    <price>6.08</price>
+    <price_client>4.26</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[ABC123]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>678994</catalog_num>
+    <name><![CDATA[ABC123 UNICORN спортна торба]]></name>
+    <price>6.08</price>
+    <price_client>4.26</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[ABC123]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>679052</catalog_num>
+    <name><![CDATA[ABC123 FORMULA спортна торба]]></name>
+    <price>6.08</price>
+    <price_client>4.26</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[ABC123]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>679045</catalog_num>
+    <name><![CDATA[ABC123 FORMULA несесер с 1 цип, ПЪЛЕН]]></name>
+    <price>12.73</price>
+    <price_client>8.91</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[ABC123]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>679106</catalog_num>
+    <name><![CDATA[ABC123 DINO несесер с 1 цип, ПЪЛЕН]]></name>
+    <price>12.73</price>
+    <price_client>8.91</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[ABC123]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>678987</catalog_num>
+    <name><![CDATA[ABC123 UNICORN несесер с 1 цип, ПЪЛЕН]]></name>
+    <price>12.73</price>
+    <price_client>8.91</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[ABC123]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>678925</catalog_num>
+    <name><![CDATA[ABC123 BALLERINA несесер с 1 цип, ПЪЛЕН]]></name>
+    <price>12.73</price>
+    <price_client>8.91</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[ABC123]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
