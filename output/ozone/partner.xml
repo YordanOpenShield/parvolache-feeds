@@ -61085,7 +61085,7 @@
   </item>
   <item>
     <catalog_num>TT0832B-ASS-1</catalog_num>
-    <name><![CDATA[TUT Neon несесер с 3 ципа, ПЪЛЕН, син]]></name>
+    <name><![CDATA[TUT Neon несесер с 3 ципа, ПЪЛЕН, сини кантове]]></name>
     <price>20.40</price>
     <price_client>14.28</price_client>
     <available>Да</available>
@@ -61101,6 +61101,61 @@
     <price_client>4.26</price_client>
     <available>Да</available>
     <barcode><![CDATA[5901130067725]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>TT0832B-ASS-2</catalog_num>
+    <name><![CDATA[TUT Neon несесер с 3 ципа, ПЪЛЕН, зелени кантове]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[80327807317772]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>TT0832B-ASS-3</catalog_num>
+    <name><![CDATA[TUT Neon несесер с 3 ципа, ПЪЛЕН, жълти кантове]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[80327807317773]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>TT0832B-ASS-4</catalog_num>
+    <name><![CDATA[TUT Neon несесер с 3 ципа, ПЪЛЕН, червени кантове]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[80327807317774]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>TT0832B-ASS-5</catalog_num>
+    <name><![CDATA[TUT Neon несесер с 3 ципа, ПЪЛЕН, розови кантове]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[80327807317775]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>TT0832B-ASS-6</catalog_num>
+    <name><![CDATA[TUT Neon несесер с 3 ципа, ПЪЛЕН, оранжеви кантове]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[80327807317776]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
