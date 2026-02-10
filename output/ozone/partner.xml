@@ -61028,4 +61028,70 @@
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
+  <item>
+    <catalog_num>TT0832P-ASS-1</catalog_num>
+    <name><![CDATA[TUT Pastel  несесер с 3 ципа, ПЪЛЕН, пастелно жълто]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[80327807323231]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>TT0832P-ASS-2</catalog_num>
+    <name><![CDATA[TUT Pastel  несесер с 3 ципа, ПЪЛЕН, пастелно розово]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[80327807323232]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>TT0832P-ASS-3</catalog_num>
+    <name><![CDATA[TUT Pastel  несесер с 3 ципа, ПЪЛЕН, пастелно синьо]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[80327807323233]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>TT0832P-ASS-4</catalog_num>
+    <name><![CDATA[TUT Pastel  несесер с 3 ципа, ПЪЛЕН, пастелно оранжево]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[80327807323234]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>TT0832P-ASS-5</catalog_num>
+    <name><![CDATA[TUT Pastel  несесер с 3 ципа, ПЪЛЕН, пастелно лилаво]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[80327807323235]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>TT0832B-ASS-1</catalog_num>
+    <name><![CDATA[TUT Neon несесер с 3 ципа, ПЪЛЕН, син]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[80327807317771]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
 </products>
