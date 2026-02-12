@@ -61193,4 +61193,26 @@
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
+  <item>
+    <catalog_num>TT0853P-ASS-1</catalog_num>
+    <name><![CDATA[TUT Pastel овален несесер, жълт]]></name>
+    <price>10.00</price>
+    <price_client>7.00</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8032780732231]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>TT0853P-ASS-2</catalog_num>
+    <name><![CDATA[TUT Pastel овален несесер, син]]></name>
+    <price>10.00</price>
+    <price_client>7.00</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8032780732232]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
 </products>
