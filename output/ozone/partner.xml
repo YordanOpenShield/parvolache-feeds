@@ -61215,4 +61215,37 @@
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
+  <item>
+    <catalog_num>TT0850B-ASS-4</catalog_num>
+    <name><![CDATA[TUT Neon ученическа раница с колела, зелени елементи]]></name>
+    <price>75.00</price>
+    <price_client>59.50</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[80327807319754]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>TT0850B-ASS-5</catalog_num>
+    <name><![CDATA[TUT Neon ученическа раница с колела, червени елементи]]></name>
+    <price>75.00</price>
+    <price_client>59.50</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[80327807319755]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>TT0850B-ASS-6</catalog_num>
+    <name><![CDATA[TUT Neon ученическа раница с колела, жълти елементи]]></name>
+    <price>75.00</price>
+    <price_client>59.50</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[80327807319756]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
 </products>
