@@ -4616,7 +4616,7 @@
     <price_client>4.26</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -15775,6 +15775,28 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>724475</catalog_num>
+    <name><![CDATA[BLACK HOLE овален несесер Jumbo]]></name>
+    <price>14.83</price>
+    <price_client>10.38</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3831125724475]]></barcode>
+    <brand><![CDATA[Rucksack Only]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>724574</catalog_num>
+    <name><![CDATA[URBAN CAMU овален несесер Jumbo]]></name>
+    <price>14.83</price>
+    <price_client>10.38</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3831125724574]]></barcode>
+    <brand><![CDATA[Rucksack Only]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>724642</catalog_num>
     <name><![CDATA[MIDNIGHT BLUE раница с 5 отделения]]></name>
     <price>52.41</price>
@@ -15786,12 +15808,67 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>724758</catalog_num>
+    <name><![CDATA[MIDNIGHT BLUE овален несесер Jumbo]]></name>
+    <price>14.83</price>
+    <price_client>10.38</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3831125724758]]></barcode>
+    <brand><![CDATA[Rucksack Only]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>724765</catalog_num>
+    <name><![CDATA[GREY BLACK овален несесер Jumbo]]></name>
+    <price>14.83</price>
+    <price_client>10.38</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3831125724765]]></barcode>
+    <brand><![CDATA[Rucksack Only]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>724611</catalog_num>
     <name><![CDATA[APPRICOT раница с колела]]></name>
     <price>89.48</price>
     <price_client>62.63</price_client>
     <available>Да</available>
     <barcode><![CDATA[3831125724611]]></barcode>
+    <brand><![CDATA[Rucksack Only]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>724772</catalog_num>
+    <name><![CDATA[APPRICOT овален несесер Jumbo]]></name>
+    <price>14.83</price>
+    <price_client>10.38</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3831125724772]]></barcode>
+    <brand><![CDATA[Rucksack Only]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>724789</catalog_num>
+    <name><![CDATA[GREEN овален несесер Jumbo]]></name>
+    <price>14.83</price>
+    <price_client>10.38</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3831125724789]]></barcode>
+    <brand><![CDATA[Rucksack Only]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>724796</catalog_num>
+    <name><![CDATA[BLUE овален несесер Jumbo]]></name>
+    <price>14.83</price>
+    <price_client>10.38</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3831125724796]]></barcode>
     <brand><![CDATA[Rucksack Only]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -28836,7 +28913,7 @@
     <name><![CDATA[STITCH Palms кутия за храна]]></name>
     <price>5.06</price>
     <price_client>3.54</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[8412497750740]]></barcode>
     <brand><![CDATA[STOR]]></brand>
     <category></category>
@@ -28924,7 +29001,7 @@
     <name><![CDATA[MINECRAFT кутия за храна]]></name>
     <price>5.06</price>
     <price_client>3.54</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[8412497404742]]></barcode>
     <brand><![CDATA[STOR]]></brand>
     <category></category>
@@ -35911,7 +35988,7 @@
     <price_client>18.79</price_client>
     <available>Не</available>
     <barcode><![CDATA[8445118047707]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -35922,7 +35999,7 @@
     <price_client>10.70</price_client>
     <available>Не</available>
     <barcode><![CDATA[8445118071689]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -35933,7 +36010,7 @@
     <price_client>8.59</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118071764]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -35944,7 +36021,7 @@
     <price_client>10.70</price_client>
     <available>Не</available>
     <barcode><![CDATA[8445118073195]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -35955,7 +36032,7 @@
     <price_client>9.31</price_client>
     <available>Не</available>
     <barcode><![CDATA[8445118047745]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -35966,7 +36043,7 @@
     <price_client>12.13</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118063868]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -35977,7 +36054,7 @@
     <price_client>10.70</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118071771]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -35988,7 +36065,7 @@
     <price_client>12.13</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118071795]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -35999,7 +36076,7 @@
     <price_client>10.70</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118071818]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36010,7 +36087,7 @@
     <price_client>12.13</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118071887]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36021,7 +36098,7 @@
     <price_client>10.70</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118071900]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36032,7 +36109,7 @@
     <price_client>8.59</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118073188]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36043,7 +36120,7 @@
     <price_client>9.63</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118066005]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36054,7 +36131,7 @@
     <price_client>12.13</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118071719]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36065,7 +36142,7 @@
     <price_client>12.13</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118071757]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36076,7 +36153,7 @@
     <price_client>12.13</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118071832]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36087,7 +36164,7 @@
     <price_client>8.59</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118071849]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36098,7 +36175,7 @@
     <price_client>10.70</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118071856]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36109,7 +36186,7 @@
     <price_client>4.47</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118071863]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36120,7 +36197,7 @@
     <price_client>8.05</price_client>
     <available>Не</available>
     <barcode><![CDATA[8445118061901]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36131,7 +36208,7 @@
     <price_client>8.05</price_client>
     <available>Не</available>
     <barcode><![CDATA[8445118061932]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36142,7 +36219,7 @@
     <price_client>32.18</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118064032]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36153,7 +36230,7 @@
     <price_client>12.13</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118064698]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36164,7 +36241,7 @@
     <price_client>19.68</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118066586]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36175,7 +36252,7 @@
     <price_client>32.18</price_client>
     <available>Не</available>
     <barcode><![CDATA[8445118066753]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36186,7 +36263,7 @@
     <price_client>11.63</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118070224]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36197,7 +36274,7 @@
     <price_client>5.37</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118071511]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36208,7 +36285,7 @@
     <price_client>14.28</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118072716]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36219,7 +36296,7 @@
     <price_client>15.03</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118066418]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36230,7 +36307,7 @@
     <price_client>19.68</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118066746]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36241,7 +36318,7 @@
     <price_client>39.01</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118060096]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36252,7 +36329,7 @@
     <price_client>19.68</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118063721]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36263,7 +36340,7 @@
     <price_client>32.18</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118063936]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36274,7 +36351,7 @@
     <price_client>10.70</price_client>
     <available>Не</available>
     <barcode><![CDATA[8445118064087]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36285,7 +36362,7 @@
     <price_client>20.01</price_client>
     <available>Не</available>
     <barcode><![CDATA[8445118066630]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36296,7 +36373,7 @@
     <price_client>20.01</price_client>
     <available>Не</available>
     <barcode><![CDATA[8445118066654]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36307,7 +36384,7 @@
     <price_client>19.68</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118066777]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36318,7 +36395,7 @@
     <price_client>19.68</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118067354]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36329,7 +36406,7 @@
     <price_client>14.28</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118072709]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36340,7 +36417,7 @@
     <price_client>14.28</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118072761]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36351,7 +36428,7 @@
     <price_client>12.13</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118064315]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36362,7 +36439,7 @@
     <price_client>12.13</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118048155]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36373,7 +36450,7 @@
     <price_client>30.42</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118071528]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36384,7 +36461,7 @@
     <price_client>12.13</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118064285]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36395,7 +36472,7 @@
     <price_client>9.31</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118069747]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36406,7 +36483,7 @@
     <price_client>32.18</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118064070]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36417,7 +36494,7 @@
     <price_client>11.63</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118066951]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36428,7 +36505,7 @@
     <price_client>4.26</price_client>
     <available>Не</available>
     <barcode><![CDATA[8445118070422]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36439,7 +36516,7 @@
     <price_client>12.13</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118071580]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36450,7 +36527,7 @@
     <price_client>11.81</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118071573]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36461,7 +36538,7 @@
     <price_client>11.81</price_client>
     <available>Не</available>
     <barcode><![CDATA[8445118067439]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36472,7 +36549,7 @@
     <price_client>12.53</price_client>
     <available>Не</available>
     <barcode><![CDATA[8445118061543]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36483,7 +36560,7 @@
     <price_client>11.81</price_client>
     <available>Не</available>
     <barcode><![CDATA[8445118066043]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36494,7 +36571,7 @@
     <price_client>21.44</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118071603]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36505,7 +36582,7 @@
     <price_client>21.44</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118065398]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36516,7 +36593,7 @@
     <price_client>11.81</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118064278]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36527,7 +36604,7 @@
     <price_client>11.81</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118064780]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36538,7 +36615,7 @@
     <price_client>11.81</price_client>
     <available>Не</available>
     <barcode><![CDATA[8445118064902]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36549,7 +36626,7 @@
     <price_client>11.81</price_client>
     <available>Не</available>
     <barcode><![CDATA[8445118048148]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -36560,7 +36637,7 @@
     <price_client>11.81</price_client>
     <available>Не</available>
     <barcode><![CDATA[8445118064681]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -38309,7 +38386,7 @@
     <price_client>21.44</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118050523]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -41356,7 +41433,7 @@
     <price_client>30.60</price_client>
     <available>Не</available>
     <barcode><![CDATA[8445118048087]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -41367,7 +41444,7 @@
     <price_client>10.70</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118063554]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -41378,7 +41455,7 @@
     <price_client>9.31</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118064889]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -41389,7 +41466,7 @@
     <price_client>11.81</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118076707]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -41400,7 +41477,7 @@
     <price_client>41.16</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118065565]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -41411,7 +41488,7 @@
     <price_client>41.16</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118065572]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -41422,7 +41499,7 @@
     <price_client>9.27</price_client>
     <available>Не</available>
     <barcode><![CDATA[8445118076196]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -41433,7 +41510,7 @@
     <price_client>4.62</price_client>
     <available>Не</available>
     <barcode><![CDATA[8445118076219]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -41444,7 +41521,7 @@
     <price_client>9.27</price_client>
     <available>Не</available>
     <barcode><![CDATA[8445118076257]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -41455,7 +41532,7 @@
     <price_client>4.62</price_client>
     <available>Не</available>
     <barcode><![CDATA[8445118076264]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -41466,7 +41543,7 @@
     <price_client>8.91</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118076271]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -41477,7 +41554,7 @@
     <price_client>8.91</price_client>
     <available>Да</available>
     <barcode><![CDATA[8435376078070]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -41488,7 +41565,7 @@
     <price_client>8.91</price_client>
     <available>Да</available>
     <barcode><![CDATA[8435376078087]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -41499,7 +41576,7 @@
     <price_client>11.81</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118063271]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -41510,7 +41587,7 @@
     <price_client>21.44</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118065367]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -41521,7 +41598,7 @@
     <price_client>8.77</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118067682]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -41532,7 +41609,7 @@
     <price_client>8.91</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118075687]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -41543,7 +41620,7 @@
     <price_client>8.91</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118075656]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -41554,7 +41631,7 @@
     <price_client>28.60</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118042689]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -41565,7 +41642,7 @@
     <price_client>4.26</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118042702]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -42291,7 +42368,7 @@
     <price_client>28.60</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118053722]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -42544,7 +42621,7 @@
     <price_client>4.62</price_client>
     <available>Не</available>
     <barcode><![CDATA[8445118080247]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -42555,7 +42632,7 @@
     <price_client>10.70</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118061871]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -42566,7 +42643,7 @@
     <price_client>15.03</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118066500]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -42577,7 +42654,7 @@
     <price_client>15.03</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118066487]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -42588,7 +42665,7 @@
     <price_client>9.63</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118072068]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -42599,7 +42676,7 @@
     <price_client>9.63</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118072051]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -42610,7 +42687,7 @@
     <price_client>11.63</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118070057]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -42621,7 +42698,7 @@
     <price_client>27.52</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118072099]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -42632,7 +42709,7 @@
     <price_client>14.28</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118072129]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -42643,7 +42720,7 @@
     <price_client>9.63</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118072112]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -42654,7 +42731,7 @@
     <price_client>27.52</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118072143]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -42665,7 +42742,7 @@
     <price_client>14.28</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118072181]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -42676,7 +42753,7 @@
     <price_client>9.63</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118072167]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -42687,7 +42764,7 @@
     <price_client>27.52</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118072204]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -42698,7 +42775,7 @@
     <price_client>14.28</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118072235]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -42709,7 +42786,7 @@
     <price_client>9.63</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118072228]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -42720,7 +42797,7 @@
     <price_client>6.76</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118061642]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -42731,7 +42808,7 @@
     <price_client>8.55</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118061635]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -42742,7 +42819,7 @@
     <price_client>6.76</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118061628]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -42753,7 +42830,7 @@
     <price_client>8.55</price_client>
     <available>Да</available>
     <barcode><![CDATA[8445118061611]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -48550,7 +48627,7 @@
     <price_client>8.91</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -48561,7 +48638,7 @@
     <price_client>8.91</price_client>
     <available>Да</available>
     <barcode><![CDATA[8435376303462]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -51795,7 +51872,7 @@
     <price_client>12.13</price_client>
     <available>Да</available>
     <barcode><![CDATA[8435376353832]]></barcode>
-    <brand><![CDATA[Karactermania]]></brand>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
