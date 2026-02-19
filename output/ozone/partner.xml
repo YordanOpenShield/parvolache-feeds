@@ -13370,7 +13370,7 @@
     <name><![CDATA[PASO Gaming несесер с 1 цип, ПЪЛЕН]]></name>
     <price>16.11</price>
     <price_client>11.27</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162117003]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -44302,7 +44302,7 @@
     <name><![CDATA[KITTOK STARS  комплект 5 в 1 - раница, несесери 2 бр., спортна торба, бутилка]]></name>
     <price>110.44</price>
     <price_client>77.31</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5997416594535]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -59896,11 +59896,11 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
-    <catalog_num>478103</catalog_num>
+    <catalog_num>478104</catalog_num>
     <name><![CDATA[MINECRAFT спортна торба]]></name>
     <price>9.66</price>
     <price_client>6.76</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[505646343429]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
