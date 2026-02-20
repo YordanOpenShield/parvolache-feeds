@@ -4471,7 +4471,7 @@
     <name><![CDATA[LADYBUG Несесер с 2 ципа]]></name>
     <price>8.13</price>
     <price_client>5.69</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
@@ -22951,7 +22951,7 @@
     <name><![CDATA[BackUP Venom ученическа раница 6 O 40]]></name>
     <price>47.50</price>
     <price_client>33.25</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130093861]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -23490,7 +23490,7 @@
     <name><![CDATA[BackUP Hieroglyphs овален несесер 6 A 55]]></name>
     <price>10.17</price>
     <price_client>7.12</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130100149]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -46238,7 +46238,7 @@
     <name><![CDATA[LIZZY CARD KITTOK Heart Kitty вертикална поставка]]></name>
     <price>3.02</price>
     <price_client>2.11</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5999121313951]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -52750,7 +52750,7 @@
     <name><![CDATA[BACKUP 7 DW 44 Bytewave несесер с 2 ципа, ПЪЛЕН]]></name>
     <price>16.36</price>
     <price_client>11.45</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601702839]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -52761,7 +52761,7 @@
     <name><![CDATA[BACKUP 7 DW 45 Quantum несесер с 2 ципа, ПЪЛЕН]]></name>
     <price>16.36</price>
     <price_client>11.45</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601702846]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -52783,7 +52783,7 @@
     <name><![CDATA[BACKUP 7 DW 57 Drift несесер с 2 ципа, ПЪЛЕН]]></name>
     <price>16.36</price>
     <price_client>11.45</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601702884]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -52794,7 +52794,7 @@
     <name><![CDATA[BACKUP 7 DW 63 Earthquake несесер с 2 ципа, ПЪЛЕН]]></name>
     <price>16.36</price>
     <price_client>11.45</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601702907]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
