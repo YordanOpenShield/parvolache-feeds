@@ -15775,6 +15775,17 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>724444</catalog_num>
+    <name><![CDATA[BLACK HOLE раница с 3 отделения]]></name>
+    <price>39.88</price>
+    <price_client>27.92</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3831125724444]]></barcode>
+    <brand><![CDATA[Rucksack Only]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>724475</catalog_num>
     <name><![CDATA[BLACK HOLE овален несесер Jumbo]]></name>
     <price>14.83</price>
@@ -15786,12 +15797,67 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>724482</catalog_num>
+    <name><![CDATA[FUN GRAVITY раница с 5 отделения]]></name>
+    <price>52.41</price>
+    <price_client>36.69</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3831125724482]]></barcode>
+    <brand><![CDATA[Rucksack Only]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>724499</catalog_num>
+    <name><![CDATA[FUN GRAVITY раница с 3 отделения]]></name>
+    <price>39.88</price>
+    <price_client>27.92</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3831125724499]]></barcode>
+    <brand><![CDATA[Rucksack Only]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>724536</catalog_num>
+    <name><![CDATA[URBAN CAMU раница с 5 отделения]]></name>
+    <price>52.41</price>
+    <price_client>36.69</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3831125724536]]></barcode>
+    <brand><![CDATA[Rucksack Only]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>724543</catalog_num>
+    <name><![CDATA[URBAN CAMU раница с 3 отделения]]></name>
+    <price>39.88</price>
+    <price_client>27.92</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3831125724543]]></barcode>
+    <brand><![CDATA[Rucksack Only]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>724574</catalog_num>
     <name><![CDATA[URBAN CAMU овален несесер Jumbo]]></name>
     <price>14.83</price>
     <price_client>10.38</price_client>
     <available>Да</available>
     <barcode><![CDATA[3831125724574]]></barcode>
+    <brand><![CDATA[Rucksack Only]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>724659</catalog_num>
+    <name><![CDATA[MIDNIGHT BLUE раница с 3 отделения]]></name>
+    <price>39.88</price>
+    <price_client>27.92</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3831125724659]]></barcode>
     <brand><![CDATA[Rucksack Only]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -15819,12 +15885,56 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>724673</catalog_num>
+    <name><![CDATA[GREY BLACK раница с 3 отделения]]></name>
+    <price>39.88</price>
+    <price_client>27.92</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3831125724673]]></barcode>
+    <brand><![CDATA[Rucksack Only]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>724666</catalog_num>
+    <name><![CDATA[GREY BLACK раница с 5 отделения]]></name>
+    <price>52.41</price>
+    <price_client>36.69</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3831125724666]]></barcode>
+    <brand><![CDATA[Rucksack Only]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>724765</catalog_num>
     <name><![CDATA[GREY BLACK овален несесер Jumbo]]></name>
     <price>14.83</price>
     <price_client>10.38</price_client>
     <available>Да</available>
     <barcode><![CDATA[3831125724765]]></barcode>
+    <brand><![CDATA[Rucksack Only]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>724697</catalog_num>
+    <name><![CDATA[APPRICOT раница с 3 отделения]]></name>
+    <price>39.88</price>
+    <price_client>27.92</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3831125724697]]></barcode>
+    <brand><![CDATA[Rucksack Only]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>724680</catalog_num>
+    <name><![CDATA[APPRICOT раница с 5 отделения]]></name>
+    <price>52.41</price>
+    <price_client>36.69</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3831125724680]]></barcode>
     <brand><![CDATA[Rucksack Only]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -15858,6 +15968,17 @@
     <price_client>10.38</price_client>
     <available>Да</available>
     <barcode><![CDATA[3831125724789]]></barcode>
+    <brand><![CDATA[Rucksack Only]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>724734</catalog_num>
+    <name><![CDATA[BLUE раница с 3 отделения]]></name>
+    <price>39.88</price>
+    <price_client>27.92</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3831125724734]]></barcode>
     <brand><![CDATA[Rucksack Only]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
