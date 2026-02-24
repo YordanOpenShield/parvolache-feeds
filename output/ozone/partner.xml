@@ -49945,7 +49945,7 @@
     <name><![CDATA[PASO GAME  ученическа раница]]></name>
     <price>39.11</price>
     <price_client>27.38</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162134796]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -51085,6 +51085,17 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>DS25CC-P001</catalog_num>
+    <name><![CDATA[DISNEY STITCH несесер с 1 цип, ПЪЛЕН]]></name>
+    <price>18.36</price>
+    <price_client>12.85</price_client>
+    <available>Не</available>
+    <barcode><![CDATA[5903162133478]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>DS25CC-045</catalog_num>
     <name><![CDATA[DISNEY STITCH плюшен несесер]]></name>
     <price>17.84</price>
@@ -51344,6 +51355,17 @@
     <price_client>14.28</price_client>
     <available>Да</available>
     <barcode><![CDATA[5903162134390]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP25CE-P001</catalog_num>
+    <name><![CDATA[PASO CAT несесер с 1 цип, ПЪЛЕН]]></name>
+    <price>16.69</price>
+    <price_client>11.68</price_client>
+    <available>Не</available>
+    <barcode><![CDATA[5903162134345]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
