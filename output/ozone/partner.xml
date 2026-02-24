@@ -60902,7 +60902,7 @@
     <price>8.64</price>
     <price_client>6.41</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5903235611643]]></barcode>
     <brand><![CDATA[St.Majewski]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -60935,7 +60935,7 @@
     <price>5.57</price>
     <price_client>3.90</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5903235606878]]></barcode>
     <brand><![CDATA[St.Majewski]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -60957,7 +60957,7 @@
     <price>5.57</price>
     <price_client>3.90</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5903235606854]]></barcode>
     <brand><![CDATA[St.Majewski]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -60979,7 +60979,7 @@
     <price>5.57</price>
     <price_client>3.90</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5903235606885]]></barcode>
     <brand><![CDATA[St.Majewski]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -60990,7 +60990,7 @@
     <price>5.57</price>
     <price_client>3.90</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5903235606847]]></barcode>
     <brand><![CDATA[St.Majewski]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -61542,6 +61542,17 @@
     <available>Да</available>
     <barcode><![CDATA[5997416585458]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>292248</catalog_num>
+    <name><![CDATA[STAR DARLINGS ергономична раница]]></name>
+    <price>60.00</price>
+    <price_client>42.00</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903235292248]]></barcode>
+    <brand><![CDATA[St.Majewski]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
