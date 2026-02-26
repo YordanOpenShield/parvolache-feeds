@@ -9462,7 +9462,7 @@
   </item>
   <item>
     <catalog_num>79070</catalog_num>
-    <name><![CDATA[Етикети PLAYSTATION]]></name>
+    <name><![CDATA[PLAYSTATION етикети]]></name>
     <price>0.51</price>
     <price_client>0.36</price_client>
     <available>Не</available>
@@ -54419,7 +54419,7 @@
   </item>
   <item>
     <catalog_num>705465</catalog_num>
-    <name><![CDATA[Game DF37 портмоне]]></name>
+    <name><![CDATA[Game DF 37 портмоне]]></name>
     <price>6.60</price>
     <price_client>4.62</price_client>
     <available>Да</available>
@@ -60810,7 +60810,7 @@
   </item>
   <item>
     <catalog_num>48656</catalog_num>
-    <name><![CDATA[SOY LUNA стикери]]></name>
+    <name><![CDATA[SOY LUNA стикери 2 листа]]></name>
     <price>0.97</price>
     <price_client>0.68</price_client>
     <available>Да</available>
@@ -61553,6 +61553,39 @@
     <available>Да</available>
     <barcode><![CDATA[5903235292248]]></barcode>
     <brand><![CDATA[St.Majewski]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>73382</catalog_num>
+    <name><![CDATA[Mermaid F 58 овален несесер с 1 цип]]></name>
+    <price>6.00</price>
+    <price_client>4.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130073382]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>73566</catalog_num>
+    <name><![CDATA[Silver F 64 овален несесер с 1 цип]]></name>
+    <price>6.00</price>
+    <price_client>4.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130073566]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>73375</catalog_num>
+    <name><![CDATA[Pink Unicorn F 57овален несесер с 1 цип]]></name>
+    <price>6.00</price>
+    <price_client>4.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130073375]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
