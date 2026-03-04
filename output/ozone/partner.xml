@@ -2854,7 +2854,7 @@
     <name><![CDATA[FROZEN 2 Unique 3D малка раница]]></name>
     <price>16.36</price>
     <price_client>11.45</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8445118052848]]></barcode>
     <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
@@ -4835,7 +4835,7 @@
     <price>6.60</price>
     <price_client>4.62</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[8427934942404]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -20464,7 +20464,7 @@
     <catalog_num>87419</catalog_num>
     <name><![CDATA[CARS 50 престилка за рисуване]]></name>
     <price>6.95</price>
-    <price_client>6.95</price_client>
+    <price_client>4.87</price_client>
     <available>Да</available>
     <barcode><![CDATA[5901130087419]]></barcode>
     <brand><![CDATA[Derform]]></brand>
@@ -43938,7 +43938,7 @@
     <catalog_num>2864881</catalog_num>
     <name><![CDATA[STITCH Flexy химикалка]]></name>
     <price>0.97</price>
-    <price_client>0.68</price_client>
+    <price_client>0.72</price_client>
     <available>Да</available>
     <barcode><![CDATA[69816882864881]]></barcode>
     <brand><![CDATA[Disney]]></brand>
@@ -58932,7 +58932,7 @@
     <name><![CDATA[FROZEN шапка с плитка Елза]]></name>
     <price>10.99</price>
     <price_client>7.69</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[36090810399531]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
