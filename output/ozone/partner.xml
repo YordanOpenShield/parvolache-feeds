@@ -5824,7 +5824,7 @@
     <name><![CDATA[LION KING комплект шапка и слънчеви очила]]></name>
     <price>12.22</price>
     <price_client>8.55</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8445484350739]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -5868,7 +5868,7 @@
     <name><![CDATA[SPIDERMAN комплект портмоне и слънчеви очила]]></name>
     <price>9.66</price>
     <price_client>6.76</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[8445484350913]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
