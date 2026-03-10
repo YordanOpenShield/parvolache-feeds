@@ -13392,7 +13392,7 @@
     <name><![CDATA[PASO Start Game спортна чанта]]></name>
     <price>20.40</price>
     <price_client>14.28</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5903162120423]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -21543,7 +21543,7 @@
     <name><![CDATA[DINOSAUR 18 комплект бутилка и кутия за храна]]></name>
     <price>10.99</price>
     <price_client>7.69</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130097746]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
