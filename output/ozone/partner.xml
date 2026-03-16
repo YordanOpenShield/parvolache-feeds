@@ -3324,7 +3324,7 @@
   </item>
   <item>
     <catalog_num>37748</catalog_num>
-    <name><![CDATA[OMP портфейл Еднорози]]></name>
+    <name><![CDATA[OMP! портфейл Еднорози]]></name>
     <price>16.82</price>
     <price_client>11.78</price_client>
     <available>Да</available>
@@ -61597,6 +61597,17 @@
     <available>Да</available>
     <barcode><![CDATA[8014514942826]]></barcode>
     <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>88690</catalog_num>
+    <name><![CDATA[BackUp DW 114 Black Dinosaurs несесер с 2 ципа, ПЪЛЕН]]></name>
+    <price>15.29</price>
+    <price_client>10.70</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130088690]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
