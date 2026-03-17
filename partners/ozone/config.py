@@ -5,7 +5,7 @@ Defines the source feed URL, XML mappings, and output schema for Ozone.
 """
 
 # Source feed configuration
-SOURCE_FEED_URL = "https://parvolache.com/module.php?ModuleName=com.seliton.superxmlexport&Username=Kabit&Domain=igra4kite.com&Signature=86357b9bc6b0ff6dc7d4afd1ec953795a91c5f7f&DealerAccountType=0"
+SOURCE_FEED_URL = "https://parvolache.com/module.php?ModuleName=com.seliton.superxmlexport&Username=teocombg&Domain=parvolache.com&Signature=e2ddf641b1cb647ddfe4d1d11abbcd7ed7a13f7a&DealerAccountType=0"
 
 # XML namespace used in source feed
 SOURCE_NAMESPACE = {
