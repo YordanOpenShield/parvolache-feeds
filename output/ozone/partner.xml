@@ -61611,4 +61611,26 @@
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
+  <item>
+    <catalog_num>51397</catalog_num>
+    <name><![CDATA[CARS кутия за храна]]></name>
+    <price>5.06</price>
+    <price_client>5.06</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130051397]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>51342</catalog_num>
+    <name><![CDATA[CARS 42 бутилка]]></name>
+    <price>3.53</price>
+    <price_client>3.53</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130051342]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
 </products>
