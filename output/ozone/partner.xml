@@ -4890,7 +4890,7 @@
     <price>37.27</price>
     <price_client>26.09</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[8427934943425]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -4923,7 +4923,7 @@
     <price>23.47</price>
     <price_client>16.43</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[8427934941933]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -18453,7 +18453,7 @@
     <price>50.62</price>
     <price_client>50.62</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130067978]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -18464,7 +18464,7 @@
     <price>33.75</price>
     <price_client>23.62</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130068395]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -18596,7 +18596,7 @@
     <price>45.50</price>
     <price_client>45.50</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130067114]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -18684,7 +18684,7 @@
     <price>5.57</price>
     <price_client>5.57</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130067435]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -18750,7 +18750,7 @@
     <price>11.71</price>
     <price_client>11.71</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130067282]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -18827,7 +18827,7 @@
     <price>7.67</price>
     <price_client>7.67</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130066438]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -19376,7 +19376,7 @@
     <name><![CDATA[EMOJI кутия за храна]]></name>
     <price>3.83</price>
     <price_client>3.83</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130076505]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -19387,7 +19387,7 @@
     <name><![CDATA[EMOJI тефтер]]></name>
     <price>0.00</price>
     <price_client>0.00</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130062386]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -19442,7 +19442,7 @@
     <name><![CDATA[FOOTBALL 17 кутия за храна]]></name>
     <price>5.06</price>
     <price_client>5.06</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130087181]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -35854,7 +35854,7 @@
     <name><![CDATA[HORSES 25 куфарче с дръжка 5 см]]></name>
     <price>9.15</price>
     <price_client>6.41</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130104079]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -61629,6 +61629,138 @@
     <price_client>3.53</price_client>
     <available>Да</available>
     <barcode><![CDATA[5901130051342]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>76444</catalog_num>
+    <name><![CDATA[MERMAID 11 бутилка]]></name>
+    <price>3.53</price>
+    <price_client>3.53</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130076444]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>76567</catalog_num>
+    <name><![CDATA[MERMAID 11 кутия за храна]]></name>
+    <price>3.83</price>
+    <price_client>3.83</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130076567]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>51359</catalog_num>
+    <name><![CDATA[SPIDERMAN 10 бутилка]]></name>
+    <price>6.60</price>
+    <price_client>4.62</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130051359]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>51403</catalog_num>
+    <name><![CDATA[SPIDERMAN 10 кутия за храна]]></name>
+    <price>5.06</price>
+    <price_client>5.06</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130051403]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>82223</catalog_num>
+    <name><![CDATA[CLEO AND FRANK 28 кутия за храна]]></name>
+    <price>5.06</price>
+    <price_client>5.06</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130082223]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>76086</catalog_num>
+    <name><![CDATA[UNICORN 12 портмоне]]></name>
+    <price>7.67</price>
+    <price_client>7.67</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130076086]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>66490</catalog_num>
+    <name><![CDATA[FROZEN несесер с 2 отделения]]></name>
+    <price>8.64</price>
+    <price_client>6.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130066490]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>67350</catalog_num>
+    <name><![CDATA[CLEO AND FRANK 19 портмоне]]></name>
+    <price>6.60</price>
+    <price_client>6.60</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130067350]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>76062</catalog_num>
+    <name><![CDATA[CLEO AND FRANK 23 портмоне]]></name>
+    <price>6.60</price>
+    <price_client>6.60</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130076062]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>76185</catalog_num>
+    <name><![CDATA[CLEO AND FRANK 23 малка раница]]></name>
+    <price>14.78</price>
+    <price_client>10.34</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130076185]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>67398</catalog_num>
+    <name><![CDATA[CLEO and FRANK 21 чанта за рамо]]></name>
+    <price>13.24</price>
+    <price_client>13.24</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130067398]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>67381</catalog_num>
+    <name><![CDATA[CLEO and FRANK 21 касичка]]></name>
+    <price>5.06</price>
+    <price_client>3.54</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130067381]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
