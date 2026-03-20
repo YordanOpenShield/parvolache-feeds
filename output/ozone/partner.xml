@@ -3768,7 +3768,7 @@
     <price>0.51</price>
     <price_client>0.36</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[3800500740331]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -18486,7 +18486,7 @@
     <price>9.15</price>
     <price_client>9.15</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130067947]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -18497,7 +18497,7 @@
     <price>9.15</price>
     <price_client>9.15</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130067954]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -18552,7 +18552,7 @@
     <price>5.06</price>
     <price_client>5.06</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130068470]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -18790,7 +18790,7 @@
   </item>
   <item>
     <catalog_num>67695</catalog_num>
-    <name><![CDATA[FOOTBALL ученическа раница]]></name>
+    <name><![CDATA[FOOTBALL 13 ученическа раница]]></name>
     <price>35.74</price>
     <price_client>35.74</price_client>
     <available>Да</available>
@@ -18801,11 +18801,11 @@
   </item>
   <item>
     <catalog_num>68500</catalog_num>
-    <name><![CDATA[FOOTBALL кутия за храна]]></name>
+    <name><![CDATA[FOOTBALL 13 кутия за храна]]></name>
     <price>5.06</price>
     <price_client>5.06</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130068500]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -19020,7 +19020,7 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
-    <catalog_num>75034</catalog_num>
+    <catalog_num>75034-1</catalog_num>
     <name><![CDATA[STITCH Palms метална бутилка 400 мл]]></name>
     <price>10.17</price>
     <price_client>7.12</price_client>
@@ -19112,7 +19112,7 @@
     <name><![CDATA[CLEO AND FRANK 22 спортна торба]]></name>
     <price>5.57</price>
     <price_client>5.57</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130075294]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -28694,7 +28694,7 @@
     <price>1.99</price>
     <price_client>1.40</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130033904]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -28716,7 +28716,7 @@
     <price>1.99</price>
     <price_client>1.40</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130054213]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -28782,7 +28782,7 @@
     <price>6.60</price>
     <price_client>4.62</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130096954]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -28815,7 +28815,7 @@
     <price>6.60</price>
     <price_client>4.62</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130070053]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -29635,7 +29635,7 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
-    <catalog_num>75034-1</catalog_num>
+    <catalog_num>75034</catalog_num>
     <name><![CDATA[UNICORN 12 ученическа раница]]></name>
     <price>37.27</price>
     <price_client>37.27</price_client>
@@ -33511,7 +33511,7 @@
     <name><![CDATA[CLEO and FRANK 43 несесер с 3 ципа, ПЪЛЕН]]></name>
     <price>22.96</price>
     <price_client>16.07</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130102877]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -48973,6 +48973,17 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>47338</catalog_num>
+    <name><![CDATA[SOY LUNA ученически комплект]]></name>
+    <price>10.17</price>
+    <price_client>7.12</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>858103</catalog_num>
     <name><![CDATA[SOY LUNA ученически комплект]]></name>
     <price>6.60</price>
@@ -60803,7 +60814,7 @@
     <price>5.06</price>
     <price_client>5.06</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130036820]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
