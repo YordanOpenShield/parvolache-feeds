@@ -11137,7 +11137,7 @@
     <name><![CDATA[LIZZY CARD CORNELL PINK LINE кутия с ластик]]></name>
     <price>6.60</price>
     <price_client>4.62</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5999121305277]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -31902,10 +31902,10 @@
   </item>
   <item>
     <catalog_num>72668</catalog_num>
-    <name><![CDATA[BackUp A 18 Tiger овален несесер]]></name>
+    <name><![CDATA[BackUp 3 A 18 Tiger овален несесер]]></name>
     <price>9.66</price>
     <price_client>6.76</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -32489,7 +32489,7 @@
     <price>5.06</price>
     <price_client>3.54</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130073405]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -32533,7 +32533,7 @@
     <price>5.06</price>
     <price_client>3.54</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130066056]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -32544,7 +32544,7 @@
     <price>5.06</price>
     <price_client>3.54</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130066063]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -32610,7 +32610,7 @@
     <price>5.06</price>
     <price_client>3.54</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130057344]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -32621,7 +32621,7 @@
     <price>5.06</price>
     <price_client>3.54</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130057436]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -32632,7 +32632,7 @@
     <price>5.06</price>
     <price_client>3.54</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130057252]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -50264,7 +50264,7 @@
     <name><![CDATA[DISNEY STITCH малка чанта]]></name>
     <price>15.29</price>
     <price_client>10.70</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5903162133508]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
