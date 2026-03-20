@@ -42256,7 +42256,7 @@
     <name><![CDATA[STITCH плажна чанта]]></name>
     <price>12.73</price>
     <price_client>8.91</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[8445484470109]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -43114,7 +43114,7 @@
     <name><![CDATA[STITCH малка чанта-сърце]]></name>
     <price>11.20</price>
     <price_client>7.84</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[8445484469691]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -48141,7 +48141,7 @@
     <name><![CDATA[STITCH чанта кръгла]]></name>
     <price>11.20</price>
     <price_client>7.84</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[8445484469837]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -48152,7 +48152,7 @@
     <name><![CDATA[STITCH чанта овал]]></name>
     <price>11.20</price>
     <price_client>7.84</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[8445484469769]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -60419,6 +60419,17 @@
     <price_client>11.90</price_client>
     <available>Да</available>
     <barcode><![CDATA[80266246432034]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>64320-5</catalog_num>
+    <name><![CDATA[MITAMA Too Cute несесер с 2 ципа]]></name>
+    <price>17.00</price>
+    <price_client>11.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[80266246432035]]></barcode>
     <brand><![CDATA[MITAMA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
