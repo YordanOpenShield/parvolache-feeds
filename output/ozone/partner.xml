@@ -32500,7 +32500,7 @@
     <price>5.06</price>
     <price_client>3.54</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130073498]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -32522,7 +32522,7 @@
     <price>5.06</price>
     <price_client>3.54</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130073542]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -32584,7 +32584,7 @@
   </item>
   <item>
     <catalog_num>83787</catalog_num>
-    <name><![CDATA[BackUp A 46 Camu спортна торба]]></name>
+    <name><![CDATA[BackUp 4 A 46 Camu спортна торба]]></name>
     <price>5.06</price>
     <price_client>3.54</price_client>
     <available>Да</available>
@@ -61902,7 +61902,7 @@
     <name><![CDATA[BackUp 2 A 5 спортна торба Colorful Strawberries]]></name>
     <price>5.06</price>
     <price_client>3.54</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130066018]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -61913,7 +61913,7 @@
     <name><![CDATA[BackUp 2 A 10 спортна торба Color Stripe]]></name>
     <price>5.06</price>
     <price_client>3.54</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130066032]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
