@@ -31906,7 +31906,7 @@
     <price>9.66</price>
     <price_client>6.76</price_client>
     <available>Не</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130072668]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -32654,7 +32654,7 @@
     <price>40.85</price>
     <price_client>28.60</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130064359]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -32665,7 +32665,7 @@
     <price>30.63</price>
     <price_client>21.44</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130056415]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -32676,7 +32676,7 @@
     <price>30.63</price>
     <price_client>21.44</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130056385]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -32709,7 +32709,7 @@
     <price>35.74</price>
     <price_client>25.02</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130064014]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -32720,7 +32720,7 @@
     <price>35.74</price>
     <price_client>25.02</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130064069]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -32731,7 +32731,7 @@
     <price>35.74</price>
     <price_client>25.02</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130064489]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -61948,6 +61948,39 @@
     <price_client>3.54</price_client>
     <available>Да</available>
     <barcode><![CDATA[5901130073696]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>64076</catalog_num>
+    <name><![CDATA[BackUp H 32 Clouds ученическа раница]]></name>
+    <price>35.74</price>
+    <price_client>25.02</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130064076]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>64090</catalog_num>
+    <name><![CDATA[BackUp H 41 Signs ученическа раница]]></name>
+    <price>35.74</price>
+    <price_client>25.02</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130064090]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>59713</catalog_num>
+    <name><![CDATA[BackUp G 50 ученическа раница]]></name>
+    <price>30.63</price>
+    <price_client>21.44</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130059713]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
