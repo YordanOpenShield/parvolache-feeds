@@ -40364,7 +40364,7 @@
     <name><![CDATA[STITCH Flowers чаша със сламка и 3D фигура]]></name>
     <price>11.25</price>
     <price_client>7.87</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[8412497748693]]></barcode>
     <brand><![CDATA[STOR]]></brand>
     <category></category>
@@ -62455,6 +62455,72 @@
     <available>Да</available>
     <barcode><![CDATA[5901130074235]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>92437</catalog_num>
+    <name><![CDATA[DINOSAUR 17 касичка]]></name>
+    <price>5.06</price>
+    <price_client>3.54</price_client>
+    <available>Не</available>
+    <barcode><![CDATA[5901130092437]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>38389</catalog_num>
+    <name><![CDATA[KAOS Girls тетрадка 52 листа, малки квадрати]]></name>
+    <price>2.81</price>
+    <price_client>1.97</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830052864834]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>38387</catalog_num>
+    <name><![CDATA[KAOS Girls тетрадка 52 листа, редове]]></name>
+    <price>2.81</price>
+    <price_client>1.97</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830052864179.38]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>36209</catalog_num>
+    <name><![CDATA[KAOS Boys тетрадка 52 листа, редове]]></name>
+    <price>2.81</price>
+    <price_client>1.97</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830052864865.38]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>45002</catalog_num>
+    <name><![CDATA[KAOS Boys 2 тетрадка 52 листа, редове]]></name>
+    <price>2.81</price>
+    <price_client>1.97</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[1010000295794]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>44998</catalog_num>
+    <name><![CDATA[KAOS Boys тетрадка 52 листа, малки квадрати]]></name>
+    <price>2.81</price>
+    <price_client>1.97</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830052867545]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
