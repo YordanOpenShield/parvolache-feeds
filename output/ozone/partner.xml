@@ -62524,4 +62524,136 @@
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
+  <item>
+    <catalog_num>41849</catalog_num>
+    <name><![CDATA[FROZEN овална малка чанта за рамо]]></name>
+    <price>12.00</price>
+    <price_client>8.40</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8021785418493]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>484782</catalog_num>
+    <name><![CDATA[KIDEA изтриваема химикалка  Котка-русалка]]></name>
+    <price>1.84</price>
+    <price_client>1.29</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5904335821178]]></barcode>
+    <brand><![CDATA[KIDEA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>484781</catalog_num>
+    <name><![CDATA[Изтриваема химикалка Чудовища]]></name>
+    <price>1.79</price>
+    <price_client>1.25</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5904335821161]]></barcode>
+    <brand><![CDATA[KIDEA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP22AD-3022</catalog_num>
+    <name><![CDATA[PASO Panda 22 кутия за храна]]></name>
+    <price>4.55</price>
+    <price_client>3.19</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162109060]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP22JE-3022</catalog_num>
+    <name><![CDATA[PASO Unicorn 22  кутия за храна]]></name>
+    <price>4.55</price>
+    <price_client>3.19</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162109206]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP22JE-3021</catalog_num>
+    <name><![CDATA[PASO UNICORN 22 бутилка]]></name>
+    <price>6.08</price>
+    <price_client>4.26</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162109190]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP22CR-3022</catalog_num>
+    <name><![CDATA[PASO Game 22  кутия за храна]]></name>
+    <price>4.55</price>
+    <price_client>3.19</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162109121]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP22CR-3021</catalog_num>
+    <name><![CDATA[PASO GAME 22 бутилка]]></name>
+    <price>6.08</price>
+    <price_client>4.26</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162109114]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP22TT-074</catalog_num>
+    <name><![CDATA[PASO IRON MAN  спортна чанта]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162105598]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP22TT-P001</catalog_num>
+    <name><![CDATA[PASO IRON MAN несесер с 1 цип, ПЪЛЕН]]></name>
+    <price>17.84</price>
+    <price_client>12.49</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162105628]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>63777</catalog_num>
+    <name><![CDATA[MITAMA Dr. Trolley Junior Mandala куфар-раница с колела]]></name>
+    <price>97.09</price>
+    <price_client>67.97</price_client>
+    <available>Не</available>
+    <barcode><![CDATA[8026624637776]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>2100002095</catalog_num>
+    <name><![CDATA[TROLLS 3D малка раница]]></name>
+    <price>16.36</price>
+    <price_client>11.45</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8427934157976]]></barcode>
+    <brand><![CDATA[CERDA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
 </products>
