@@ -43268,7 +43268,7 @@
     <name><![CDATA[CAPYBARA линия 15 см]]></name>
     <price>0.41</price>
     <price_client>0.29</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[4030969812129]]></barcode>
     <brand><![CDATA[Capybara]]></brand>
     <category></category>
@@ -58921,7 +58921,7 @@
     <name><![CDATA[FROZEN шапка с помпон]]></name>
     <price>9.46</price>
     <price_client>6.62</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[59952281071581]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
