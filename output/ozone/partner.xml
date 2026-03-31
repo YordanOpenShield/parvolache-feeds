@@ -62667,4 +62667,26 @@
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
+  <item>
+    <catalog_num>2100006395</catalog_num>
+    <name><![CDATA[PAW PATROL SKY малка чанта-сърце]]></name>
+    <price>11.00</price>
+    <price_client>7.70</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8445484588217]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>2100006394</catalog_num>
+    <name><![CDATA[PEPPA PIG малка кръгла чанта]]></name>
+    <price>11.00</price>
+    <price_client>7.70</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8445484588194]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
 </products>
