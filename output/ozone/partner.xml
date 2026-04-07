@@ -19012,7 +19012,7 @@
     <catalog_num>75171</catalog_num>
     <name><![CDATA[UNICORN 12 ергономична раница]]></name>
     <price>50.62</price>
-    <price_client>50.62</price_client>
+    <price_client>35.43</price_client>
     <available>Да</available>
     <barcode><![CDATA[5901130075171]]></barcode>
     <brand><![CDATA[Derform]]></brand>
@@ -19034,7 +19034,7 @@
     <catalog_num>75638</catalog_num>
     <name><![CDATA[UNICORN 12 несесер с 1 цип]]></name>
     <price>9.66</price>
-    <price_client>9.66</price_client>
+    <price_client>6.76</price_client>
     <available>Да</available>
     <barcode><![CDATA[5901130075638]]></barcode>
     <brand><![CDATA[Derform]]></brand>
@@ -19045,7 +19045,7 @@
     <catalog_num>75911</catalog_num>
     <name><![CDATA[UNICORN 12 несесер с 1 цип, ПЪЛЕН]]></name>
     <price>12.73</price>
-    <price_client>12.73</price_client>
+    <price_client>8.91</price_client>
     <available>Да</available>
     <barcode><![CDATA[5901130075911]]></barcode>
     <brand><![CDATA[Derform]]></brand>
@@ -29638,9 +29638,9 @@
     <catalog_num>75034</catalog_num>
     <name><![CDATA[UNICORN 12 ученическа раница]]></name>
     <price>37.27</price>
-    <price_client>37.27</price_client>
+    <price_client>26.09</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130075034]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -61714,7 +61714,7 @@
     <catalog_num>76086</catalog_num>
     <name><![CDATA[UNICORN 12 портмоне]]></name>
     <price>7.67</price>
-    <price_client>7.67</price_client>
+    <price_client>5.37</price_client>
     <available>Да</available>
     <barcode><![CDATA[5901130076086]]></barcode>
     <brand><![CDATA[Derform]]></brand>
@@ -62873,6 +62873,28 @@
     <available>Да</available>
     <barcode><![CDATA[5995228108513]]></barcode>
     <brand><![CDATA[STOR]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>88058</catalog_num>
+    <name><![CDATA[UNICORN 13 ученическа раница]]></name>
+    <price>37.27</price>
+    <price_client>26.09</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130088058]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>88140</catalog_num>
+    <name><![CDATA[UNICORN 13 ергономична раница]]></name>
+    <price>62.90</price>
+    <price_client>44.03</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130088140]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
