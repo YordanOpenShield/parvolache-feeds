@@ -31092,7 +31092,7 @@
     <price>21.47</price>
     <price_client>15.03</price_client>
     <available>Да</available>
-    <barcode><![CDATA[80266246340031]]></barcode>
+    <barcode><![CDATA[1010000192314]]></barcode>
     <brand><![CDATA[MITAMA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -31103,7 +31103,7 @@
     <price>21.47</price>
     <price_client>15.03</price_client>
     <available>Да</available>
-    <barcode><![CDATA[8026624634034]]></barcode>
+    <barcode><![CDATA[1010000209999]]></barcode>
     <brand><![CDATA[MITAMA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -60710,12 +60710,12 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
-    <catalog_num>67473</catalog_num>
+    <catalog_num>67480</catalog_num>
     <name><![CDATA[CARS 46 несесер с 1 цип, ПЪЛЕН]]></name>
     <price>12.73</price>
     <price_client>8.91</price_client>
-    <available>Не</available>
-    <barcode><![CDATA[5901130067473]]></barcode>
+    <available>Да</available>
+    <barcode><![CDATA[5901130067480]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -63115,6 +63115,83 @@
     <available>Да</available>
     <barcode><![CDATA[5997416589746]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>3736</catalog_num>
+    <name><![CDATA[PAW PATROL Guys 3D несесер с 2 ципа]]></name>
+    <price>13.29</price>
+    <price_client>9.31</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8445118037364]]></barcode>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>80816</catalog_num>
+    <name><![CDATA[DINOSAUR 15  цилиндричен несесер]]></name>
+    <price>7.11</price>
+    <price_client>4.97</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130080816]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>68227</catalog_num>
+    <name><![CDATA[MERMAID 10 цилиндричен несесер]]></name>
+    <price>7.11</price>
+    <price_client>4.97</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130068227]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>68524</catalog_num>
+    <name><![CDATA[CLEO and FRANK 19  комплект бутилка и кутия за храна]]></name>
+    <price>10.99</price>
+    <price_client>7.69</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130068524]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>66926</catalog_num>
+    <name><![CDATA[MINNIE MOUSE комплект бутилка и кутия за храна]]></name>
+    <price>10.99</price>
+    <price_client>7.69</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130066926]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>67336</catalog_num>
+    <name><![CDATA[CLEO and FRANK 20 ученическа раница]]></name>
+    <price>37.27</price>
+    <price_client>26.09</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130067336]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>47376</catalog_num>
+    <name><![CDATA[KAOS Sweathearts Sweathearts раница с колела 2 в 1]]></name>
+    <price>94.59</price>
+    <price_client>66.21</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830052868023]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
