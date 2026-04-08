@@ -4230,7 +4230,7 @@
     <price>8.64</price>
     <price_client>6.05</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[8435376380838]]></barcode>
     <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -4252,7 +4252,7 @@
     <price>8.64</price>
     <price_client>6.05</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[8435376325389]]></barcode>
     <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -4263,7 +4263,7 @@
     <price>8.64</price>
     <price_client>6.05</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[8435376388612]]></barcode>
     <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -20861,7 +20861,7 @@
     <name><![CDATA[CLEO & FRANK 41 несесер с 1 цип, ПЪЛЕН]]></name>
     <price>13.24</price>
     <price_client>9.27</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130095599]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -63191,6 +63191,39 @@
     <price_client>66.21</price_client>
     <available>Да</available>
     <barcode><![CDATA[3830052868023]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>760-2787</catalog_num>
+    <name><![CDATA[CARS комплект куфар, малка раница и торба]]></name>
+    <price>58.80</price>
+    <price_client>41.16</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8712645288775]]></barcode>
+    <brand><![CDATA[Vadobag]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>38972</catalog_num>
+    <name><![CDATA[Химикалка Karactermania - Фламинго, асортимент]]></name>
+    <price>0.97</price>
+    <price_client>0.68</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8435376389725]]></barcode>
+    <brand><![CDATA[KARACTERMANIA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>41339</catalog_num>
+    <name><![CDATA[KAOS FAIRY ученическа раница 2 в 1]]></name>
+    <price>74.14</price>
+    <price_client>51.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830052865091]]></barcode>
     <brand><![CDATA[KAOS]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
