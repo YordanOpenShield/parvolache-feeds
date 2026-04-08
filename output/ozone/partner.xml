@@ -63393,4 +63393,70 @@
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
+  <item>
+    <catalog_num>65110</catalog_num>
+    <name><![CDATA[Чанта - раница 2 в 1 BackUP А26 - Bees]]></name>
+    <price>45.50</price>
+    <price_client>31.85</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130065110]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>65134</catalog_num>
+    <name><![CDATA[Чанта - раница 2 в 1 BackUP А27 - Blue Flowers]]></name>
+    <price>45.50</price>
+    <price_client>31.85</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130065134]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>65851</catalog_num>
+    <name><![CDATA[BACKUP 2 B 52  несесер с 2 ципа Love Wolf]]></name>
+    <price>13.24</price>
+    <price_client>10.70</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130065851]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>57528</catalog_num>
+    <name><![CDATA[BACKUP 2 A 13 пътна чанта]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130057528]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>57504</catalog_num>
+    <name><![CDATA[BACKUP 2 A 1 пътна чанта]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130057504]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>57474</catalog_num>
+    <name><![CDATA[BACKUP 2 A 21 пътна чанта]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130057474]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
 </products>
