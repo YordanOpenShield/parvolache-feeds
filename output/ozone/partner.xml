@@ -11171,7 +11171,7 @@
     <price>11.71</price>
     <price_client>8.20</price_client>
     <available>Да</available>
-    <barcode><![CDATA[5999121305253]]></barcode>
+    <barcode><![CDATA[5999121304638]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -13206,7 +13206,7 @@
     <price>2.51</price>
     <price_client>1.75</price_client>
     <available>Да</available>
-    <barcode><![CDATA[5903162121963]]></barcode>
+    <barcode><![CDATA[5903162121987]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -15747,7 +15747,7 @@
     <price>2.51</price>
     <price_client>1.75</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5903162121970]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -15758,7 +15758,7 @@
     <price>2.51</price>
     <price_client>1.75</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5903162121994]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -15769,7 +15769,7 @@
     <price>2.51</price>
     <price_client>1.75</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5903162111742]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -49264,7 +49264,7 @@
     <price>1.48</price>
     <price_client>1.04</price_client>
     <available>Да</available>
-    <barcode><![CDATA[8712916064909]]></barcode>
+    <barcode><![CDATA[8712916065036]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -62895,6 +62895,226 @@
     <available>Да</available>
     <barcode><![CDATA[5901130088140]]></barcode>
     <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP22TT-P001BW</catalog_num>
+    <name><![CDATA[PASO IRON MAN несесер с 1 цип]]></name>
+    <price>9.66</price>
+    <price_client>6.76</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162108520]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>865742</catalog_num>
+    <name><![CDATA[UNICORN 13 подложка за бюро картон]]></name>
+    <price>5.06</price>
+    <price_client>3.54</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130086542]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>86382</catalog_num>
+    <name><![CDATA[FROZEN 31 подложка за бюро картон]]></name>
+    <price>5.06</price>
+    <price_client>3.54</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130086382]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>87365</catalog_num>
+    <name><![CDATA[UNICORN 13 спортна торба]]></name>
+    <price>6.08</price>
+    <price_client>4.26</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130087365]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>87792</catalog_num>
+    <name><![CDATA[MINNIE 28 несесер с 1 цип, ПЪЛЕН]]></name>
+    <price>15.29</price>
+    <price_client>10.70</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130087792]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>486047</catalog_num>
+    <name><![CDATA[PAW PATROL несесер с 1 цип, ПЪЛЕН]]></name>
+    <price>15.33</price>
+    <price_client>10.73</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5904335823943]]></barcode>
+    <brand><![CDATA[Starpak]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>22952658</catalog_num>
+    <name><![CDATA[LIZZY CARD HAPPY RAINBOW несесер с програма]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416595266]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>SL97258</catalog_num>
+    <name><![CDATA[Таен дневник Derform Disney - Soy Luna, 3D, стикери]]></name>
+    <price>13.00</price>
+    <price_client>9.10</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8007822972586]]></barcode>
+    <brand><![CDATA[St.Majewski]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>SL97259</catalog_num>
+    <name><![CDATA[Таен дневник Derform Disney - Soy Luna, 3D]]></name>
+    <price>13.00</price>
+    <price_client>9.10</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8007822972593]]></barcode>
+    <brand><![CDATA[St.Majewski]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>3909</catalog_num>
+    <name><![CDATA[FINDING DORY комплект с печати 3 бр.]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8009233039094]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>471545</catalog_num>
+    <name><![CDATA[MINECRAFT стикери]]></name>
+    <price>0.97</price>
+    <price_client>0.68</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5908275170921]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP22CR-P001BW</catalog_num>
+    <name><![CDATA[PASO GAME 22 несесер с 1 цип]]></name>
+    <price>9.66</price>
+    <price_client>6.76</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162111650]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>SP22KK-081</catalog_num>
+    <name><![CDATA[PASO AVENGERS 22 ученическа раница]]></name>
+    <price>40.34</price>
+    <price_client>31.50</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162105642]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21876810</catalog_num>
+    <name><![CDATA[FORD MUSTANG SHELBY ергономична раница]]></name>
+    <price>86.41</price>
+    <price_client>60.49</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416587681]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>16372</catalog_num>
+    <name><![CDATA[LIZZY CARD Ford Mustang Shelby моливник]]></name>
+    <price>3.32</price>
+    <price_client>2.33</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416573202]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>16687</catalog_num>
+    <name><![CDATA[LIZZY CARD LITTLE FRIENDS папка с ластик]]></name>
+    <price>3.02</price>
+    <price_client>2.11</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416576951]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21897302</catalog_num>
+    <name><![CDATA[LIZZY CARD Cromix Decool - 520 ml, розова бутилка]]></name>
+    <price>12.73</price>
+    <price_client>8.91</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416589739]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21897201</catalog_num>
+    <name><![CDATA[LIZZY CARD Cromix Decool бутилка 520 ml, тюркоаз]]></name>
+    <price>12.73</price>
+    <price_client>8.91</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416589722]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21897504</catalog_num>
+    <name><![CDATA[LIZZY CARD Cromix Decool бутилка 520 ml, синя]]></name>
+    <price>12.73</price>
+    <price_client>8.91</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416589753]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21897403</catalog_num>
+    <name><![CDATA[LIZZY CARD Cromix Decool - 520 ml, розова лилава]]></name>
+    <price>12.73</price>
+    <price_client>8.91</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416589746]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
