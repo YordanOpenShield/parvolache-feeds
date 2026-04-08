@@ -63272,4 +63272,125 @@
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
+  <item>
+    <catalog_num>2500000680</catalog_num>
+    <name><![CDATA[TROLLS плажна чанта с очила]]></name>
+    <price>12.73</price>
+    <price_client>8.91</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8427934942350]]></barcode>
+    <brand><![CDATA[CERDA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>80604</catalog_num>
+    <name><![CDATA[Маша и мечока несесер с 1 цип, ПЪЛЕН]]></name>
+    <price>13.24</price>
+    <price_client>10.70</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130050604]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>50208</catalog_num>
+    <name><![CDATA[Маша и мечока несесер с 2 ципа]]></name>
+    <price>13.24</price>
+    <price_client>10.70</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130050208]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>44559</catalog_num>
+    <name><![CDATA[Ballete несесер с 2 ципа]]></name>
+    <price>13.24</price>
+    <price_client>10.70</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130044559]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>59577</catalog_num>
+    <name><![CDATA[BACKUP 2 B 32 несесер с 2 ципа Тъмносин водовъртеж]]></name>
+    <price>13.24</price>
+    <price_client>10.70</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130059577]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>60033</catalog_num>
+    <name><![CDATA[BACKUP 2 B 33 несесер с 2 ципа Колибри]]></name>
+    <price>13.24</price>
+    <price_client>10.70</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130060023]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56927</catalog_num>
+    <name><![CDATA[BACKUP T 28 цилиндричен несесер]]></name>
+    <price>7.11</price>
+    <price_client>4.97</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130056927]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56934</catalog_num>
+    <name><![CDATA[BACKUP T 30 цилиндричен несесер]]></name>
+    <price>7.11</price>
+    <price_client>4.97</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130056934]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56958</catalog_num>
+    <name><![CDATA[BACKUP T 34 цилиндричен несесер]]></name>
+    <price>7.11</price>
+    <price_client>4.97</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130056958]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>64342</catalog_num>
+    <name><![CDATA[BackUp 5 A 10 Color Stripe ученическа раница]]></name>
+    <price>45.50</price>
+    <price_client>31.85</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130064342]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>83015</catalog_num>
+    <name><![CDATA[BackUp 3 A 08 Dogs ученическа раница]]></name>
+    <price>45.50</price>
+    <price_client>31.85</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130083015]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
 </products>
