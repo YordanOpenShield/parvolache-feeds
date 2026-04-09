@@ -43320,12 +43320,12 @@
   </item>
   <item>
     <catalog_num>81264</catalog_num>
-    <name><![CDATA[CAPYBARA несесер]]></name>
-    <price>2.05</price>
-    <price_client>1.43</price_client>
-    <available>Не</available>
-    <barcode><![CDATA[4030969812648]]></barcode>
-    <brand><![CDATA[Capybara]]></brand>
+    <name><![CDATA[Спортна торба Derform Cleo&Frank - Woof woof, с кученца]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130081264]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -55079,11 +55079,11 @@
   </item>
   <item>
     <catalog_num>PJC-3670</catalog_num>
-    <name><![CDATA[Studio Pets плюшен дневник]]></name>
+    <name><![CDATA[Плюшен дневник Paso Studio Pets - Hello cutie, А5, 80 листа]]></name>
     <price>7.62</price>
     <price_client>5.33</price_client>
     <available>Да</available>
-    <barcode><![CDATA[5903162084497]]></barcode>
+    <barcode><![CDATA[5903162084480]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -61678,6 +61678,28 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>82186</catalog_num>
+    <name><![CDATA[Бутилка Derform - Dinosaur 15, черна, 330 ml]]></name>
+    <price>3.53</price>
+    <price_client>2.47</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130082186]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>82254</catalog_num>
+    <name><![CDATA[Кутия за храна Derform - Dinosaur 15, черна]]></name>
+    <price>3.83</price>
+    <price_client>2.68</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130082254]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>51359</catalog_num>
     <name><![CDATA[SPIDERMAN 10 бутилка]]></name>
     <price>6.60</price>
@@ -61706,6 +61728,17 @@
     <price_client>5.06</price_client>
     <available>Да</available>
     <barcode><![CDATA[5901130082223]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>76383</catalog_num>
+    <name><![CDATA[Бутилка Derform - Dinosaur 13, 330 ml]]></name>
+    <price>3.02</price>
+    <price_client>2.11</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130076383]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -62152,7 +62185,7 @@
   </item>
   <item>
     <catalog_num>83688</catalog_num>
-    <name><![CDATA[BackUp 4 A 38 спортна торба Aqua]]></name>
+    <name><![CDATA[BackUp 4 A 38 спортна торбаAqua]]></name>
     <price>5.06</price>
     <price_client>3.54</price_client>
     <available>Да</available>
@@ -62251,10 +62284,10 @@
   </item>
   <item>
     <catalog_num>83817</catalog_num>
-    <name><![CDATA[BackUp 4 A 68 спортна торба Pixels]]></name>
+    <name><![CDATA[BackUp 4 A 68 спортна торба  Pixels]]></name>
     <price>5.06</price>
     <price_client>3.54</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130083817]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -62263,8 +62296,8 @@
   <item>
     <catalog_num>83695</catalog_num>
     <name><![CDATA[BackUp 4 A 39 спортна торба Minnie Style]]></name>
-    <price>5.06</price>
-    <price_client>3.54</price_client>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
     <available>Да</available>
     <barcode><![CDATA[5901130083695]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
@@ -63731,6 +63764,1744 @@
     <available>Да</available>
     <barcode><![CDATA[5997416573240]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>167991</catalog_num>
+    <name><![CDATA[Тефтер Lizzy Card- Lama LOL, формат A7]]></name>
+    <price>0.61</price>
+    <price_client>0.43</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416577965]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>16689</catalog_num>
+    <name><![CDATA[Папка с ластик Lizzy Card A4 - Hello Panda, Lollipop]]></name>
+    <price>1.99</price>
+    <price_client>1.39</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416576937]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>16382</catalog_num>
+    <name><![CDATA[Годишен планер Lizzy Card - Hello Panda, Lollipop]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416573356]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>167992</catalog_num>
+    <name><![CDATA[Тефтер Lizzy Card - Hello Panda, формат A7]]></name>
+    <price>0.61</price>
+    <price_client>0.43</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416579785]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>16640</catalog_num>
+    <name><![CDATA[Кутия с ластик Lizzy Card A4 – Uni Cool Magic, Lollipop]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416576333]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>16692</catalog_num>
+    <name><![CDATA[Папка с ластик Lizzy Card A4 - Uni Cool Magic, Lollipop]]></name>
+    <price>1.99</price>
+    <price_client>1.39</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416576906]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>167993</catalog_num>
+    <name><![CDATA[Тефтер Lizzy Card - Uni Cool Magic, формат A7]]></name>
+    <price>0.61</price>
+    <price_client>0.43</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416577958]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>16879</catalog_num>
+    <name><![CDATA[Ученически несесер Lizzy Card - Peace Pixel, с 1 цип]]></name>
+    <price>8.64</price>
+    <price_client>6.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416578856]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>16793</catalog_num>
+    <name><![CDATA[Тефтер Lizzy Card - Ford Mustang GT, формат A7]]></name>
+    <price>0.61</price>
+    <price_client>0.43</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416577934]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>16711</catalog_num>
+    <name><![CDATA[Ученическа раница Lizzy Card – Wave  Good Vibes, Тeen]]></name>
+    <price>38.35</price>
+    <price_client>26.85</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416577606]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>18-3640HR</catalog_num>
+    <name><![CDATA[Таен дневник Paso Horse - 80 листа]]></name>
+    <price>4.04</price>
+    <price_client>2.83</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162053196]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PEG-3640</catalog_num>
+    <name><![CDATA[Таен дневник с катинар Paso Studio Pets –  Куче на ваканция]]></name>
+    <price>4.04</price>
+    <price_client>2.83</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162037974]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP19PS-3680</catalog_num>
+    <name><![CDATA[Тефтер с холограмен ефект Paso - A5, 96 листа]]></name>
+    <price>6.60</price>
+    <price_client>4.62</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162084558]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>63409</catalog_num>
+    <name><![CDATA[Раница Mitama PLus - Pink Flowers, с брокат + подарък шапка]]></name>
+    <price>45.97</price>
+    <price_client>32.18</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[1010000122281]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>63429</catalog_num>
+    <name><![CDATA[Раница Mitama - Color Touch, синьо и жълто, с подарък шапка]]></name>
+    <price>33.75</price>
+    <price_client>23.63</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[1010000224589]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>61905</catalog_num>
+    <name><![CDATA[Класьор с 4 ринга Mitama Girl, асортимент]]></name>
+    <price>4.55</price>
+    <price_client>3.19</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[1010000134369]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>73443</catalog_num>
+    <name><![CDATA[Раница за детска градина BackUp - Blue Cat]]></name>
+    <price>16.62</price>
+    <price_client>11.63</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130073443]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>18-3670HR</catalog_num>
+    <name><![CDATA[Плюшен дневник Paso Horse, А5, 80 листа]]></name>
+    <price>8.13</price>
+    <price_client>5.69</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162053189]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21885556</catalog_num>
+    <name><![CDATA[Несесер Lizzy Card - Lollipop It's all good, с 1 цип]]></name>
+    <price>8.13</price>
+    <price_client>5.69</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416588558]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21852053</catalog_num>
+    <name><![CDATA[Бутилка от тритан Lizzy Card - It's all good, 600 ml]]></name>
+    <price>11.71</price>
+    <price_client>8.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416585205]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>17825</catalog_num>
+    <name><![CDATA[Тефтерче А7 Lizzy Card - Lollipop It's all good]]></name>
+    <price>0.72</price>
+    <price_client>0.50</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416588077]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21883452</catalog_num>
+    <name><![CDATA[Несесер Lizzy Card - Lollipop Raccoon, с 2 ципа]]></name>
+    <price>11.25</price>
+    <price_client>7.88</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416588343]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21851952</catalog_num>
+    <name><![CDATA[Бутилка от тритан Lizzy Card - Lollipop Raccoon Sweetie, 600 ml]]></name>
+    <price>11.71</price>
+    <price_client>8.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416585199]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>17539</catalog_num>
+    <name><![CDATA[Таен дневник с катинар A5 Lizzy Card - Lollipop Raccoon Sweetie]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416585465]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>17828</catalog_num>
+    <name><![CDATA[Тефтерче А7 Lizzy Card - Lollipop Raccoon Sweetie]]></name>
+    <price>0.72</price>
+    <price_client>0.50</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416588107]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21875152</catalog_num>
+    <name><![CDATA[Папка с ластик А4 Lizzy Card - Lollipop Raccoon Sweetie]]></name>
+    <price>2.30</price>
+    <price_client>1.61</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416587513]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>2187395</catalog_num>
+    <name><![CDATA[Ученически етикети Lizzy Card - Lollipop Raccoon, 12 броя]]></name>
+    <price>0.61</price>
+    <price_client>0.43</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416587391]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21885655</catalog_num>
+    <name><![CDATA[Несесер Lizzy Card - Lollipop Pandacorn, с 1 цип]]></name>
+    <price>8.13</price>
+    <price_client>5.69</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416588565]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21852255</catalog_num>
+    <name><![CDATA[Бутилка от тритан Lizzy Card - Lollipop Pandacorn, 600 ml]]></name>
+    <price>11.71</price>
+    <price_client>8.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416585229]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21852154</catalog_num>
+    <name><![CDATA[Бутилка от тритан Lizzy Card - Lollipop Pop, 600 ml]]></name>
+    <price>11.71</price>
+    <price_client>8.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416585212]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>17827</catalog_num>
+    <name><![CDATA[Тефтерче А7 Lizzy Card - Lollipop Pop]]></name>
+    <price>0.77</price>
+    <price_client>0.54</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416588091]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21871654</catalog_num>
+    <name><![CDATA[Кутия с ластик Lizzy Card - Lollipop Pop]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416587162]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21875054</catalog_num>
+    <name><![CDATA[Папка с ластик А4 Lizzy Card - Lollipop Pop]]></name>
+    <price>2.30</price>
+    <price_client>1.61</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416587506]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21877501</catalog_num>
+    <name><![CDATA[Ергономична раница Lizzy Card - We Love Dogs Premium]]></name>
+    <price>71.07</price>
+    <price_client>49.75</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416587759]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21885901</catalog_num>
+    <name><![CDATA[Несесер Lizzy Card - We love dogs, с 1 цип]]></name>
+    <price>8.13</price>
+    <price_client>5.69</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416588596]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21894401</catalog_num>
+    <name><![CDATA[Бутилка от тритан Lizzy Card - We love dogs, 600 ml]]></name>
+    <price>11.71</price>
+    <price_client>8.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416589449]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21875201</catalog_num>
+    <name><![CDATA[Папка с ластик А4 Lizzy Card - We love dogs]]></name>
+    <price>2.30</price>
+    <price_client>1.61</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416587520]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21874001</catalog_num>
+    <name><![CDATA[Ученически етикети Lizzy Card We Love Dogs - 12 броя]]></name>
+    <price>1.02</price>
+    <price_client>0.71</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416587407]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21883608</catalog_num>
+    <name><![CDATA[Несесер Lizzy Card - Wild Beauty Rose, с 2 ципа]]></name>
+    <price>11.25</price>
+    <price_client>7.88</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416588367]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21852307</catalog_num>
+    <name><![CDATA[Бутилка от тритан Lizzy Card - Wild Beauty Rose, 600 ml]]></name>
+    <price>11.71</price>
+    <price_client>8.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416585236]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21875308</catalog_num>
+    <name><![CDATA[Папка с ластик А4 Lizzy Card - Wild Beauty Rose]]></name>
+    <price>2.30</price>
+    <price_client>1.61</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416587537]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21877101</catalog_num>
+    <name><![CDATA[Ергономична раница Lizzy Card - Supercomics Bazinga Premium]]></name>
+    <price>71.07</price>
+    <price_client>49.75</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416587711]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21885301</catalog_num>
+    <name><![CDATA[Несесер Lizzy Card - Supercomics Bazingra, с 1 ципа]]></name>
+    <price>8.13</price>
+    <price_client>5.69</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416588534]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21886401</catalog_num>
+    <name><![CDATA[Овален несесер Lizzy Card - Supercocomics Comfort]]></name>
+    <price>9.15</price>
+    <price_client>6.41</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416588640]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21852401</catalog_num>
+    <name><![CDATA[Бутилка от тритан Lizzy Card - Supercomics Bazinga, 600 ml]]></name>
+    <price>11.71</price>
+    <price_client>8.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416585243]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21874601</catalog_num>
+    <name><![CDATA[Папка с ластик А4 Lizzy Card - Supercomics Bazinga]]></name>
+    <price>2.30</price>
+    <price_client>1.61</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416587469]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21886510</catalog_num>
+    <name><![CDATA[Овален несесер Lizzy Card - Comfort Xcited Street]]></name>
+    <price>9.15</price>
+    <price_client>6.41</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416588657]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21871310</catalog_num>
+    <name><![CDATA[Кутия с ластик Lizzy Card - Xcited Street]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416587131]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21874710</catalog_num>
+    <name><![CDATA[Папка с ластик А4 Lizzy Card - Xcited Street]]></name>
+    <price>2.30</price>
+    <price_client>1.61</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416587476]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21871108</catalog_num>
+    <name><![CDATA[Папка с ластик Lizzy Card - Tango Mike]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416587117]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21874508</catalog_num>
+    <name><![CDATA[Папка с ластик A4 Lizzy Card - Xcited Street]]></name>
+    <price>2.30</price>
+    <price_client>1.61</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416587452]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21873608</catalog_num>
+    <name><![CDATA[Ученически етикети Lizzy Card - Peace Alpha, 12 броя]]></name>
+    <price>0.61</price>
+    <price_client>0.43</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416587360]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21874311</catalog_num>
+    <name><![CDATA[Папка с ластик А4 Lizzy Card - Ford GT Silver]]></name>
+    <price>2.81</price>
+    <price_client>1.97</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416587438]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21873511</catalog_num>
+    <name><![CDATA[Ученически етикети Lizzy Card - Ford GT Silver, 12 броя]]></name>
+    <price>0.72</price>
+    <price_client>0.50</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416587353]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21885010</catalog_num>
+    <name><![CDATA[Овален несесер Lizzy Card Ford Mustang Shelby, с 1 цип]]></name>
+    <price>8.64</price>
+    <price_client>6.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416588503]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21886110</catalog_num>
+    <name><![CDATA[Овален несесер Lizzy Card Comfort - Ford Mustang Shelby]]></name>
+    <price>11.71</price>
+    <price_client>8.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416588619]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>17824</catalog_num>
+    <name><![CDATA[Тефтер А7 Lizzy Card - Ford Mustang Shelby]]></name>
+    <price>0.72</price>
+    <price_client>0.50</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416588053]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21878509</catalog_num>
+    <name><![CDATA[Ученическа раница Lizzy Card - Ford Fashion]]></name>
+    <price>49.08</price>
+    <price_client>34.36</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416587858]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21875709</catalog_num>
+    <name><![CDATA[Папка с ластик А4 Lizzy Card - Ford Fashion]]></name>
+    <price>3.02</price>
+    <price_client>2.11</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416587575]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21878411</catalog_num>
+    <name><![CDATA[Ученическа раница Lizzy Card - Good vibes beach teen]]></name>
+    <price>39.32</price>
+    <price_client>27.52</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416587841]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21887411</catalog_num>
+    <name><![CDATA[Овален несесер Lizzy Card - Good Vibes Beach]]></name>
+    <price>8.13</price>
+    <price_client>5.69</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416588749]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21852711</catalog_num>
+    <name><![CDATA[Бутилка от тритан Lizzy Card - Good vibes beach, 600 ml]]></name>
+    <price>11.71</price>
+    <price_client>8.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416585274]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21875611</catalog_num>
+    <name><![CDATA[Папка с ластик A4 Lizzy Card - Good vibes beach]]></name>
+    <price>2.30</price>
+    <price_client>1.61</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416587568]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21886966</catalog_num>
+    <name><![CDATA[Овален несесер Lizzy Card Comfort - Cornell Pink]]></name>
+    <price>9.15</price>
+    <price_client>6.41</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416588695]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>21875466</catalog_num>
+    <name><![CDATA[Папка с ластик А4 Lizzy Card - Cornell Pink Link]]></name>
+    <price>2.30</price>
+    <price_client>1.61</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416587544]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>20806901</catalog_num>
+    <name><![CDATA[Несесер Cielo azul - Frida Kahlo, с 1 цип]]></name>
+    <price>8.64</price>
+    <price_client>6.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416580699]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>20806201</catalog_num>
+    <name><![CDATA[Кутия с ластик Lizzy Card - Frida Cahlo cielo azul]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416580620]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>20806302</catalog_num>
+    <name><![CDATA[Кутия с ластик Lizzy Card - Frida Cahlo Purpura]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416580637]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>20806401</catalog_num>
+    <name><![CDATA[Папка с ластик A4 Lizzy Card - Frida Kahlo Cielo azul]]></name>
+    <price>2.30</price>
+    <price_client>1.61</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416580644]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>20806502</catalog_num>
+    <name><![CDATA[Папка с ластик A4 Lizzy Card - Frida Kahlo Purpura]]></name>
+    <price>2.30</price>
+    <price_client>1.61</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997416580651]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>82780</catalog_num>
+    <name><![CDATA[BackUp  A 53 Hexagons овален несесер]]></name>
+    <price>8.13</price>
+    <price_client>5.69</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130082780]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>83848</catalog_num>
+    <name><![CDATA[Кутия за храна BackUp  - Aqua]]></name>
+    <price>6.13</price>
+    <price_client>4.29</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130083848]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>80786</catalog_num>
+    <name><![CDATA[Овален ученически несесер Derform Cleo&Frank 28 - С куче, с 1 цип]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130080786]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>80748</catalog_num>
+    <name><![CDATA[Ученически несесер Derform Cleo&Frank 28 - Куче, с 1 цип]]></name>
+    <price>8.13</price>
+    <price_client>5.69</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130080748]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>82162</catalog_num>
+    <name><![CDATA[Бутилка Derform Cleo&Frank 30 - Коте, синя, 330 ml]]></name>
+    <price>3.53</price>
+    <price_client>2.47</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130082162]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>81295</catalog_num>
+    <name><![CDATA[Спортна торба Derform Cleo&Frank 31 - Hello Cute]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130081295]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>80809</catalog_num>
+    <name><![CDATA[Овален ученически несесер Derform - Robot, с 1 цип]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130080809]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>81950</catalog_num>
+    <name><![CDATA[Подложка за бюро Derform - Robot, картон]]></name>
+    <price>5.06</price>
+    <price_client>3.54</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130081950]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>82377</catalog_num>
+    <name><![CDATA[Кутия за храна Derform BackUp - Happy Panda]]></name>
+    <price>3.83</price>
+    <price_client>2.68</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130082377]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>82391</catalog_num>
+    <name><![CDATA[Кутия за храна Derform BackUp - Military]]></name>
+    <price>3.83</price>
+    <price_client>2.68</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130082391]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>82360</catalog_num>
+    <name><![CDATA[Бутилка Derform - Space, 330 ml]]></name>
+    <price>3.53</price>
+    <price_client>2.47</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130082360]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>82407</catalog_num>
+    <name><![CDATA[Кутия за храна Derform BackUp - Space, синя]]></name>
+    <price>3.83</price>
+    <price_client>2.68</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130082407]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>81059</catalog_num>
+    <name><![CDATA[Ученическа раница Derform - Dinosaur 15, с 2 отделения]]></name>
+    <price>33.69</price>
+    <price_client>23.58</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130081059]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>82193</catalog_num>
+    <name><![CDATA[Бутилка Derform - Football 16, тъмносиня, 330 ml]]></name>
+    <price>3.53</price>
+    <price_client>2.47</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130082193]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>75812</catalog_num>
+    <name><![CDATA[Несесер с ученически пособия Derform - Unicorn, с 2 ципа]]></name>
+    <price>17.84</price>
+    <price_client>12.49</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130075812]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>76987</catalog_num>
+    <name><![CDATA[Касичка с катинар Derform - Sweet Dreams, Unicorn 12]]></name>
+    <price>3.53</price>
+    <price_client>2.47</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130076987]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>76390</catalog_num>
+    <name><![CDATA[Бутилка Derform - Unicorn 12, 330 ml]]></name>
+    <price>3.02</price>
+    <price_client>2.11</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130076390]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>75690</catalog_num>
+    <name><![CDATA[Ученически несесер Derform Cleo&Frank 23 - Розов, с 2 ципа]]></name>
+    <price>12.22</price>
+    <price_client>8.55</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130075690]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>75874</catalog_num>
+    <name><![CDATA[Несесер с пособия Derform Cleo & Frank 23 - С 1 цип]]></name>
+    <price>11.71</price>
+    <price_client>8.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130075874]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>76864</catalog_num>
+    <name><![CDATA[Портмоне Derform Cleo&Frank 24 - С кученца]]></name>
+    <price>3.53</price>
+    <price_client>2.47</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130076864]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>76437</catalog_num>
+    <name><![CDATA[Бутилка Derform - Football 15, 330 ml]]></name>
+    <price>3.02</price>
+    <price_client>2.11</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130076437]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>38367</catalog_num>
+    <name><![CDATA[Ученически несесер KAOS -  ZARA MAXI овален несесер]]></name>
+    <price>11.25</price>
+    <price_client>7.88</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830052864490]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>520-1410</catalog_num>
+    <name><![CDATA[Раница за детска градина Paw Patrol - Чейс, 3D]]></name>
+    <price>16.82</price>
+    <price_client>11.77</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8712645277861]]></barcode>
+    <brand><![CDATA[Vadobag]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>520-1411</catalog_num>
+    <name><![CDATA[Раница за детска градина Paw Patrol - Маршал, 3D]]></name>
+    <price>16.82</price>
+    <price_client>11.77</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8712645277878]]></barcode>
+    <brand><![CDATA[Vadobag]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>80168</catalog_num>
+    <name><![CDATA[Магическа LED неонова дъска Kidea - синя, за 3D изображения]]></name>
+    <price>12.73</price>
+    <price_client>8.91</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130080168.6]]></barcode>
+    <brand><![CDATA[KIDEA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>85804</catalog_num>
+    <name><![CDATA[Книжка за оцветяване Derform - Кученце]]></name>
+    <price>4.04</price>
+    <price_client>2.83</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130085804]]></barcode>
+    <brand><![CDATA[KIDEA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>85828</catalog_num>
+    <name><![CDATA[Книжка за оцветяване Derform - Еднорог]]></name>
+    <price>4.04</price>
+    <price_client>2.83</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130085828]]></barcode>
+    <brand><![CDATA[KIDEA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>90341</catalog_num>
+    <name><![CDATA[Бутилка за вода BackUp - сива, 400 ml]]></name>
+    <price>8.13</price>
+    <price_client>5.69</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130090341]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>90372</catalog_num>
+    <name><![CDATA[Бутилка за вода BackUp -  Мента, 400 ml]]></name>
+    <price>8.13</price>
+    <price_client>5.69</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130090372]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>83855</catalog_num>
+    <name><![CDATA[Кутия за храна BackUp - Розова]]></name>
+    <price>6.08</price>
+    <price_client>4.26</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130083855]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>83824</catalog_num>
+    <name><![CDATA[Кутия за храна BackUp - Сива]]></name>
+    <price>6.08</price>
+    <price_client>4.26</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130083824]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>52233</catalog_num>
+    <name><![CDATA[Спортна торба Frozen - Elsa & Anna]]></name>
+    <price>6.08</price>
+    <price_client>4.26</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130052233]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>66766</catalog_num>
+    <name><![CDATA[Ученически несесер Derform Minnie Mouse - с 2 ципа]]></name>
+    <price>15.29</price>
+    <price_client>10.70</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130066766]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>66797</catalog_num>
+    <name><![CDATA[Ученически несесер с пособия  Derform Minnie Mouse - с 2 ципа]]></name>
+    <price>18.36</price>
+    <price_client>12.85</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130066797]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>66841</catalog_num>
+    <name><![CDATA[Портмоне за врат Derform Minnie Mouse - Spring Palms]]></name>
+    <price>7.11</price>
+    <price_client>4.98</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130066841]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>66742</catalog_num>
+    <name><![CDATA[Бутилка Derform Minnie Mouse - Spring Palms, 330 ml]]></name>
+    <price>4.04</price>
+    <price_client>2.83</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130066742]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>66780</catalog_num>
+    <name><![CDATA[Цилиндричен ученически несесер Derform Minnie Mouse - с 1 цип]]></name>
+    <price>7.62</price>
+    <price_client>5.33</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130066780]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>67411</catalog_num>
+    <name><![CDATA[Ергономична раница Derform Cleo&Frank - Кученца]]></name>
+    <price>50.62</price>
+    <price_client>35.43</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130067411]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>67190</catalog_num>
+    <name><![CDATA[Овален ученически несесер Derform Cleo&Frank - Коте, с 1 цип]]></name>
+    <price>7.62</price>
+    <price_client>5.33</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130067190]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>67299</catalog_num>
+    <name><![CDATA[Несесер с пособия Derform Cleo & Frank 20 - На 2 нива]]></name>
+    <price>18.87</price>
+    <price_client>13.21</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130067299]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>46812</catalog_num>
+    <name><![CDATA[Органайзер за бюро Derform Avengers - 3 отделения]]></name>
+    <price>3.53</price>
+    <price_client>2.47</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130046812]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>46072</catalog_num>
+    <name><![CDATA[Автоматична химикалка Derform Avengers , асортимент]]></name>
+    <price>1.28</price>
+    <price_client>0.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130046072]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>36233</catalog_num>
+    <name><![CDATA[Автоматична химикалка Derform - Cars, синя]]></name>
+    <price>1.28</price>
+    <price_client>0.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130036233]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>51625</catalog_num>
+    <name><![CDATA[Ученически несесер Derform - Cars 3, с 2 ципа]]></name>
+    <price>17.33</price>
+    <price_client>12.13</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130051625]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>89406</catalog_num>
+    <name><![CDATA[BackUp 4 X 62 Icons ученическа раница]]></name>
+    <price>40.34</price>
+    <price_client>28.24</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130089406]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>89307</catalog_num>
+    <name><![CDATA[BackUp 4 P 77 Kitty ученическа раница]]></name>
+    <price>42.39</price>
+    <price_client>29.67</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130089307]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>88997</catalog_num>
+    <name><![CDATA[BackUp 4 SW 77 Kitty несесер с 1 цип]]></name>
+    <price>11.71</price>
+    <price_client>8.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130088997]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>82841</catalog_num>
+    <name><![CDATA[BackUp 4 А 68 Pixel овален несесер]]></name>
+    <price>9.66</price>
+    <price_client>6.76</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130082841]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>88638</catalog_num>
+    <name><![CDATA[BackUp 4 A 95 Waves овален несесер]]></name>
+    <price>9.66</price>
+    <price_client>6.76</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130088638]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>88591</catalog_num>
+    <name><![CDATA[BackUp 4 A 87 Dots овален несесер]]></name>
+    <price>9.66</price>
+    <price_client>6.76</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130088591]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>88546</catalog_num>
+    <name><![CDATA[BackUp 4 A 81 овален несесер Leaves]]></name>
+    <price>9.66</price>
+    <price_client>6.76</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130088546]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>88515</catalog_num>
+    <name><![CDATA[BackUp 4 A 77 овален несесер Kitty]]></name>
+    <price>9.66</price>
+    <price_client>6.76</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130088515]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>88492</catalog_num>
+    <name><![CDATA[BackUp 4 A 75 овален несесер Purple spirals]]></name>
+    <price>9.66</price>
+    <price_client>6.76</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130088492]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>88454</catalog_num>
+    <name><![CDATA[BackUp 4 A 67 овален несесер Explosion]]></name>
+    <price>9.66</price>
+    <price_client>6.76</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130088454]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>88447</catalog_num>
+    <name><![CDATA[BackUp 4 A 66 овален несесер Pastel face]]></name>
+    <price>9.66</price>
+    <price_client>6.76</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130088447]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>88430</catalog_num>
+    <name><![CDATA[BackUp 4 A 65 овален несесер Harry's magic]]></name>
+    <price>9.66</price>
+    <price_client>6.76</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130088430]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>88416</catalog_num>
+    <name><![CDATA[BackUp 4 A 62 овален несесер Icons]]></name>
+    <price>9.66</price>
+    <price_client>6.76</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130088416]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>88409</catalog_num>
+    <name><![CDATA[BackUp 4 A 61 овален несесер Gamer]]></name>
+    <price>9.66</price>
+    <price_client>6.76</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130088409]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>88355</catalog_num>
+    <name><![CDATA[BackUp 4 A 114 овален несесер Black dinosaurs]]></name>
+    <price>9.66</price>
+    <price_client>6.76</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130088355]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>88331</catalog_num>
+    <name><![CDATA[BackUp 4 A 112 овален несесер Lawa]]></name>
+    <price>9.66</price>
+    <price_client>6.76</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130088331]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>88270</catalog_num>
+    <name><![CDATA[BackUp 4 A 101 овален несесер  Antique Green]]></name>
+    <price>9.66</price>
+    <price_client>6.76</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130088270]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>82476</catalog_num>
+    <name><![CDATA[BackUp 4 A 03 овален несесер  Wings]]></name>
+    <price>9.66</price>
+    <price_client>6.76</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130082476]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>89826</catalog_num>
+    <name><![CDATA[BackUp 4 A 94 спортна торба Skate]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130089826]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>89789</catalog_num>
+    <name><![CDATA[BackUp 4 A 82 спортна торба  Ballerina]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130089789]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>89772</catalog_num>
+    <name><![CDATA[BackUp 4 A 77 спортна торба  Kitty]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130089772]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>89734</catalog_num>
+    <name><![CDATA[BackUp 4 A 67 спортна торба  Explosion]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130089734]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>89710</catalog_num>
+    <name><![CDATA[BackUp 4 A 62 спортна торба  Icons]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130089710]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>89642</catalog_num>
+    <name><![CDATA[BackUp 4 A 113 спортна торба  Dinosaurs]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130089642]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>89598</catalog_num>
+    <name><![CDATA[BackUp 4 A 101 спортна торба  Antique Green]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130089598]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>483627</catalog_num>
+    <name><![CDATA[Портмоне Starpak - Пес патрул, с клипс]]></name>
+    <price>10.17</price>
+    <price_client>7.12</price_client>
+    <available>Не</available>
+    <barcode><![CDATA[5904335820324]]></barcode>
+    <brand><![CDATA[Starpak]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>447904</catalog_num>
+    <name><![CDATA[Комплект бутилка и кутия за храна Starpak - Пес патрул, син]]></name>
+    <price>10.17</price>
+    <price_client>7.12</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903246495454]]></barcode>
+    <brand><![CDATA[Starpak]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>447905</catalog_num>
+    <name><![CDATA[Комплект бутилка и кутия за храна Starpak - Пес патрул, розов]]></name>
+    <price>10.17</price>
+    <price_client>7.12</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903246495461]]></barcode>
+    <brand><![CDATA[Starpak]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>864620</catalog_num>
+    <name><![CDATA[Престилка за рисуване Starpak - Пес патрул]]></name>
+    <price>13.75</price>
+    <price_client>9.63</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5904335820997]]></barcode>
+    <brand><![CDATA[Starpak]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>363512</catalog_num>
+    <name><![CDATA[Боички за стъкло Starpak - Пес Патрул, 6 цвята]]></name>
+    <price>8.08</price>
+    <price_client>5.66</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5902012791431]]></barcode>
+    <brand><![CDATA[Starpak]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>352977</catalog_num>
+    <name><![CDATA[Блок за рисуване Starpak -  Пес Патрул, 10 листа, офсетов картон, асортимент]]></name>
+    <price>1.48</price>
+    <price_client>1.04</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5902012771259]]></barcode>
+    <brand><![CDATA[Starpak]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>453608</catalog_num>
+    <name><![CDATA[Несесер за оцветяване Starpak - Пес Патрул, 6 броя флумастери]]></name>
+    <price>6.60</price>
+    <price_client>4.62</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903246499759]]></barcode>
+    <brand><![CDATA[Starpak]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>62563</catalog_num>
+    <name><![CDATA[Химикалка Mitama - Sferix, 1 mm, 4 цвята, 10 + 10 броя]]></name>
+    <price>6.60</price>
+    <price_client>4.62</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8026624625636]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>62033</catalog_num>
+    <name><![CDATA[Кутия с ластик Mitama - 3 cm, металикови цветове, асортимент]]></name>
+    <price>5.57</price>
+    <price_client>3.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8026624620334]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>62034</catalog_num>
+    <name><![CDATA[Кутия с ластик Mitama - 5 cm, металикови цветове, асортимент]]></name>
+    <price>6.60</price>
+    <price_client>4.62</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8026624620341]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>62039</catalog_num>
+    <name><![CDATA[Кутия с ластик Mitama - 8 cm, металикови цветове, асортимент]]></name>
+    <price>8.64</price>
+    <price_client>6.05</price_client>
+    <available>Не</available>
+    <barcode><![CDATA[8026624620396]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>62800</catalog_num>
+    <name><![CDATA[Изтриваеми химикалки с гумичка Mitama - Goody, сини]]></name>
+    <price>4.04</price>
+    <price_client>2.83</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8026624628002]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>62808</catalog_num>
+    <name><![CDATA[Пълнители за изтриваема химикалка Mitama Goody - с гума, 3 броя, сини]]></name>
+    <price>4.55</price>
+    <price_client>3.19</price_client>
+    <available>Не</available>
+    <barcode><![CDATA[8026624628088]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>61991</catalog_num>
+    <name><![CDATA[Цветни моливи Mitama - 12 цвята]]></name>
+    <price>3.53</price>
+    <price_client>2.47</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8026624619918]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>61992</catalog_num>
+    <name><![CDATA[Цветни моливи Mitama - 24 цвята]]></name>
+    <price>7.11</price>
+    <price_client>4.98</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8026624619925]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>62172</catalog_num>
+    <name><![CDATA[Тетрадка Mitama Color Touch - A4, широки редове, 52+2 листа, асортимент]]></name>
+    <price>3.02</price>
+    <price_client>2.11</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8026624621720]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>2357</catalog_num>
+    <name><![CDATA[Тетрадка Mitama Fantasy - A4, широки редове, 40+2 листа, асортимент]]></name>
+    <price>2.05</price>
+    <price_client>1.44</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8026624023579]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>62163</catalog_num>
+    <name><![CDATA[Тетрадка Mitama Fantasy - A4, широки редове, 52+2 листа, асортимент]]></name>
+    <price>3.02</price>
+    <price_client>2.11</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[1010000234076.8]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>62164</catalog_num>
+    <name><![CDATA[Тетрадка Mitama Fantasy - A4, малки квадратчета, 52+2 листа, асортимент]]></name>
+    <price>3.02</price>
+    <price_client>2.11</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8026624621645]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
