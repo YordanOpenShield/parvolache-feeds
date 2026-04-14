@@ -35029,7 +35029,7 @@
     <name><![CDATA[Химикалка с гума Space Life]]></name>
     <price>2.05</price>
     <price_client>1.43</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Colorino]]></brand>
     <category></category>
@@ -35084,7 +35084,7 @@
     <name><![CDATA[Химикалка с гума Minnie/Mickey]]></name>
     <price>2.05</price>
     <price_client>1.46</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Colorino]]></brand>
     <category></category>
@@ -35128,7 +35128,7 @@
     <name><![CDATA[Химикалка с гума Jelly Heads]]></name>
     <price>2.05</price>
     <price_client>1.43</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Colorino]]></brand>
     <category></category>
@@ -35139,7 +35139,7 @@
     <name><![CDATA[Химикалка с гума Dogs]]></name>
     <price>2.05</price>
     <price_client>1.43</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Colorino]]></brand>
     <category></category>
@@ -35251,6 +35251,17 @@
     <price_client>1.46</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[Colorino]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>54908PTR</catalog_num>
+    <name><![CDATA[Химикалка с гума Stitch 2024]]></name>
+    <price>2.05</price>
+    <price_client>1.46</price_client>
+    <available>Не</available>
+    <barcode><![CDATA[5903686354908]]></barcode>
     <brand><![CDATA[Colorino]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -38538,7 +38549,7 @@
     <name><![CDATA[Химикал с гума CARS]]></name>
     <price>2.05</price>
     <price_client>1.46</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903686378263]]></barcode>
     <brand><![CDATA[Colorino]]></brand>
     <category></category>
