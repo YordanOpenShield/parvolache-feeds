@@ -63783,7 +63783,7 @@
     <name><![CDATA[Папка с ластик Lizzy Card A4 - Hello Panda, Lollipop]]></name>
     <price>1.99</price>
     <price_client>1.39</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5997416576937]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -65501,6 +65501,17 @@
     <price_client>2.11</price_client>
     <available>Да</available>
     <barcode><![CDATA[8026624621645]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>61905-1</catalog_num>
+    <name><![CDATA[Класьор с 4 ринга Mitama Boy, асортимент]]></name>
+    <price>4.55</price>
+    <price_client>3.19</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8026624619055]]></barcode>
     <brand><![CDATA[MITAMA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
