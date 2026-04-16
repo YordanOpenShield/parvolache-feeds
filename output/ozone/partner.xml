@@ -28755,7 +28755,7 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
-    <catalog_num>74945</catalog_num>
+    <catalog_num>84630</catalog_num>
     <name><![CDATA[PIXEL подложка за бюро картон]]></name>
     <price>5.06</price>
     <price_client>3.54</price_client>
@@ -62954,7 +62954,7 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
-    <catalog_num>865742</catalog_num>
+    <catalog_num>86574</catalog_num>
     <name><![CDATA[UNICORN 13 подложка за бюро картон]]></name>
     <price>5.06</price>
     <price_client>3.54</price_client>
@@ -65677,6 +65677,28 @@
     <price_client>1.40</price_client>
     <available>Да</available>
     <barcode><![CDATA[5906601713255]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>713361</catalog_num>
+    <name><![CDATA[SUPER MARIO папка с ластик]]></name>
+    <price>2.00</price>
+    <price_client>1.40</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601713361]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>713293</catalog_num>
+    <name><![CDATA[CAPYBARA 10 папка с ластик]]></name>
+    <price>2.00</price>
+    <price_client>1.40</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601713293]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
