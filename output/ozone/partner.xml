@@ -43390,7 +43390,7 @@
     <price>7.11</price>
     <price_client>4.97</price_client>
     <available>Да</available>
-    <barcode><![CDATA[8445484004731]]></barcode>
+    <barcode><![CDATA[8427934521036]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -61568,7 +61568,7 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
-    <catalog_num>21854554</catalog_num>
+    <catalog_num>17538</catalog_num>
     <name><![CDATA[Lollipop Pop таен дневник]]></name>
     <price>6.60</price>
     <price_client>4.62</price_client>
@@ -62657,7 +62657,7 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
-    <catalog_num>PP22TT-074</catalog_num>
+    <catalog_num>AV22TT-074</catalog_num>
     <name><![CDATA[PASO IRON MAN  спортна чанта]]></name>
     <price>20.40</price>
     <price_client>14.28</price_client>
@@ -62668,7 +62668,7 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
-    <catalog_num>PP22TT-P001</catalog_num>
+    <catalog_num>AV22TT-P001</catalog_num>
     <name><![CDATA[PASO IRON MAN несесер с 1 цип, ПЪЛЕН]]></name>
     <price>17.84</price>
     <price_client>12.49</price_client>
@@ -62943,7 +62943,7 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
-    <catalog_num>PP22TT-P001BW</catalog_num>
+    <catalog_num>AV22TT-P001BW</catalog_num>
     <name><![CDATA[PASO IRON MAN несесер с 1 цип]]></name>
     <price>9.66</price>
     <price_client>6.76</price_client>
@@ -63328,7 +63328,7 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
-    <catalog_num>80604</catalog_num>
+    <catalog_num>50604</catalog_num>
     <name><![CDATA[Маша и мечока несесер с 1 цип, ПЪЛЕН]]></name>
     <price>13.24</price>
     <price_client>10.70</price_client>
@@ -63372,7 +63372,7 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
-    <catalog_num>60033</catalog_num>
+    <catalog_num>60023</catalog_num>
     <name><![CDATA[BACKUP 2 B 33 несесер с 2 ципа Колибри]]></name>
     <price>13.24</price>
     <price_client>10.70</price_client>
@@ -65898,6 +65898,17 @@
     <available>Да</available>
     <barcode><![CDATA[5906601713613]]></barcode>
     <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>85286</catalog_num>
+    <name><![CDATA[UNICORN таблет за рисуване с LCD дисплей]]></name>
+    <price>11.71</price>
+    <price_client>8.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130085286]]></barcode>
+    <brand><![CDATA[KIDEA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
