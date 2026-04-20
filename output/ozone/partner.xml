@@ -13239,7 +13239,7 @@
     <price>1.79</price>
     <price_client>1.79</price_client>
     <available>Да</available>
-    <barcode><![CDATA[5903162122380]]></barcode>
+    <barcode><![CDATA[5903162122410]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -15688,22 +15688,22 @@
   </item>
   <item>
     <catalog_num>DM23MM-3535D-2</catalog_num>
-    <name><![CDATA[PASO DISNEY химикалка]]></name>
+    <name><![CDATA[PASO DISNEY Minnie Pink химикалка]]></name>
     <price>1.79</price>
     <price_client>1.79</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5903162122427]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
     <catalog_num>DM23MM-3535D-3</catalog_num>
-    <name><![CDATA[PASO DISNEY Stitch химикалка]]></name>
+    <name><![CDATA[PASO DISNEY Stitch Aloha химикалка]]></name>
     <price>1.79</price>
     <price_client>1.79</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5903162122441]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -15714,7 +15714,7 @@
     <price>1.79</price>
     <price_client>1.79</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5903162122434]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -15725,18 +15725,18 @@
     <price>1.79</price>
     <price_client>1.79</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5903162122403]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
     <catalog_num>DM23MM-3535D-6</catalog_num>
-    <name><![CDATA[PASO DISNEY Frozen химикалка]]></name>
+    <name><![CDATA[PASO DISNEY Frozen Sisters химикалка]]></name>
     <price>1.79</price>
     <price_client>1.79</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5903162122397]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -57608,7 +57608,7 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
-    <catalog_num>171307</catalog_num>
+    <catalog_num>STR1307</catalog_num>
     <name><![CDATA[PEPPA PIG блок за рисуване А4]]></name>
     <price>1.53</price>
     <price_client>1.07</price_client>
@@ -60886,7 +60886,7 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
-    <catalog_num>606776</catalog_num>
+    <catalog_num>606786</catalog_num>
     <name><![CDATA[BAMBINO Flowers несесер с 1 цип]]></name>
     <price>8.64</price>
     <price_client>6.41</price_client>
@@ -60930,7 +60930,7 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
-    <catalog_num>644643</catalog_num>
+    <catalog_num>611643</catalog_num>
     <name><![CDATA[BAMBINO Fireman несесер с 1 цип]]></name>
     <price>8.64</price>
     <price_client>6.41</price_client>
@@ -62954,7 +62954,7 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
-    <catalog_num>86574</catalog_num>
+    <catalog_num>86542</catalog_num>
     <name><![CDATA[UNICORN 13 подложка за бюро картон]]></name>
     <price>5.06</price>
     <price_client>3.54</price_client>
@@ -63031,7 +63031,7 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
-    <catalog_num>SL97259</catalog_num>
+    <catalog_num>97259</catalog_num>
     <name><![CDATA[Таен дневник Derform Disney - Soy Luna, 3D]]></name>
     <price>13.00</price>
     <price_client>9.10</price_client>
@@ -63075,7 +63075,7 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
-    <catalog_num>SP22KK-081</catalog_num>
+    <catalog_num>AV22KK-081</catalog_num>
     <name><![CDATA[PASO AVENGERS 22 ученическа раница]]></name>
     <price>40.34</price>
     <price_client>31.50</price_client>
