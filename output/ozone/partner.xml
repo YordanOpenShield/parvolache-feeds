@@ -577,7 +577,7 @@
     <name><![CDATA[BackUp 5 A 05 Leopard овален несесер]]></name>
     <price>9.66</price>
     <price_client>6.76</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130092758]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -23457,7 +23457,7 @@
     <name><![CDATA[BackUP Legend Dragon несесер с 2 отеделния 6 DW 51, ПЪЛЕН]]></name>
     <price>16.36</price>
     <price_client>11.45</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130100361]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -52970,7 +52970,7 @@
     <name><![CDATA[BACKUP 7 DW 64 Pixels несесер с 2 ципа, ПЪЛЕН]]></name>
     <price>16.36</price>
     <price_client>11.45</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601702914]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -65114,7 +65114,7 @@
     <name><![CDATA[BackUp 4 A 77 овален несесер Kitty]]></name>
     <price>9.66</price>
     <price_client>6.76</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130088515]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -65169,7 +65169,7 @@
     <name><![CDATA[BackUp 4 A 62 овален несесер Icons]]></name>
     <price>9.66</price>
     <price_client>6.76</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130088416]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -65909,6 +65909,17 @@
     <available>Да</available>
     <barcode><![CDATA[5901130085286]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>82520</catalog_num>
+    <name><![CDATA[BackUp 4 A 18 овален несесер Flowers]]></name>
+    <price>9.66</price>
+    <price_client>6.76</price_client>
+    <available>Не</available>
+    <barcode><![CDATA[5901130082520]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
