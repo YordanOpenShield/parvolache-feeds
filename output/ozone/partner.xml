@@ -65825,6 +65825,17 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>713583</catalog_num>
+    <name><![CDATA[PANDA 11 куфарче с дръжка 10 см]]></name>
+    <price>11.80</price>
+    <price_client>8.26</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601713583]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>713590</catalog_num>
     <name><![CDATA[FOOTBALL 21 куфарче с дръжка 10 см]]></name>
     <price>11.80</price>
@@ -65853,6 +65864,28 @@
     <price_client>6.86</price_client>
     <available>Да</available>
     <barcode><![CDATA[5906601713385]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>713538</catalog_num>
+    <name><![CDATA[PANDA 11 куфарче с дръжка 5 см]]></name>
+    <price>9.80</price>
+    <price_client>6.86</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601713538]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>713408</catalog_num>
+    <name><![CDATA[FOOTBALL 21 куфарче с дръжка 5 см]]></name>
+    <price>9.80</price>
+    <price_client>6.86</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601713408]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
