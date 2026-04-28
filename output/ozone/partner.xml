@@ -12985,7 +12985,7 @@
     <name><![CDATA[PASO PANDA Rainbow  3D малка раница]]></name>
     <price>16.87</price>
     <price_client>11.81</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162127378]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -64718,7 +64718,7 @@
     <name><![CDATA[Касичка с катинар Derform - Sweet Dreams, Unicorn 12]]></name>
     <price>3.53</price>
     <price_client>2.47</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130076987]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -65953,6 +65953,39 @@
     <available>Да</available>
     <barcode><![CDATA[5901130067039]]></barcode>
     <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>92444</catalog_num>
+    <name><![CDATA[Касичка с катинар Derform - Sweet Dreams, Unicorn 13]]></name>
+    <price>3.53</price>
+    <price_client>2.47</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130092444]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>16227</catalog_num>
+    <name><![CDATA[Играчка Кечбол]]></name>
+    <price>4.50</price>
+    <price_client>3.15</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>16044</catalog_num>
+    <name><![CDATA[Камион за пясък с лопатки и форми]]></name>
+    <price>6.00</price>
+    <price_client>4.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
