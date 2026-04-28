@@ -65989,4 +65989,114 @@
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
+  <item>
+    <catalog_num>203175</catalog_num>
+    <name><![CDATA[Топка дъга]]></name>
+    <price>2.00</price>
+    <price_client>1.40</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>16226</catalog_num>
+    <name><![CDATA[Комплект за тенис на маса в калъф]]></name>
+    <price>6.00</price>
+    <price_client>4.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>24161</catalog_num>
+    <name><![CDATA[Футболна топка от еко кожа]]></name>
+    <price>9.00</price>
+    <price_client>6.30</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>203182</catalog_num>
+    <name><![CDATA[Топка Букви]]></name>
+    <price>2.10</price>
+    <price_client>1.47</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>16010</catalog_num>
+    <name><![CDATA[Играчка за бутане Въртолет]]></name>
+    <price>5.00</price>
+    <price_client>3.50</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>F16007</catalog_num>
+    <name><![CDATA[Играчка за бутане Костенурка]]></name>
+    <price>6.50</price>
+    <price_client>4.55</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>F25115</catalog_num>
+    <name><![CDATA[Играчка за бутане Калинка]]></name>
+    <price>5.50</price>
+    <price_client>3.85</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>F16121</catalog_num>
+    <name><![CDATA[Количка за пясък с лопатки и форми]]></name>
+    <price>6.00</price>
+    <price_client>4.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>F16119</catalog_num>
+    <name><![CDATA[Кофа за пясък Замък с аксеоари]]></name>
+    <price>6.00</price>
+    <price_client>4.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>F16122</catalog_num>
+    <name><![CDATA[Кофа за пясък Цвете с аксесоари]]></name>
+    <price>4.80</price>
+    <price_client>3.36</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
 </products>
