@@ -8915,7 +8915,7 @@
     <name><![CDATA[BATMAN моливник за оцветяване]]></name>
     <price>4.55</price>
     <price_client>3.19</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8032780952066]]></barcode>
     <brand><![CDATA[Disney]]></brand>
     <category></category>
@@ -8981,7 +8981,7 @@
     <name><![CDATA[UNICORN моливник за оцветяване]]></name>
     <price>4.55</price>
     <price_client>3.19</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[8032780734150]]></barcode>
     <brand><![CDATA[Disney]]></brand>
     <category></category>
@@ -12985,7 +12985,7 @@
     <name><![CDATA[PASO PANDA Rainbow  3D малка раница]]></name>
     <price>16.87</price>
     <price_client>11.81</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5903162127378]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -59020,7 +59020,7 @@
     <name><![CDATA[PASO Pixel ергономична раница Minecraft]]></name>
     <price>55.73</price>
     <price_client>39.01</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162111537]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
