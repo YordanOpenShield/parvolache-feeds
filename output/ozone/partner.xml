@@ -15141,7 +15141,7 @@
     <name><![CDATA[PASO Pixel бутилка Minecraft]]></name>
     <price>6.08</price>
     <price_client>4.26</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5903162109251]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -66129,6 +66129,17 @@
     <available>Да</available>
     <barcode><![CDATA[8445118029123]]></barcode>
     <brand><![CDATA[KARACTERMANIA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PES-3021</catalog_num>
+    <name><![CDATA[STUDIO DOG AND DOG бутилка]]></name>
+    <price>5.06</price>
+    <price_client>3.54</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162054087]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
