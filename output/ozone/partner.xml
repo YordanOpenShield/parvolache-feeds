@@ -42355,7 +42355,7 @@
     <name><![CDATA[BLUEY комплект модни аксесоари]]></name>
     <price>11.25</price>
     <price_client>7.87</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8445484363142]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -59786,17 +59786,6 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
-    <catalog_num>260194M1</catalog_num>
-    <name><![CDATA[UNICORN детски грим в куфар]]></name>
-    <price>16.82</price>
-    <price_client>11.78</price_client>
-    <available>Да</available>
-    <barcode><![CDATA[80547082889341]]></barcode>
-    <brand><![CDATA[Coriex]]></brand>
-    <category></category>
-    <color><![CDATA[N/A]]></color>
-  </item>
-  <item>
     <catalog_num>669576</catalog_num>
     <name><![CDATA[Плюшен таен дневник с катинар 3D A5 My Little Friend Mouse]]></name>
     <price>13.00</price>
@@ -66036,8 +66025,8 @@
   <item>
     <catalog_num>16010</catalog_num>
     <name><![CDATA[Играчка за бутане Въртолет]]></name>
-    <price>5.00</price>
-    <price_client>3.50</price_client>
+    <price>5.50</price>
+    <price_client>3.85</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[N/A]]></brand>
