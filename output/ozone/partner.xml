@@ -14107,7 +14107,7 @@
     <name><![CDATA[PASO Gamer несесер с 1 цип, ПЪЛЕН, Minecraft]]></name>
     <price>16.62</price>
     <price_client>11.63</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162116082]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -17605,7 +17605,7 @@
     <name><![CDATA[KAOS PINK LOVE раница 2 в 1 на колела]]></name>
     <price>94.59</price>
     <price_client>66.21</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[3830052869020]]></barcode>
     <brand><![CDATA[KAOS]]></brand>
     <category></category>
@@ -39000,7 +39000,7 @@
     <name><![CDATA[CLEO and FRANK 42 Куче куфарче с дръжка 10 см]]></name>
     <price>11.50</price>
     <price_client>8.05</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130103720]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -66082,6 +66082,17 @@
     <name><![CDATA[Кофа за пясък Цвете с аксесоари]]></name>
     <price>4.80</price>
     <price_client>3.36</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>F16117</catalog_num>
+    <name><![CDATA[Кофа за пясък с аксесоари]]></name>
+    <price>3.80</price>
+    <price_client>2.66</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[N/A]]></brand>
