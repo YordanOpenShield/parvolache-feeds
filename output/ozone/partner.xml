@@ -31212,7 +31212,7 @@
     <name><![CDATA[MITAMA Run Just Shine  ученическа раница с колела]]></name>
     <price>86.87</price>
     <price_client>60.81</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8026624642695]]></barcode>
     <brand><![CDATA[MITAMA]]></brand>
     <category></category>
@@ -42322,7 +42322,7 @@
     <name><![CDATA[BLUEY малка чанта-сърце]]></name>
     <price>11.20</price>
     <price_client>7.84</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8445484504736]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -45666,7 +45666,7 @@
     <name><![CDATA[CORNELL CHERRY GOLD тетрадка, редове]]></name>
     <price>3.83</price>
     <price_client>2.68</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5997416598755]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -45832,7 +45832,7 @@
     <price>3.83</price>
     <price_client>2.68</price_client>
     <available>Не</available>
-    <barcode><![CDATA[5999121305970]]></barcode>
+    <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -66118,6 +66118,17 @@
     <available>Да</available>
     <barcode><![CDATA[5903162054087]]></barcode>
     <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>23059772</catalog_num>
+    <name><![CDATA[LIZZY CARD Pink Line тетрадка, редове]]></name>
+    <price>3.83</price>
+    <price_client>2.68</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5999121305970]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
