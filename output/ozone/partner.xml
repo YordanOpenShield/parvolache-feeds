@@ -63418,8 +63418,8 @@
   <item>
     <catalog_num>65110</catalog_num>
     <name><![CDATA[Чанта - раница 2 в 1 BackUP А26 - Bees]]></name>
-    <price>45.50</price>
-    <price_client>31.85</price_client>
+    <price>12.73</price>
+    <price_client>8.91</price_client>
     <available>Да</available>
     <barcode><![CDATA[5901130065110]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
@@ -63429,8 +63429,8 @@
   <item>
     <catalog_num>65134</catalog_num>
     <name><![CDATA[Чанта - раница 2 в 1 BackUP А27 - Blue Flowers]]></name>
-    <price>45.50</price>
-    <price_client>31.85</price_client>
+    <price>12.73</price>
+    <price_client>8.91</price_client>
     <available>Да</available>
     <barcode><![CDATA[5901130065134]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
@@ -66129,6 +66129,28 @@
     <available>Да</available>
     <barcode><![CDATA[5999121305970]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>64434Backup</catalog_num>
+    <name><![CDATA[BackUP 2 раница CA 26]]></name>
+    <price>23.47</price>
+    <price_client>16.43</price_client>
+    <available>Не</available>
+    <barcode><![CDATA[5901130064434]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>64427</catalog_num>
+    <name><![CDATA[BackUP 2 раница CA 55]]></name>
+    <price>23.47</price>
+    <price_client>16.43</price_client>
+    <available>Не</available>
+    <barcode><![CDATA[5901130064427]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
