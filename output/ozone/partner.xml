@@ -2557,7 +2557,7 @@
     <name><![CDATA[LION KING Little Face 3D малка раница]]></name>
     <price>16.36</price>
     <price_client>11.45</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8445118047240]]></barcode>
     <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
@@ -54440,17 +54440,6 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
-    <catalog_num>6941848255205</catalog_num>
-    <name><![CDATA[LABUBU  кукла  скуиши]]></name>
-    <price>9.20</price>
-    <price_client>7.36</price_client>
-    <available>Да</available>
-    <barcode><![CDATA[6941848255205]]></barcode>
-    <brand><![CDATA[N/A]]></brand>
-    <category></category>
-    <color><![CDATA[N/A]]></color>
-  </item>
-  <item>
     <catalog_num>2500003203</catalog_num>
     <name><![CDATA[STITCH дисплей модни аксесоари]]></name>
     <price>263.32</price>
@@ -59771,6 +59760,17 @@
     <available>Да</available>
     <barcode><![CDATA[5056599768918]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>260194M1</catalog_num>
+    <name><![CDATA[UNICORN детски грим в куфар]]></name>
+    <price>16.82</price>
+    <price_client>11.78</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[80547082889341]]></barcode>
+    <brand><![CDATA[Coriex]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
