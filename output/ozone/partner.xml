@@ -5725,7 +5725,7 @@
     <name><![CDATA[SONIC 3D шапка с козирка]]></name>
     <price>9.66</price>
     <price_client>6.76</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8445484351699]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -66173,6 +66173,17 @@
     <available>Не</available>
     <barcode><![CDATA[8445484259377]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>6941848255206</catalog_num>
+    <name><![CDATA[Играчка Squishy Dumpling]]></name>
+    <price>5.50</price>
+    <price_client>3.85</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[6941848255206]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
