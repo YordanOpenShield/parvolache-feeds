@@ -9410,7 +9410,7 @@
     <name><![CDATA[Етикети Котки]]></name>
     <price>0.51</price>
     <price_client>0.36</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130078837]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -34050,7 +34050,7 @@
     <name><![CDATA[FOOTBALL 19 портмоне]]></name>
     <price>6.60</price>
     <price_client>4.62</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130102969]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -66184,6 +66184,17 @@
     <available>Да</available>
     <barcode><![CDATA[6941848255208]]></barcode>
     <brand><![CDATA[N/A]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>AV22ТТ-503</catalog_num>
+    <name><![CDATA[PASO AVENGERS малка раница 3D]]></name>
+    <price>17.64</price>
+    <price_client>12.35</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162105581]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
