@@ -20927,7 +20927,7 @@
     <name><![CDATA[CLEO & FRANK 41 несесер с 2 ципа, ПЪЛЕН]]></name>
     <price>18.87</price>
     <price_client>13.21</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130095513]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -66194,6 +66194,17 @@
     <price_client>12.35</price_client>
     <available>Да</available>
     <barcode><![CDATA[5903162105581]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP22CR-P001</catalog_num>
+    <name><![CDATA[PASO Start Game 22 несесер с 1 цип, ПЪЛЕН]]></name>
+    <price>16.11</price>
+    <price_client>11.27</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162106762]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
