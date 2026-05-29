@@ -3074,7 +3074,7 @@
     <name><![CDATA[SONIC FAN Checkpoint несесер с 1 отделение]]></name>
     <price>6.08</price>
     <price_client>4.26</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[8445118054248]]></barcode>
     <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
@@ -4152,7 +4152,7 @@
     <name><![CDATA[SONIC FAN On The Run несесер с 1 отделение]]></name>
     <price>6.08</price>
     <price_client>4.26</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[8445118054194]]></barcode>
     <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
@@ -66183,6 +66183,17 @@
     <price_client>11.27</price_client>
     <available>Да</available>
     <barcode><![CDATA[5903162106762]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP24aw-074</catalog_num>
+    <name><![CDATA[PASO CAT спортна чанта]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162126982]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
