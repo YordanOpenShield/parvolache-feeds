@@ -43796,7 +43796,7 @@
     <name><![CDATA[STITCH Ice Cream плажна кърпа]]></name>
     <price>11.71</price>
     <price_client>8.20</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5407010078114]]></barcode>
     <brand><![CDATA[Disney]]></brand>
     <category></category>
@@ -66195,6 +66195,28 @@
     <available>Да</available>
     <barcode><![CDATA[5903162126982]]></barcode>
     <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>2200009782-1</catalog_num>
+    <name><![CDATA[MINNIE шапка с козирка]]></name>
+    <price>6.60</price>
+    <price_client>4.62</price_client>
+    <available>Не</available>
+    <barcode><![CDATA[8445484261004]]></barcode>
+    <brand><![CDATA[CERDA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>2200009782-2</catalog_num>
+    <name><![CDATA[MINNIE шапка с козирка]]></name>
+    <price>6.60</price>
+    <price_client>4.62</price_client>
+    <available>Не</available>
+    <barcode><![CDATA[8445484260991]]></barcode>
+    <brand><![CDATA[CERDA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
