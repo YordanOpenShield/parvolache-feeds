@@ -11544,7 +11544,7 @@
     <name><![CDATA[STITCH пончо]]></name>
     <price>12.73</price>
     <price_client>8.91</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5407010075274]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -66150,17 +66150,6 @@
     <price_client>4.20</price_client>
     <available>Да</available>
     <barcode><![CDATA[6941848255206]]></barcode>
-    <brand><![CDATA[N/A]]></brand>
-    <category></category>
-    <color><![CDATA[N/A]]></color>
-  </item>
-  <item>
-    <catalog_num>6941848255223</catalog_num>
-    <name><![CDATA[Играчка Squishy Dumpling Rainbow]]></name>
-    <price>6.60</price>
-    <price_client>4.62</price_client>
-    <available>Да</available>
-    <barcode><![CDATA[6941848255208]]></barcode>
     <brand><![CDATA[N/A]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
