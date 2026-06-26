@@ -11544,7 +11544,7 @@
     <name><![CDATA[STITCH пончо]]></name>
     <price>12.73</price>
     <price_client>8.91</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5407010075274]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -66272,6 +66272,215 @@
     <available>Да</available>
     <barcode><![CDATA[81851102981576]]></barcode>
     <brand><![CDATA[Disney]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56943</catalog_num>
+    <name><![CDATA[KAOS FANTASY MAXI овален несесер]]></name>
+    <price>21.50</price>
+    <price_client>15.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730005]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56929</catalog_num>
+    <name><![CDATA[KAOS FANTASY несесер с 1 цип]]></name>
+    <price>16.50</price>
+    <price_client>11.55</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730012]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56922</catalog_num>
+    <name><![CDATA[KAOS FANTASY термо чанта]]></name>
+    <price>19.50</price>
+    <price_client>13.65</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730036]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56846</catalog_num>
+    <name><![CDATA[KAOS HEART QUEEN ученическа раница 2 в 1]]></name>
+    <price>82.00</price>
+    <price_client>57.40</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730050]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56978</catalog_num>
+    <name><![CDATA[KAOS HEART QUEEN ученическа раница с колела 2 в 1]]></name>
+    <price>102.20</price>
+    <price_client>71.54</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730081]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56855</catalog_num>
+    <name><![CDATA[KAOS SPRING GARDEN ученическа раница 2 в 1]]></name>
+    <price>82.00</price>
+    <price_client>57.40</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730098]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56925</catalog_num>
+    <name><![CDATA[KAOS SPRING GARDEN термо чанта]]></name>
+    <price>19.50</price>
+    <price_client>13.65</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730135]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56838</catalog_num>
+    <name><![CDATA[KAOS BUBBLE CRUSH ученическа раница 2 в 1]]></name>
+    <price>82.00</price>
+    <price_client>57.40</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730166]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56937</catalog_num>
+    <name><![CDATA[KAOS BUBBLE CRUSH MAXI овален несесер]]></name>
+    <price>21.50</price>
+    <price_client>15.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730173]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56920</catalog_num>
+    <name><![CDATA[KAOS BUBBLE CRUSH термо чанта]]></name>
+    <price>19.50</price>
+    <price_client>13.65</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730197]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56847</catalog_num>
+    <name><![CDATA[KAOS HYPNOTIC ученическа раница 2 в 1]]></name>
+    <price>82.00</price>
+    <price_client>57.40</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730258]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56979</catalog_num>
+    <name><![CDATA[KAOS HYPNOTIC ученическа раница с колела 2 в 1]]></name>
+    <price>102.20</price>
+    <price_client>71.54</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730272]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56840</catalog_num>
+    <name><![CDATA[KAOS COLLISION ученическа раница 2 в 1]]></name>
+    <price>82.00</price>
+    <price_client>57.40</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730296]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56939</catalog_num>
+    <name><![CDATA[KAOS COLLISION MAXI овален несесер]]></name>
+    <price>21.50</price>
+    <price_client>15.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730302]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56924</catalog_num>
+    <name><![CDATA[KAOS SPACE DINO термо чанта]]></name>
+    <price>19.50</price>
+    <price_client>13.65</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730333]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56923</catalog_num>
+    <name><![CDATA[KAOS HALFTIME термо чанта]]></name>
+    <price>19.50</price>
+    <price_client>13.65</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730388]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56977</catalog_num>
+    <name><![CDATA[KAOS HALFTIME ученическа раница с колела 2 в 1]]></name>
+    <price>102.20</price>
+    <price_client>71.54</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730395]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56837</catalog_num>
+    <name><![CDATA[KAOS ALPHA ученическа раница 2 в 1]]></name>
+    <price>82.00</price>
+    <price_client>57.40</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730401]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56936</catalog_num>
+    <name><![CDATA[KAOS ALPHA MAXI овален несесер]]></name>
+    <price>21.50</price>
+    <price_client>15.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730418]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
