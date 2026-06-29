@@ -24425,7 +24425,7 @@
     <name><![CDATA[STITCH модни аксесоари в чанта]]></name>
     <price>14.27</price>
     <price_client>9.99</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8445484401332]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -57564,7 +57564,7 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
-    <catalog_num>STR1307</catalog_num>
+    <catalog_num>171307</catalog_num>
     <name><![CDATA[PEPPA PIG блок за рисуване А4]]></name>
     <price>1.53</price>
     <price_client>1.07</price_client>
