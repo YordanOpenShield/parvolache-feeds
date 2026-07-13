@@ -478,7 +478,7 @@
     <name><![CDATA[BackUp 5 X 29 Cotton Candy ученическа раница]]></name>
     <price>44.43</price>
     <price_client>31.10</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130094356]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -18255,7 +18255,7 @@
     <price>13.75</price>
     <price_client>9.63</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130092611]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -18365,7 +18365,7 @@
     <price>13.75</price>
     <price_client>9.63</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130090716]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -32742,7 +32742,7 @@
     <price>35.74</price>
     <price_client>25.02</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5901130064564]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -43192,7 +43192,7 @@
     <price>11.71</price>
     <price_client>8.20</price_client>
     <available>Не</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[84454844462721]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -45827,17 +45827,6 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
-    <catalog_num>21856566</catalog_num>
-    <name><![CDATA[Тетрадка А4 CORNELL PINK със спирала, 70 листа, редове]]></name>
-    <price>3.83</price>
-    <price_client>2.68</price_client>
-    <available>Не</available>
-    <barcode><![CDATA[N/A]]></barcode>
-    <brand><![CDATA[Lizzy Card]]></brand>
-    <category></category>
-    <color><![CDATA[N/A]]></color>
-  </item>
-  <item>
     <catalog_num>21855966</catalog_num>
     <name><![CDATA[Тетрадка А4 CORNELL PINK със спирала, 70 листа, малки квадрати]]></name>
     <price>3.83</price>
@@ -48428,7 +48417,7 @@
     <price>35.74</price>
     <price_client>25.02</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[8414778517530]]></barcode>
     <brand><![CDATA[Perona]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -48439,7 +48428,7 @@
     <price>35.74</price>
     <price_client>25.02</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[8414778517325]]></barcode>
     <brand><![CDATA[Perona]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -48450,7 +48439,7 @@
     <price>35.74</price>
     <price_client>25.02</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[8414778515598]]></barcode>
     <brand><![CDATA[Perona]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -48461,7 +48450,7 @@
     <price>35.74</price>
     <price_client>25.02</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[8414778517554]]></barcode>
     <brand><![CDATA[Perona]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -48472,7 +48461,7 @@
     <price>35.74</price>
     <price_client>25.02</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[8414778515734]]></barcode>
     <brand><![CDATA[Perona]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -48483,7 +48472,7 @@
     <price>10.17</price>
     <price_client>7.12</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[8414778517332]]></barcode>
     <brand><![CDATA[Perona]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -48494,7 +48483,7 @@
     <price>10.17</price>
     <price_client>7.12</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[8414778517547]]></barcode>
     <brand><![CDATA[Perona]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -48505,7 +48494,7 @@
     <price>10.17</price>
     <price_client>7.12</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[8414778515604]]></barcode>
     <brand><![CDATA[Perona]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -48516,7 +48505,7 @@
     <price>10.17</price>
     <price_client>7.12</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[8414778515581]]></barcode>
     <brand><![CDATA[Perona]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -49473,7 +49462,7 @@
     <price>6.60</price>
     <price_client>4.62</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[8435333842195]]></barcode>
     <brand><![CDATA[Kidslicensing]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -49484,7 +49473,7 @@
     <price>5.57</price>
     <price_client>3.90</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[8435333877791]]></barcode>
     <brand><![CDATA[Kidslicensing]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -49495,7 +49484,7 @@
     <price>5.06</price>
     <price_client>3.54</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[8435333892770]]></barcode>
     <brand><![CDATA[Kidslicensing]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -49550,7 +49539,7 @@
     <price>3.53</price>
     <price_client>2.47</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[8021785442016]]></barcode>
     <brand><![CDATA[Kidslicensing]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -49561,7 +49550,7 @@
     <price>3.53</price>
     <price_client>2.47</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[8021785442061]]></barcode>
     <brand><![CDATA[Kidslicensing]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -49572,7 +49561,7 @@
     <price>4.55</price>
     <price_client>3.19</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[8021785442146]]></barcode>
     <brand><![CDATA[Kidslicensing]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -49583,7 +49572,7 @@
     <price>9.66</price>
     <price_client>6.76</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[8021785442221]]></barcode>
     <brand><![CDATA[Kidslicensing]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -49594,7 +49583,7 @@
     <price>9.66</price>
     <price_client>6.76</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[8021785426559]]></barcode>
     <brand><![CDATA[Kidslicensing]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -52025,7 +52014,7 @@
     <price>12.73</price>
     <price_client>8.91</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[59011301044202]]></barcode>
     <brand><![CDATA[N/A]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -58471,7 +58460,7 @@
     <price>6.39</price>
     <price_client>4.47</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[8445484577433]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -60809,12 +60798,12 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
-    <catalog_num>DS25cc-712</catalog_num>
+    <catalog_num>DS25CC-712</catalog_num>
     <name><![CDATA[DISNEY STITCH спортна торба]]></name>
     <price>6.08</price>
     <price_client>4.26</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[5903162133461]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -62728,7 +62717,7 @@
     <price>15.00</price>
     <price_client>10.50</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[844548410296]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -65924,34 +65913,12 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
-    <catalog_num>16227</catalog_num>
-    <name><![CDATA[Играчка Кечбол]]></name>
-    <price>4.50</price>
-    <price_client>3.15</price_client>
-    <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
-    <brand><![CDATA[N/A]]></brand>
-    <category></category>
-    <color><![CDATA[N/A]]></color>
-  </item>
-  <item>
-    <catalog_num>16044</catalog_num>
-    <name><![CDATA[Камион за пясък с лопатки и форми]]></name>
-    <price>6.00</price>
-    <price_client>4.20</price_client>
-    <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
-    <brand><![CDATA[N/A]]></brand>
-    <category></category>
-    <color><![CDATA[N/A]]></color>
-  </item>
-  <item>
     <catalog_num>203175</catalog_num>
     <name><![CDATA[Топка дъга]]></name>
     <price>2.00</price>
     <price_client>1.40</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[06951907622367]]></barcode>
     <brand><![CDATA[N/A]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -65962,7 +65929,7 @@
     <price>6.00</price>
     <price_client>4.20</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[59011301044201]]></barcode>
     <brand><![CDATA[N/A]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -65973,18 +65940,7 @@
     <price>9.00</price>
     <price_client>6.30</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
-    <brand><![CDATA[N/A]]></brand>
-    <category></category>
-    <color><![CDATA[N/A]]></color>
-  </item>
-  <item>
-    <catalog_num>203182</catalog_num>
-    <name><![CDATA[Топка Букви]]></name>
-    <price>2.10</price>
-    <price_client>1.47</price_client>
-    <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[6952430120282]]></barcode>
     <brand><![CDATA[N/A]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -65995,7 +65951,7 @@
     <price>5.50</price>
     <price_client>3.85</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[3802066251153]]></barcode>
     <brand><![CDATA[N/A]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -66006,7 +65962,7 @@
     <price>6.00</price>
     <price_client>4.20</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[3802066161216]]></barcode>
     <brand><![CDATA[N/A]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -66017,7 +65973,7 @@
     <price>6.00</price>
     <price_client>4.20</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[3802066161193]]></barcode>
     <brand><![CDATA[N/A]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -66028,7 +65984,7 @@
     <price>4.80</price>
     <price_client>3.36</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[3802066161223]]></barcode>
     <brand><![CDATA[N/A]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -66039,7 +65995,7 @@
     <price>3.80</price>
     <price_client>2.66</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[3802066161179]]></barcode>
     <brand><![CDATA[N/A]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -66502,6 +66458,204 @@
     <price_client>15.05</price_client>
     <available>Да</available>
     <barcode><![CDATA[3830087730418]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56857</catalog_num>
+    <name><![CDATA[KAOS WHAT'S UP ученическа раница 2 в 1]]></name>
+    <price>82.00</price>
+    <price_client>57.40</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730456]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56926</catalog_num>
+    <name><![CDATA[KAOS WHAT'S UP термо чанта]]></name>
+    <price>19.50</price>
+    <price_client>13.65</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730470]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56984</catalog_num>
+    <name><![CDATA[KAOS WHAT'S UP ученическа раница с колела 2 в 1]]></name>
+    <price>102.20</price>
+    <price_client>71.54</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730487]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56842</catalog_num>
+    <name><![CDATA[KAOS DRAGONIZE ученическа раница 2 в 1]]></name>
+    <price>82.00</price>
+    <price_client>57.40</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730548]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56858</catalog_num>
+    <name><![CDATA[KAOS URBAN 4HER раница]]></name>
+    <price>68.00</price>
+    <price_client>47.60</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730579]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56908</catalog_num>
+    <name><![CDATA[KAOS 4HER калъф за лаптоп]]></name>
+    <price>20.00</price>
+    <price_client>14.00</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730586]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56884</catalog_num>
+    <name><![CDATA[KAOS 4HER чанта за рамо]]></name>
+    <price>20.00</price>
+    <price_client>14.00</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730593]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56860</catalog_num>
+    <name><![CDATA[KAOS URBAN ATOMIC раница]]></name>
+    <price>68.00</price>
+    <price_client>47.60</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730609]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56909</catalog_num>
+    <name><![CDATA[KAOS ATOMIC калъф за лаптоп]]></name>
+    <price>20.00</price>
+    <price_client>14.00</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730616]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56918</catalog_num>
+    <name><![CDATA[KAOS ATOMIC термо чанта]]></name>
+    <price>19.50</price>
+    <price_client>13.65</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730623]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56861</catalog_num>
+    <name><![CDATA[KAOS URBAN HANA раница]]></name>
+    <price>68.00</price>
+    <price_client>47.60</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730630]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56919</catalog_num>
+    <name><![CDATA[KAOS HANA термо чанта]]></name>
+    <price>19.50</price>
+    <price_client>13.65</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730647]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56862</catalog_num>
+    <name><![CDATA[KAOS URBAN EFFECT раница]]></name>
+    <price>68.00</price>
+    <price_client>47.60</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730654]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56864</catalog_num>
+    <name><![CDATA[KAOS URBAN NOISE раница]]></name>
+    <price>68.00</price>
+    <price_client>47.60</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730685]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56912</catalog_num>
+    <name><![CDATA[KAOS NOISE калъф за лаптоп]]></name>
+    <price>20.00</price>
+    <price_client>14.00</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730708]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56873</catalog_num>
+    <name><![CDATA[KAOS URBAN WAYS раница]]></name>
+    <price>68.00</price>
+    <price_client>47.60</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730739]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56914</catalog_num>
+    <name><![CDATA[KAOS WAYS калъф за лаптоп]]></name>
+    <price>20.00</price>
+    <price_client>14.00</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730753]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56859</catalog_num>
+    <name><![CDATA[KAOS URBAN APOLLO 1 раница]]></name>
+    <price>68.00</price>
+    <price_client>47.60</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730777]]></barcode>
     <brand><![CDATA[KAOS]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
