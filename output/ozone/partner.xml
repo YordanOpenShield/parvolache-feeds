@@ -19771,7 +19771,7 @@
     <catalog_num>87945</catalog_num>
     <name><![CDATA[DINOSAUR 17 малка раница]]></name>
     <price>14.78</price>
-    <price_client>14.78</price_client>
+    <price_client>10.35</price_client>
     <available>Да</available>
     <barcode><![CDATA[5901130087945]]></barcode>
     <brand><![CDATA[Derform]]></brand>
@@ -66668,6 +66668,28 @@
     <available>Да</available>
     <barcode><![CDATA[59066017071001]]></barcode>
     <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>1-start-girl</catalog_num>
+    <name><![CDATA[Комплект за първи клас за момиче]]></name>
+    <price>35.00</price>
+    <price_client>35.00</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>1-start-boy</catalog_num>
+    <name><![CDATA[Комплект за първи клас за момче]]></name>
+    <price>35.00</price>
+    <price_client>35.00</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
