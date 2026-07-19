@@ -133,6 +133,10 @@ def transform_feed(source_root: etree._Element, config) -> etree._Element:
     """
     Transform source XML into partner-specific structure.
     
+    Supports optional config hooks:
+      - extract_additional_fields(product_element, product_data) -> product_data
+      - build_output_xml(products_data, config) -> root Element
+    
     Args:
         source_root: The root element of the source XML
         config: The partner configuration module
@@ -142,34 +146,43 @@ def transform_feed(source_root: etree._Element, config) -> etree._Element:
     """
     logger.info("Transforming feed to partner schema...")
     
-    # Create root element
-    products_root = etree.Element(config.OUTPUT_ROOT_ELEMENT)
-    
     # Find all products in source using namespace-aware XPath
-    product_elements = source_root.xpath("//sc:Products/sc:Product", namespaces=config.SOURCE_NAMESPACE)
+    product_elements = source_root.xpath(
+        "//sc:Products/sc:Product", namespaces=config.SOURCE_NAMESPACE
+    )
     
     if not product_elements:
         logger.warning("No products found in source feed")
-        return products_root
+        # Return empty structure (use custom builder if available)
+        if hasattr(config, 'build_output_xml'):
+            return config.build_output_xml([], config)
+        root = etree.Element(config.OUTPUT_ROOT_ELEMENT)
+        return root
     
     logger.info(f"Found {len(product_elements)} products to transform")
     
+    products_data = []
+    
     for idx, product in enumerate(product_elements, 1):
         try:
-            # Extract data using partner-specific field mappings
+            # --- Step 1: Extract basic fields via FIELD_MAPPINGS ---
             product_data = {}
             for field_name, xpath_expr in config.FIELD_MAPPINGS.items():
                 product_data[field_name] = extract_text(
-                    product, 
-                    xpath_expr, 
+                    product,
+                    xpath_expr,
                     config.DEFAULTS.get(field_name, ""),
-                    config.SOURCE_NAMESPACE
+                    config.SOURCE_NAMESPACE,
                 )
             
-            # Apply partner-specific transformation logic
+            # --- Step 2: Extract additional fields (optional hook) ---
+            if hasattr(config, 'extract_additional_fields'):
+                product_data = config.extract_additional_fields(product, product_data)
+            
+            # --- Step 3: Apply partner-specific transformation logic ---
             output_fields = config.transform_product(product_data)
             
-            # Validate required fields
+            # --- Step 4: Validate required fields ---
             missing_required = []
             for field_info in config.OUTPUT_SCHEMA:
                 field_name = field_info[0]
@@ -178,46 +191,66 @@ def transform_feed(source_root: etree._Element, config) -> etree._Element:
                     missing_required.append(field_name)
             
             if missing_required:
+                logger.debug(
+                    f"Skipping product {idx} (missing required fields: "
+                    f"{', '.join(missing_required)})"
+                )
                 continue
             
-            # Create product element
-            product_elem = etree.SubElement(products_root, config.OUTPUT_PRODUCT_ELEMENT)
-            
-            # Add output fields with optional CDATA support
-            for field_info in config.OUTPUT_SCHEMA:
-                field_name = field_info[0]
-                use_cdata = field_info[2] if len(field_info) > 2 else False
-                
-                if field_name in output_fields:
-                    field_elem = etree.SubElement(product_elem, field_name)
-                    value = output_fields[field_name]
-                    
-                    if use_cdata and value:
-                        # Add CDATA section
-                        field_elem.text = etree.CDATA(value)
-                    else:
-                        field_elem.text = value
+            products_data.append(output_fields)
             
         except Exception as e:
             logger.debug(f"Error processing product {idx}: {e}")
             continue
     
-    logger.info(f"Successfully transformed {len(products_root)} products")
-    return products_root
+    logger.info(f"Successfully transformed {len(products_data)} products")
+    
+    # --- Step 5: Build final XML structure ---
+    # If the partner provides a custom output builder, delegate to it.
+    if hasattr(config, 'build_output_xml'):
+        return config.build_output_xml(products_data, config)
+    
+    # Default: create a simple XML structure from OUTPUT_SCHEMA
+    root = etree.Element(config.OUTPUT_ROOT_ELEMENT)
+    for fields in products_data:
+        product_elem = etree.SubElement(root, config.OUTPUT_PRODUCT_ELEMENT)
+        for field_info in config.OUTPUT_SCHEMA:
+            field_name = field_info[0]
+            use_cdata = field_info[2] if len(field_info) > 2 else False
+            
+            if field_name in fields:
+                field_elem = etree.SubElement(product_elem, field_name)
+                value = fields[field_name]
+                
+                if use_cdata and value:
+                    field_elem.text = etree.CDATA(value)
+                else:
+                    field_elem.text = value
+    
+    return root
 
 
-def write_output(root: etree._Element, output_path: Path) -> None:
+def write_output(root: etree._Element, output_path: Path, config=None) -> None:
     """
     Write the transformed XML to the output file.
+    
+    If config contains OUTPUT_NAMESPACES, registers those namespace prefixes
+    so that lxml serialises them with the correct prefix (e.g. <g:id>).
     
     Args:
         root: The root element of the XML tree
         output_path: The path where the output file should be written
+        config: Optional partner config module (for namespace registration)
     """
     logger.info(f"Writing output to: {output_path}")
     
     # Ensure output directory exists
     output_path.parent.mkdir(parents=True, exist_ok=True)
+    
+    # Register XML namespace prefixes so lxml writes <g:tag> not <ns0:tag>
+    if config and hasattr(config, 'OUTPUT_NAMESPACES'):
+        for prefix, uri in config.OUTPUT_NAMESPACES.items():
+            etree.register_namespace(prefix, uri)
     
     try:
         # Write XML with proper encoding and declaration
@@ -263,8 +296,8 @@ def main() -> None:
         # Transform to partner schema
         transformed_root = transform_feed(source_root, config)
         
-        # Write output
-        write_output(transformed_root, output_file)
+        # Write output (pass config for namespace registration)
+        write_output(transformed_root, output_file, config)
         
         logger.info("=" * 60)
         logger.info("✓ Feed transformation completed successfully")
