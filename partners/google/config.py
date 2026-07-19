@@ -14,12 +14,13 @@ from lxml import etree
 # SOURCE FEED CONFIGURATION
 # =============================================================================
 
+# Dedicated Google Merchant export — different dealer account (Емаг vs teocombg)
 SOURCE_FEED_URL = (
     "https://parvolache.com/module.php"
     "?ModuleName=com.seliton.superxmlexport"
-    "&Username=teocombg"
+    "&Username=%D0%95%D0%BC%D0%B0%D0%B3"  # URL-encoded "Емаг"
     "&Domain=parvolache.com"
-    "&Signature=e2ddf641b1cb647ddfe4d1d11abbcd7ed7a13f7a"
+    "&Signature=d3ed1195efa7dc30dc447a7bd6f5f8cb838657a4"
     "&DealerAccountType=0"
 )
 
