@@ -69,7 +69,7 @@ DEFAULTS = {
     'category_branch': '',
     'category_name': '',
     'weight': '',
-    'currency': 'BGN',
+    'currency': 'EUR',
 }
 
 # =============================================================================
@@ -194,12 +194,15 @@ def transform_product(product_data):
     sale_price_candidate = (product_data.get('sale_price') or '').strip()
     wholesale = (product_data.get('price_wholesale') or '').strip()
 
+    # Use the actual currency from the source feed (EUR, BGN, etc.)
+    currency = (product_data.get('currency') or DEFAULTS['currency']).strip()
+
     # Use wholesale as sale price if no explicit sale price and they differ
     if not sale_price_candidate and wholesale and wholesale != price:
         sale_price_candidate = wholesale
 
-    price_formatted = f"{price} BGN"
-    sale_price_formatted = f"{sale_price_candidate} BGN" if sale_price_candidate and sale_price_candidate != price else ''
+    price_formatted = f"{price} {currency}"
+    sale_price_formatted = f"{sale_price_candidate} {currency}" if sale_price_candidate and sale_price_candidate != price else ''
 
     # --- Product type (hierarchy) ---
     category_branch = (product_data.get('category_branch') or '').strip()
