@@ -56887,7 +56887,7 @@
     <price>12.78</price>
     <price_client>8.95</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[3831119587888]]></barcode>
     <brand><![CDATA[Rucksack Only]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -56909,7 +56909,7 @@
     <price>12.78</price>
     <price_client>8.95</price_client>
     <available>Да</available>
-    <barcode><![CDATA[N/A]]></barcode>
+    <barcode><![CDATA[3831119587833]]></barcode>
     <brand><![CDATA[Rucksack Only]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -63783,7 +63783,7 @@
     <name><![CDATA[Ученически несесер Lizzy Card - Peace Pixel, с 1 цип]]></name>
     <price>8.64</price>
     <price_client>6.05</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5997416578856]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -66679,6 +66679,17 @@
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[N/A]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>18R403-04</catalog_num>
+    <name><![CDATA[Чанта за рамо Rucksack Only - Zik Zak]]></name>
+    <price>12.78</price>
+    <price_client>8.95</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3831119587857]]></barcode>
+    <brand><![CDATA[Rucksack Only]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
