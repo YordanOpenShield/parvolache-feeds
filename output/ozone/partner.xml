@@ -66682,4 +66682,59 @@
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
+  <item>
+    <catalog_num>75400</catalog_num>
+    <name><![CDATA[Папка прозрачна син цип, А4+]]></name>
+    <price>3.00</price>
+    <price_client>2.40</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3800884754009]]></barcode>
+    <brand><![CDATA[Spree]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>75401</catalog_num>
+    <name><![CDATA[Папка прозрачна червен цип, А4+]]></name>
+    <price>3.00</price>
+    <price_client>2.40</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3800884754016]]></barcode>
+    <brand><![CDATA[Spree]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>75404</catalog_num>
+    <name><![CDATA[Папка прозрачна оранжев цип, А4+]]></name>
+    <price>3.00</price>
+    <price_client>2.40</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3800884754047]]></barcode>
+    <brand><![CDATA[Spree]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>75403</catalog_num>
+    <name><![CDATA[Папка прозрачна жълт цип, А4+]]></name>
+    <price>3.00</price>
+    <price_client>2.40</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3800884754030]]></barcode>
+    <brand><![CDATA[Spree]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>75402</catalog_num>
+    <name><![CDATA[Папка прозрачна зелен цип, А4+]]></name>
+    <price>3.00</price>
+    <price_client>2.40</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3800884754023]]></barcode>
+    <brand><![CDATA[Spree]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
 </products>
