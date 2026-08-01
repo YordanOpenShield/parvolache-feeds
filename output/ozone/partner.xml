@@ -58785,6 +58785,17 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>706318</catalog_num>
+    <name><![CDATA[PANDA 10 куфарче с дръжка 5 см]]></name>
+    <price>9.66</price>
+    <price_client>6.76</price_client>
+    <available>Не</available>
+    <barcode><![CDATA[5906601706318]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>706134</catalog_num>
     <name><![CDATA[CLEO and FRANK 45 куфарче с дръжка 5 см]]></name>
     <price>9.66</price>
@@ -59185,7 +59196,7 @@
     <name><![CDATA[KIDEA игра със стикери по номера Minecraft]]></name>
     <price>3.00</price>
     <price_client>2.10</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601708411]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
     <category></category>
@@ -59482,7 +59493,7 @@
     <name><![CDATA[KIDEA гел-ключодържатели]]></name>
     <price>7.50</price>
     <price_client>5.25</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601708787]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
     <category></category>
@@ -65323,7 +65334,7 @@
     <name><![CDATA[Кутия с ластик Mitama - 5 cm, металикови цветове, асортимент]]></name>
     <price>6.60</price>
     <price_client>4.62</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8026624620341]]></barcode>
     <brand><![CDATA[MITAMA]]></brand>
     <category></category>
@@ -65512,6 +65523,17 @@
     <price_client>10.36</price_client>
     <available>Да</available>
     <barcode><![CDATA[5906601712074]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>712081</catalog_num>
+    <name><![CDATA[CAPYBARA 10 малка раница]]></name>
+    <price>14.80</price>
+    <price_client>10.36</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712081]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -65798,6 +65820,17 @@
     <price_client>6.86</price_client>
     <available>Да</available>
     <barcode><![CDATA[5906601713408]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>713392</catalog_num>
+    <name><![CDATA[CAPYBARA 10 куфарче с дръжка 5 см]]></name>
+    <price>9.80</price>
+    <price_client>6.86</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601713392]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -66425,6 +66458,28 @@
     <price_client>15.05</price_client>
     <available>Да</available>
     <barcode><![CDATA[3830087730418]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56917</catalog_num>
+    <name><![CDATA[KAOS ALPHA термо чанта]]></name>
+    <price>19.50</price>
+    <price_client>13.65</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730432]]></barcode>
+    <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>56973</catalog_num>
+    <name><![CDATA[KAOS ALPHA ученическа раница с колела 2 в 1]]></name>
+    <price>102.20</price>
+    <price_client>71.54</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3830087730449]]></barcode>
     <brand><![CDATA[KAOS]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
