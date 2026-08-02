@@ -66192,7 +66192,7 @@
     <name><![CDATA[SONIC плюшена играчка 30 см]]></name>
     <price>11.50</price>
     <price_client>8.05</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[81851102981571]]></barcode>
     <brand><![CDATA[Disney]]></brand>
     <category></category>
@@ -66214,7 +66214,7 @@
     <name><![CDATA[SONIC плюшена играчка 30 см Knuckles the Echidna]]></name>
     <price>11.50</price>
     <price_client>8.05</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[81851102981573]]></barcode>
     <brand><![CDATA[Disney]]></brand>
     <category></category>
@@ -66247,7 +66247,7 @@
     <name><![CDATA[SONIC плюшена играчка 30 см Shadow the Hedgehog]]></name>
     <price>11.50</price>
     <price_client>8.05</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[81851102981576]]></barcode>
     <brand><![CDATA[Disney]]></brand>
     <category></category>
@@ -66826,12 +66826,89 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>712036</catalog_num>
+    <name><![CDATA[BACKUP 8 A 83 NEON TECH спортна торба]]></name>
+    <price>6.00</price>
+    <price_client>4.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712036]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>712029</catalog_num>
+    <name><![CDATA[BACKUP 8 A 81 PIXEL GAME спортна торба]]></name>
+    <price>6.00</price>
+    <price_client>4.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712029]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>71205</catalog_num>
+    <name><![CDATA[BACKUP 8 A 78 PIXEL BLOCKS спортна торба]]></name>
+    <price>6.00</price>
+    <price_client>4.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712005]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>711985</catalog_num>
+    <name><![CDATA[BACKUP 8 A 76 GAME PAD спортна торба]]></name>
+    <price>6.00</price>
+    <price_client>4.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601711985]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>710452</catalog_num>
+    <name><![CDATA[BACKUP 8 A 75 TECHNO RED спортна торба]]></name>
+    <price>6.00</price>
+    <price_client>4.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601710452]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>711961</catalog_num>
+    <name><![CDATA[BACKUP 8 A 73 CHECKERBOARD GREEN спортна торба]]></name>
+    <price>6.00</price>
+    <price_client>4.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601711961]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>711954</catalog_num>
     <name><![CDATA[BACKUP 8 A 70 NEON RACE спортна торба]]></name>
     <price>6.00</price>
     <price_client>4.20</price_client>
     <available>Да</available>
     <barcode><![CDATA[5906601711954]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>711930</catalog_num>
+    <name><![CDATA[BACKUP 8 A 65 CYBER GRID спортна торба]]></name>
+    <price>6.00</price>
+    <price_client>4.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601711930]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -66859,34 +66936,23 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
-    <catalog_num>711848</catalog_num>
-    <name><![CDATA[BACKUP 8 A 44 PASTEL FEATHERS спортна торба]]></name>
+    <catalog_num>711602</catalog_num>
+    <name><![CDATA[BACKUP 8 A 58 BYTEWAVE спортна торба]]></name>
     <price>6.00</price>
     <price_client>4.20</price_client>
     <available>Да</available>
-    <barcode><![CDATA[5906601711848]]></barcode>
+    <barcode><![CDATA[5906601711602]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
-    <catalog_num>711831</catalog_num>
-    <name><![CDATA[BACKUP 8 A 43 3D PASTEL BUNNIES спортна торба]]></name>
+    <catalog_num>710476</catalog_num>
+    <name><![CDATA[BACKUP 8 A 52 WILD KITTY спортна торба]]></name>
     <price>6.00</price>
     <price_client>4.20</price_client>
-    <available>Да</available>
-    <barcode><![CDATA[5906601711831]]></barcode>
-    <brand><![CDATA[BackUp]]></brand>
-    <category></category>
-    <color><![CDATA[N/A]]></color>
-  </item>
-  <item>
-    <catalog_num>710377</catalog_num>
-    <name><![CDATA[BACKUP 8 A 38 спортна торба]]></name>
-    <price>6.00</price>
-    <price_client>4.20</price_client>
-    <available>Да</available>
-    <barcode><![CDATA[5906601710377]]></barcode>
+    <available>Не</available>
+    <barcode><![CDATA[5906601710476]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -66914,12 +66980,67 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>711718</catalog_num>
+    <name><![CDATA[BACKUP 8 A 29 VIOLET CHECKERBOARD спортна торба]]></name>
+    <price>6.00</price>
+    <price_client>4.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601711718]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>711701</catalog_num>
+    <name><![CDATA[BACKUP 8 A 28 RAINBOW LEOPARD спортна торба]]></name>
+    <price>6.00</price>
+    <price_client>4.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601711701]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>711688</catalog_num>
     <name><![CDATA[BACKUP 8 A 23 PASTEL TEDDY BEARS спортна торба]]></name>
     <price>6.00</price>
     <price_client>4.20</price_client>
     <available>Да</available>
     <barcode><![CDATA[5906601711688]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>711671</catalog_num>
+    <name><![CDATA[BACKUP 8 A 22 NEON WAVES спортна торба]]></name>
+    <price>6.00</price>
+    <price_client>4.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601711671]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>711657</catalog_num>
+    <name><![CDATA[BACKUP 8 A 20 RUBBER GRID спортна торба]]></name>
+    <price>6.00</price>
+    <price_client>4.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601711657]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>711633</catalog_num>
+    <name><![CDATA[BACKUP 8 A 17 CUTE CHECKERED спортна торба]]></name>
+    <price>6.00</price>
+    <price_client>4.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601711633]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -66947,6 +67068,17 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>712043</catalog_num>
+    <name><![CDATA[BACKUP 8 A 08 PINK LOVE спортна торба]]></name>
+    <price>6.00</price>
+    <price_client>4.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712043]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>711558</catalog_num>
     <name><![CDATA[BACKUP 8 A 07 CHOCOLATE SHAKE спортна торба]]></name>
     <price>6.00</price>
@@ -66969,12 +67101,45 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>711510</catalog_num>
+    <name><![CDATA[BACKUP 8 A 02 KAWAII CATS спортна торба]]></name>
+    <price>6.00</price>
+    <price_client>4.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601711510]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>711503</catalog_num>
     <name><![CDATA[BACKUP 8 A 01 PASTEL CHECKERED спортна торба]]></name>
     <price>6.00</price>
     <price_client>4.20</price_client>
     <available>Да</available>
     <barcode><![CDATA[5906601711503]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>710094</catalog_num>
+    <name><![CDATA[BACKUP 8 B 56 BLACK пътна чанта]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601710094]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>711473</catalog_num>
+    <name><![CDATA[BACKUP 8 B 55 JOURNEY пътна чанта]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601711473]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -66991,12 +67156,199 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>711459</catalog_num>
+    <name><![CDATA[BACKUP 8 B 28 RAINBOW LEOPARD пътна чанта]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601711459]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>711442</catalog_num>
     <name><![CDATA[BACKUP 8 B 18 SUMMER пътна чанта]]></name>
     <price>20.40</price>
     <price_client>14.28</price_client>
     <available>Да</available>
     <barcode><![CDATA[5906601711442]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>711435</catalog_num>
+    <name><![CDATA[BACKUP 8 B 05 RETRO POLKA DOT пътна чанта]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601711435]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>710575</catalog_num>
+    <name><![CDATA[BACKUP 8 M 42 кръгла кутия за храна Капибара]]></name>
+    <price>6.50</price>
+    <price_client>4.55</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601710575]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>711640</catalog_num>
+    <name><![CDATA[BACKUP 8 M 36 кръгла кутия за храна Мече]]></name>
+    <price>6.50</price>
+    <price_client>4.55</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601711640]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>710704</catalog_num>
+    <name><![CDATA[BACKUP 8 X 81 PIXEL GAME ученическа раница]]></name>
+    <price>47.50</price>
+    <price_client>33.25</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601710704]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>711282</catalog_num>
+    <name><![CDATA[BACKUP 8 X 73 CHECKERBOARD GREEN ученическа раница]]></name>
+    <price>47.50</price>
+    <price_client>33.25</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601711282]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>711251</catalog_num>
+    <name><![CDATA[BACKUP 8 X 32 GLITTER HEARTS ученическа раница]]></name>
+    <price>47.50</price>
+    <price_client>33.25</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601711251]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>711244</catalog_num>
+    <name><![CDATA[BACKUP 8 X 20 RUBBER GRID ученическа раница]]></name>
+    <price>47.50</price>
+    <price_client>33.25</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601711244]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>711237</catalog_num>
+    <name><![CDATA[BACKUP 8 X 15 MAGIC PAW PAWS ученическа раница]]></name>
+    <price>47.50</price>
+    <price_client>33.25</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601711237]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>711220</catalog_num>
+    <name><![CDATA[BACKUP 8 X 12 BLACK URBAN STYLE ученическа раница]]></name>
+    <price>47.50</price>
+    <price_client>33.25</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601711220]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>711190</catalog_num>
+    <name><![CDATA[BACKUP 8 W 94F CHECKERBOARD PURPLE ученическа раница]]></name>
+    <price>51.50</price>
+    <price_client>36.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601711190]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>711268</catalog_num>
+    <name><![CDATA[BACKUP 8 W 75 TECHNO RED ученическа раница]]></name>
+    <price>51.50</price>
+    <price_client>36.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601711268]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>711176</catalog_num>
+    <name><![CDATA[BACKUP 8 W 73 CHECKERBOARD GREEN ученическа раница]]></name>
+    <price>51.50</price>
+    <price_client>36.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601711176]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>711152</catalog_num>
+    <name><![CDATA[BACKUP 8 W 50 PANTHER ученическа раница]]></name>
+    <price>51.50</price>
+    <price_client>36.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601711152]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>711121</catalog_num>
+    <name><![CDATA[BACKUP 8 W 05 RETRO POLKA DOT ученическа раница]]></name>
+    <price>51.50</price>
+    <price_client>36.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601711121]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>711114</catalog_num>
+    <name><![CDATA[BACKUP 8 W 01 PASTEL CHECKERED ученическа раница]]></name>
+    <price>51.50</price>
+    <price_client>36.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601711114]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>711107</catalog_num>
+    <name><![CDATA[BACKUP 8 P 70 NEON RACE ученическа раница]]></name>
+    <price>49.50</price>
+    <price_client>34.65</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601711107]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
