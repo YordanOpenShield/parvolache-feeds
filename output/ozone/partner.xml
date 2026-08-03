@@ -68795,6 +68795,17 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>712623</catalog_num>
+    <name><![CDATA[FOOTBALL 21 бутилка]]></name>
+    <price>5.60</price>
+    <price_client>3.92</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712623]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>712630</catalog_num>
     <name><![CDATA[CLEO and FRANK 46 бутилка]]></name>
     <price>6.60</price>
@@ -68806,12 +68817,34 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>712661</catalog_num>
+    <name><![CDATA[MINECRAFT DF 40 бутилка]]></name>
+    <price>6.60</price>
+    <price_client>4.62</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712661]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>712647</catalog_num>
     <name><![CDATA['CAPYBARA 10 бутилка]]></name>
     <price>6.60</price>
     <price_client>4.62</price_client>
     <available>Да</available>
     <barcode><![CDATA[5906601712647]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>712654</catalog_num>
+    <name><![CDATA[PANDA 11 бутилка]]></name>
+    <price>6.60</price>
+    <price_client>4.62</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712654]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -68850,12 +68883,67 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>712401</catalog_num>
+    <name><![CDATA[PAWS DF 41 овален несесер]]></name>
+    <price>12.50</price>
+    <price_client>8.75</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712401]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>712418</catalog_num>
+    <name><![CDATA[SUPER MARIO DF 42 овален несесер]]></name>
+    <price>12.50</price>
+    <price_client>8.75</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712418]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>712371</catalog_num>
     <name><![CDATA[CAPYBARA 10 овален несесер]]></name>
     <price>12.50</price>
     <price_client>8.75</price_client>
     <available>Да</available>
     <barcode><![CDATA[5906601712371]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>712388</catalog_num>
+    <name><![CDATA[PANDA 11 овален несесер]]></name>
+    <price>12.50</price>
+    <price_client>8.75</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712388]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>712395</catalog_num>
+    <name><![CDATA[FOOTBALL 21 овален несесер]]></name>
+    <price>12.50</price>
+    <price_client>8.75</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712395]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>712609</catalog_num>
+    <name><![CDATA[MINECRAFT DF 40 портмоне]]></name>
+    <price>6.60</price>
+    <price_client>4.62</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712609]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -68872,12 +68960,56 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>712593</catalog_num>
+    <name><![CDATA[FOOTBALL 21 портмоне]]></name>
+    <price>6.60</price>
+    <price_client>4.62</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712593]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>712135</catalog_num>
+    <name><![CDATA[PAWS DF 41 ученическа раница]]></name>
+    <price>39.60</price>
+    <price_client>27.72</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712135]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>712142</catalog_num>
+    <name><![CDATA[SUPER MARIO DF 42 ученическа раница]]></name>
+    <price>39.60</price>
+    <price_client>27.72</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712142]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>712111</catalog_num>
     <name><![CDATA[CAPYBARA 10 ученическа раница]]></name>
     <price>39.60</price>
     <price_client>27.72</price_client>
     <available>Да</available>
     <barcode><![CDATA[5906601712111]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>712128</catalog_num>
+    <name><![CDATA[PANDA 11 ученическа раница]]></name>
+    <price>39.60</price>
+    <price_client>27.72</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712128]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -68900,6 +69032,28 @@
     <price_client>13.02</price_client>
     <available>Да</available>
     <barcode><![CDATA[5906601712432]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>712449</catalog_num>
+    <name><![CDATA[PANDA 11 несесер с 2 ципа, ПЪЛЕН]]></name>
+    <price>18.60</price>
+    <price_client>13.02</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712449]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>712456</catalog_num>
+    <name><![CDATA[FOOTBALL 21 несесер с 2 ципа, ПЪЛЕН]]></name>
+    <price>18.60</price>
+    <price_client>13.02</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712456]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -68938,6 +69092,17 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>712494</catalog_num>
+    <name><![CDATA[PANDA 11 несесер с 1 цип, ПЪЛЕН]]></name>
+    <price>13.25</price>
+    <price_client>9.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712494]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>712500</catalog_num>
     <name><![CDATA[CLEO and FRANK 46 несесер с 3 ципа, ПЪЛЕН]]></name>
     <price>23.50</price>
@@ -68960,12 +69125,56 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>712562</catalog_num>
+    <name><![CDATA[PAWS DF 41 несесер с 3 ципа, ПЪЛЕН]]></name>
+    <price>23.50</price>
+    <price_client>16.45</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712562]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>712579</catalog_num>
+    <name><![CDATA[SUPER MARIO DF 42 несесер с 3 ципа, ПЪЛЕН]]></name>
+    <price>23.50</price>
+    <price_client>16.45</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712579]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>712524</catalog_num>
     <name><![CDATA[CAPYBARA 10 несесер с 3 ципа, ПЪЛЕН]]></name>
     <price>23.50</price>
     <price_client>16.45</price_client>
     <available>Да</available>
     <barcode><![CDATA[5906601712524]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>712531</catalog_num>
+    <name><![CDATA[PANDA 11 несесер с 3 ципа, ПЪЛЕН]]></name>
+    <price>23.50</price>
+    <price_client>16.45</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712531]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>712548</catalog_num>
+    <name><![CDATA[FOOTBALL 21 несесер с 3 ципа, ПЪЛЕН]]></name>
+    <price>23.50</price>
+    <price_client>16.45</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712548]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -68993,12 +69202,45 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>712722</catalog_num>
+    <name><![CDATA[MINECRAFT DF 40 кутия за храна]]></name>
+    <price>5.80</price>
+    <price_client>4.06</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712722]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>712692</catalog_num>
     <name><![CDATA[CAPYBARA 10 кутия за храна]]></name>
     <price>5.80</price>
     <price_client>4.06</price_client>
     <available>Да</available>
     <barcode><![CDATA[5906601712692]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>712708</catalog_num>
+    <name><![CDATA[PANDA 11 кутия за храна]]></name>
+    <price>5.80</price>
+    <price_client>4.06</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712708]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>712715</catalog_num>
+    <name><![CDATA[FOOTBALL 21 кутия за храна]]></name>
+    <price>5.80</price>
+    <price_client>4.06</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712715]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -69037,6 +69279,28 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>712180</catalog_num>
+    <name><![CDATA[FOOTBALL 21 ергономична раница]]></name>
+    <price>61.50</price>
+    <price_client>43.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712180]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>711794</catalog_num>
+    <name><![CDATA[MINECRAFT 8 A 61 куфарче с дръжка 5 см]]></name>
+    <price>9.80</price>
+    <price_client>6.86</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601711794]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>712227</catalog_num>
     <name><![CDATA[CLEO and FRANK 46 спортна торба]]></name>
     <price>6.00</price>
@@ -69059,6 +69323,28 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>712289</catalog_num>
+    <name><![CDATA[PAWS DF 41 спортна торба]]></name>
+    <price>6.00</price>
+    <price_client>4.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712289]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>712296</catalog_num>
+    <name><![CDATA[SUPER MARIO DF 42 спортна торба]]></name>
+    <price>6.00</price>
+    <price_client>4.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712296]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>712241</catalog_num>
     <name><![CDATA[CAPYBARA 10 спортна торба]]></name>
     <price>6.00</price>
@@ -69066,6 +69352,72 @@
     <available>Да</available>
     <barcode><![CDATA[5906601712241]]></barcode>
     <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>712258</catalog_num>
+    <name><![CDATA[PANDA 11 спортна торба]]></name>
+    <price>6.00</price>
+    <price_client>4.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712258]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>712265</catalog_num>
+    <name><![CDATA[FOOTBALL 21 спортна торба]]></name>
+    <price>6.00</price>
+    <price_client>4.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712265]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>713637</catalog_num>
+    <name><![CDATA[BackUP кутия за храна 8 D 36, две нива]]></name>
+    <price>7.50</price>
+    <price_client>5.25</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601713637]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>713644</catalog_num>
+    <name><![CDATA[BackUP кутия за храна 8 D 42, две нива]]></name>
+    <price>7.50</price>
+    <price_client>5.25</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601713644]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>713217</catalog_num>
+    <name><![CDATA[KIDEA комплект 2 бр.текстмаркери и печат Loove and Roll]]></name>
+    <price>4.75</price>
+    <price_client>3.33</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601713217]]></barcode>
+    <brand><![CDATA[KIDEA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>713200</catalog_num>
+    <name><![CDATA[KIDEA комплект 4 бр.текстмаркери Fruit]]></name>
+    <price>3.20</price>
+    <price_client>2.24</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601713200]]></barcode>
+    <brand><![CDATA[KIDEA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -69088,6 +69440,17 @@
     <available>Да</available>
     <barcode><![CDATA[5906601713903]]></barcode>
     <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>713897</catalog_num>
+    <name><![CDATA[SUPER MARIO DF 42 ламинирана подложка]]></name>
+    <price>2.00</price>
+    <price_client>1.40</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601713897]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
@@ -69154,6 +69517,105 @@
     <available>Не</available>
     <barcode><![CDATA[5906601710698]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>712760-1</catalog_num>
+    <name><![CDATA[KIDEA изтриваема химикалка Мечета]]></name>
+    <price>1.80</price>
+    <price_client>1.26</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[59066017127601]]></barcode>
+    <brand><![CDATA[KIDEA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>712760-2</catalog_num>
+    <name><![CDATA[KIDEA изтриваема химикалка Капибара]]></name>
+    <price>1.80</price>
+    <price_client>1.26</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[59066017127602]]></barcode>
+    <brand><![CDATA[KIDEA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>712814</catalog_num>
+    <name><![CDATA[KIDEA изтриваема химикалка Плюшено мече]]></name>
+    <price>1.80</price>
+    <price_client>1.26</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712814]]></barcode>
+    <brand><![CDATA[KIDEA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>713545</catalog_num>
+    <name><![CDATA[KIDEA автоматична химикалка с топка Футбол]]></name>
+    <price>1.90</price>
+    <price_client>1.33</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601713545]]></barcode>
+    <brand><![CDATA[KIDEA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>712913</catalog_num>
+    <name><![CDATA[KIDEA двойна острилка с гума PAWS]]></name>
+    <price>1.80</price>
+    <price_client>1.26</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712913]]></barcode>
+    <brand><![CDATA[KIDEA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>713651</catalog_num>
+    <name><![CDATA[KIDEA комплект 4 бр. гуми-книга]]></name>
+    <price>1.20</price>
+    <price_client>0.84</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601713651]]></barcode>
+    <brand><![CDATA[KIDEA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>712975</catalog_num>
+    <name><![CDATA[KIDEA комплект 5 бр. ароматни гуми Bubble Tea]]></name>
+    <price>2.20</price>
+    <price_client>1.54</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712975]]></barcode>
+    <brand><![CDATA[KIDEA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>712784</catalog_num>
+    <name><![CDATA[KIDEA комплект ароматизирани моливи и гуми Капибара]]></name>
+    <price>3.00</price>
+    <price_client>2.10</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712784]]></barcode>
+    <brand><![CDATA[KIDEA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>712838</catalog_num>
+    <name><![CDATA[KIDEA комплект ароматизирани моливи и гуми Котешки лапи]]></name>
+    <price>3.00</price>
+    <price_client>2.10</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712838]]></barcode>
+    <brand><![CDATA[KIDEA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
