@@ -159,7 +159,7 @@
     <name><![CDATA[BackUp 5 O 02 Liquid Colours ученическа раница]]></name>
     <price>45.50</price>
     <price_client>31.85</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130093946]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -467,7 +467,7 @@
     <name><![CDATA[BackUp 5 X 15 Manga ученическа раница]]></name>
     <price>44.43</price>
     <price_client>31.10</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130094325]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -665,7 +665,7 @@
     <name><![CDATA[BackUp 5 A 12 Kisses  овален несесер]]></name>
     <price>9.66</price>
     <price_client>6.76</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130092833]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -863,7 +863,7 @@
     <name><![CDATA[BackUp 5 A 42 Magma овален несесер]]></name>
     <price>9.66</price>
     <price_client>6.76</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130093113]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -1149,7 +1149,7 @@
     <name><![CDATA[BackUp 5 SW 94 Chessboard несесер с 1 цип, ПЪЛЕН]]></name>
     <price>13.24</price>
     <price_client>9.27</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130093809]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -1270,7 +1270,7 @@
     <name><![CDATA[BackUp 5 DW 94 Chessboard несесер с 2 ципа, ПЪЛЕН]]></name>
     <price>16.36</price>
     <price_client>11.45</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130093496]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -2051,7 +2051,7 @@
     <name><![CDATA[HULK Superhuman 3D несесер с 2 отделения]]></name>
     <price>13.29</price>
     <price_client>9.31</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8445118063325]]></barcode>
     <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
@@ -2062,7 +2062,7 @@
     <name><![CDATA[AVENGERS Massive 3D малка раница]]></name>
     <price>16.87</price>
     <price_client>11.81</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8445118063349]]></barcode>
     <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
@@ -2128,7 +2128,7 @@
     <name><![CDATA[PRINCESS Palace 3D малка раница]]></name>
     <price>16.87</price>
     <price_client>11.81</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8445118063677]]></barcode>
     <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
@@ -2832,7 +2832,7 @@
     <name><![CDATA[MINNIE Garden 3D малка раница]]></name>
     <price>16.36</price>
     <price_client>11.45</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8445118048568]]></barcode>
     <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
@@ -3283,7 +3283,7 @@
     <name><![CDATA[HARRY POTTER FAN Fight ученическа раница College]]></name>
     <price>40.34</price>
     <price_client>28.24</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8445118035100]]></barcode>
     <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
@@ -3327,7 +3327,7 @@
     <name><![CDATA[OMP! портфейл Еднорози]]></name>
     <price>16.82</price>
     <price_client>11.78</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8435376377487]]></barcode>
     <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
@@ -3404,7 +3404,7 @@
     <name><![CDATA[SONIC FAN HS раница Blue Lay]]></name>
     <price>35.23</price>
     <price_client>24.66</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8445118047417]]></barcode>
     <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
@@ -4097,7 +4097,7 @@
     <name><![CDATA[THOR портмоне]]></name>
     <price>9.15</price>
     <price_client>6.41</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[8445118028683]]></barcode>
     <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
@@ -4108,7 +4108,7 @@
     <name><![CDATA[CAPTAIN AMERICA портмоне]]></name>
     <price>9.15</price>
     <price_client>6.41</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[8445118028669]]></barcode>
     <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
@@ -4350,7 +4350,7 @@
     <name><![CDATA[LADYBUG Несесер с 2 ципа]]></name>
     <price>8.13</price>
     <price_client>5.69</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8435376355102]]></barcode>
     <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
@@ -4636,7 +4636,7 @@
     <name><![CDATA[MINNIE  раница с пайети]]></name>
     <price>24.80</price>
     <price_client>17.36</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8427934181988]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -4669,7 +4669,7 @@
     <name><![CDATA[SPIDERMAN малка раница с 2 маркера за оцветяване]]></name>
     <price>17.84</price>
     <price_client>12.49</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8427934174829]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -5923,7 +5923,7 @@
     <name><![CDATA[BLUEY комплект аксесоари за коса и слънчеви очила]]></name>
     <price>9.15</price>
     <price_client>6.41</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8445484351019]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -8904,7 +8904,7 @@
     <name><![CDATA[BATMAN моливник за оцветяване]]></name>
     <price>4.55</price>
     <price_client>3.19</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8032780952066]]></barcode>
     <brand><![CDATA[Disney]]></brand>
     <category></category>
@@ -9509,7 +9509,7 @@
     <name><![CDATA[Етикети Pac-Man]]></name>
     <price>0.51</price>
     <price_client>0.36</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130095230]]></barcode>
     <brand><![CDATA[N/A]]></brand>
     <category></category>
@@ -9575,7 +9575,7 @@
     <name><![CDATA[LIZZY CARD LOLLIPOP LIL BABE комплект 3 в 1]]></name>
     <price>101.75</price>
     <price_client>71.22</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5999121303853]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -9630,7 +9630,7 @@
     <name><![CDATA[LIZZY CARD LOLLIPOP LIL BABE несесер с 3 ципа]]></name>
     <price>15.29</price>
     <price_client>10.70</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5999121304492]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -9718,7 +9718,7 @@
     <name><![CDATA[LIZZY CARD LOLLIPOP LIL BABE етикети]]></name>
     <price>0.77</price>
     <price_client>0.54</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5999121307202]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -9883,7 +9883,7 @@
     <name><![CDATA[LIZZY CARD KITTOK CATTO комплект 5 в 1]]></name>
     <price>122.20</price>
     <price_client>85.54</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5999121304072]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -10796,7 +10796,7 @@
     <name><![CDATA[LIZZY CARD TOP LEAGUE TOP 10  спортна торба]]></name>
     <price>6.60</price>
     <price_client>4.62</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5999121304836]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -11533,7 +11533,7 @@
     <name><![CDATA[STITCH пончо]]></name>
     <price>12.73</price>
     <price_client>8.91</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5407010075274]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -12138,7 +12138,7 @@
     <name><![CDATA[PASO SPIDERMAN ученическа раница]]></name>
     <price>39.11</price>
     <price_client>27.38</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162125046]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -12270,7 +12270,7 @@
     <name><![CDATA[PASO FOOTBALL цилиндричен несесер]]></name>
     <price>6.08</price>
     <price_client>4.26</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162124681]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -12369,7 +12369,7 @@
     <name><![CDATA[PASO GAME ученическа раница Minecraft]]></name>
     <price>45.97</price>
     <price_client>32.18</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162127743]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -12534,7 +12534,7 @@
     <name><![CDATA[PASO STITCH ергономична раница]]></name>
     <price>55.73</price>
     <price_client>39.01</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162124520]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -12655,7 +12655,7 @@
     <name><![CDATA[PASO CAT ученическа раница]]></name>
     <price>45.97</price>
     <price_client>32.18</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162126975]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -12831,7 +12831,7 @@
     <name><![CDATA[PASO BALLET ергономична раница]]></name>
     <price>55.73</price>
     <price_client>39.01</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162127026]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -13062,7 +13062,7 @@
     <name><![CDATA[PASO SMILEY ученическа раница]]></name>
     <price>45.97</price>
     <price_client>32.18</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162124872]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -13381,7 +13381,7 @@
     <name><![CDATA[PASO Start Game спортна чанта]]></name>
     <price>20.40</price>
     <price_client>14.28</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5903162120423]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -13425,7 +13425,7 @@
     <name><![CDATA[PASO Start Game бутилка 500 мл]]></name>
     <price>6.60</price>
     <price_client>4.62</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5903162120485]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -14085,7 +14085,7 @@
     <name><![CDATA[PASO Gamer овален несесер Minecraft]]></name>
     <price>16.36</price>
     <price_client>11.45</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162115443]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -14217,7 +14217,7 @@
     <name><![CDATA[PASO Venom ученическа раница]]></name>
     <price>44.99</price>
     <price_client>31.50</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162116174]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -14305,7 +14305,7 @@
     <name><![CDATA[PASO Frozen спортна чанта]]></name>
     <price>20.40</price>
     <price_client>14.28</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5903162114224]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -14635,7 +14635,7 @@
     <name><![CDATA[PASO Avengers несесер]]></name>
     <price>6.08</price>
     <price_client>4.26</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162105680]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -14767,7 +14767,7 @@
     <name><![CDATA[PASO Nasa спортна чанта]]></name>
     <price>20.40</price>
     <price_client>14.28</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162108698]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -15526,7 +15526,7 @@
     <name><![CDATA[PASO Start Game спортна торба Minecraft]]></name>
     <price>6.08</price>
     <price_client>4.26</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162111643]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -16263,7 +16263,7 @@
     <name><![CDATA[FUSION ученическа раница 2 в 1]]></name>
     <price>54.20</price>
     <price_client>37.94</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[3830052865114]]></barcode>
     <brand><![CDATA[KAOS]]></brand>
     <category></category>
@@ -16571,7 +16571,7 @@
     <name><![CDATA[STREET STYLE ученическа раница 2 в 1]]></name>
     <price>54.20</price>
     <price_client>37.94</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[3830052865220]]></barcode>
     <brand><![CDATA[KAOS]]></brand>
     <category></category>
@@ -17858,7 +17858,7 @@
     <name><![CDATA[WROOM ученическа раница 2 в 1]]></name>
     <price>74.14</price>
     <price_client>51.90</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[3830052868726]]></barcode>
     <brand><![CDATA[KAOS]]></brand>
     <category></category>
@@ -17924,7 +17924,7 @@
     <name><![CDATA[KAOS WROOM раница 2 в 1 на колела]]></name>
     <price>94.59</price>
     <price_client>66.21</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[3830052868740]]></barcode>
     <brand><![CDATA[KAOS]]></brand>
     <category></category>
@@ -17957,7 +17957,7 @@
     <name><![CDATA[GAME OVER ученическа раница 2 в 1]]></name>
     <price>74.14</price>
     <price_client>51.90</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[3830052868757]]></barcode>
     <brand><![CDATA[KAOS]]></brand>
     <category></category>
@@ -18100,7 +18100,7 @@
     <name><![CDATA[PIC POKEY ученическа раница Urban]]></name>
     <price>57.26</price>
     <price_client>40.09</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[3830052868276]]></barcode>
     <brand><![CDATA[KAOS]]></brand>
     <category></category>
@@ -19948,7 +19948,7 @@
     <name><![CDATA[CANDY DF 26 спортна торба]]></name>
     <price>6.08</price>
     <price_client>4.26</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130087310]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -20135,7 +20135,7 @@
     <name><![CDATA[CLEO & FRANK 34  подложка за бюро картон]]></name>
     <price>5.06</price>
     <price_client>3.54</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130086504]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -20201,7 +20201,7 @@
     <name><![CDATA[CLEO AND FRANK 35 чанта за кръст]]></name>
     <price>11.20</price>
     <price_client>11.20</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130088188]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -20223,7 +20223,7 @@
     <name><![CDATA[CLEO AND FRANK 35 несесер с 2 ципа, ПЪЛЕН]]></name>
     <price>18.36</price>
     <price_client>18.36</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130087624]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -20266,7 +20266,7 @@
     <catalog_num>90433</catalog_num>
     <name><![CDATA[CLEO AND FRANK 35 подложка за бюро ламинирана]]></name>
     <price>1.99</price>
-    <price_client>1.99</price_client>
+    <price_client>1.40</price_client>
     <available>Да</available>
     <barcode><![CDATA[5901130090433]]></barcode>
     <brand><![CDATA[Derform]]></brand>
@@ -20432,7 +20432,7 @@
     <name><![CDATA[CARS 50 ученическа раница]]></name>
     <price>40.34</price>
     <price_client>28.24</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130087990]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -20531,7 +20531,7 @@
     <name><![CDATA[DF 31 GAME ергономична раница]]></name>
     <price>65.96</price>
     <price_client>46.17</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130096312]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -20575,7 +20575,7 @@
     <name><![CDATA[BEST FRIENDS 10 ергономична раница]]></name>
     <price>65.96</price>
     <price_client>46.17</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130096275]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -20850,7 +20850,7 @@
     <name><![CDATA[CLEO & FRANK 41 несесер с 1 цип, ПЪЛЕН]]></name>
     <price>13.24</price>
     <price_client>9.27</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130095599]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -20916,7 +20916,7 @@
     <name><![CDATA[CLEO & FRANK 41 несесер с 2 ципа, ПЪЛЕН]]></name>
     <price>18.87</price>
     <price_client>13.21</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130095513]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -20949,7 +20949,7 @@
     <name><![CDATA[BEST FRIENDS 10 несесер с 2 ципа, ПЪЛЕН]]></name>
     <price>18.87</price>
     <price_client>13.21</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130095544]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -21353,7 +21353,7 @@
   </item>
   <item>
     <catalog_num>97562</catalog_num>
-    <name><![CDATA[DF 31 GAME бутилка със сламка 330 мл]]></name>
+    <name><![CDATA[DF 31 GAME бутилка със сламка 330 мл Minecraft]]></name>
     <price>5.57</price>
     <price_client>3.90</price_client>
     <available>Да</available>
@@ -21441,7 +21441,7 @@
   </item>
   <item>
     <catalog_num>97708</catalog_num>
-    <name><![CDATA[DF 31 GAME кутия за храна]]></name>
+    <name><![CDATA[DF 31 GAME кутия за храна Minecraft]]></name>
     <price>5.06</price>
     <price_client>3.54</price_client>
     <available>Да</available>
@@ -21510,7 +21510,7 @@
     <name><![CDATA[ANIMALS бутилка 330 мл]]></name>
     <price>6.08</price>
     <price_client>4.26</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130097609]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -21532,7 +21532,7 @@
     <name><![CDATA[DINOSAUR 18 комплект бутилка и кутия за храна]]></name>
     <price>10.99</price>
     <price_client>7.69</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130097746]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -21675,7 +21675,7 @@
     <name><![CDATA[BALLET 11 куфарче с дръжка 5 см]]></name>
     <price>9.66</price>
     <price_client>6.76</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130096657]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -22412,7 +22412,7 @@
     <name><![CDATA[BackUP Happy Face  ученическа раница 6 X 14]]></name>
     <price>45.97</price>
     <price_client>32.18</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130101290]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -22775,7 +22775,7 @@
     <name><![CDATA[BackUP Fantasy ученическа раница 6 X 27]]></name>
     <price>45.97</price>
     <price_client>32.18</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130101306]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -23325,7 +23325,7 @@
     <name><![CDATA[BackUP Sky Water ученическа раница 6 A 47]]></name>
     <price>47.50</price>
     <price_client>33.25</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130100729]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -23740,7 +23740,7 @@
   </item>
   <item>
     <catalog_num>100125</catalog_num>
-    <name><![CDATA[BackUP Game Level овален несесер 6 A 61]]></name>
+    <name><![CDATA[BackUP Miecraft овален несесер 6 A 61]]></name>
     <price>10.17</price>
     <price_client>7.12</price_client>
     <available>Да</available>
@@ -24337,7 +24337,7 @@
     <name><![CDATA[FROZEN креативен албум]]></name>
     <price>11.25</price>
     <price_client>7.87</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8445484304473]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -24656,7 +24656,7 @@
     <name><![CDATA[PAW PATROL 3D малка раница]]></name>
     <price>16.36</price>
     <price_client>11.45</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8445484369199]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -26306,7 +26306,7 @@
     <name><![CDATA[KIDEA електрическа острилка]]></name>
     <price>9.97</price>
     <price_client>6.98</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130085392]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
     <category></category>
@@ -26779,7 +26779,7 @@
     <name><![CDATA[KIDEA комплект 2 бр. ножици за декорация]]></name>
     <price>3.53</price>
     <price_client>2.47</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130049806]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
     <category></category>
@@ -28517,7 +28517,7 @@
     <name><![CDATA[Малка раница Коте]]></name>
     <price>15.29</price>
     <price_client>10.70</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130098002]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -28759,7 +28759,7 @@
     <name><![CDATA[THE GAME A 52 подложка за бюро картон]]></name>
     <price>5.06</price>
     <price_client>3.54</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -29166,7 +29166,7 @@
     <name><![CDATA[HARRY POTTER кутия за храна с 3 отделения]]></name>
     <price>9.15</price>
     <price_client>6.41</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8412497141203]]></barcode>
     <brand><![CDATA[STOR]]></brand>
     <category></category>
@@ -29573,7 +29573,7 @@
     <name><![CDATA[UNICORN кутия за храна с 3 отделения]]></name>
     <price>8.64</price>
     <price_client>6.05</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8412497097227]]></barcode>
     <brand><![CDATA[STOR]]></brand>
     <category></category>
@@ -29606,7 +29606,7 @@
     <name><![CDATA[PEPPA PIG бутилка тритан 430 мл]]></name>
     <price>10.17</price>
     <price_client>7.12</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8412497139361]]></barcode>
     <brand><![CDATA[STOR]]></brand>
     <category></category>
@@ -29681,8 +29681,8 @@
   <item>
     <catalog_num>GB7086</catalog_num>
     <name><![CDATA[Тетрадка А5, офсет, 40л. – бели листа]]></name>
-    <price>0.82</price>
-    <price_client>0.82</price_client>
+    <price>0.85</price>
+    <price_client>0.85</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Gabol]]></brand>
@@ -29692,8 +29692,8 @@
   <item>
     <catalog_num>GB72602</catalog_num>
     <name><![CDATA[Тетрадка А5, офсет, 40л. – големи квадрати момиче]]></name>
-    <price>0.82</price>
-    <price_client>0.82</price_client>
+    <price>0.85</price>
+    <price_client>0.85</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Gabol]]></brand>
@@ -29703,8 +29703,8 @@
   <item>
     <catalog_num>GB72603</catalog_num>
     <name><![CDATA[Тетрадка А5, офсет, 40л. – големи квадрати момче]]></name>
-    <price>0.82</price>
-    <price_client>0.82</price_client>
+    <price>0.85</price>
+    <price_client>0.85</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Gabol]]></brand>
@@ -29714,8 +29714,8 @@
   <item>
     <catalog_num>GB72610</catalog_num>
     <name><![CDATA[Тетрадка А5, офсет, 40л. – малки квадрати момиче]]></name>
-    <price>0.82</price>
-    <price_client>0.82</price_client>
+    <price>0.85</price>
+    <price_client>0.85</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Gabol]]></brand>
@@ -29725,8 +29725,8 @@
   <item>
     <catalog_num>GB72611</catalog_num>
     <name><![CDATA[Тетрадка А5, офсет, 40л. – малки квадрати момче]]></name>
-    <price>0.82</price>
-    <price_client>0.82</price_client>
+    <price>0.85</price>
+    <price_client>0.85</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Gabol]]></brand>
@@ -29736,8 +29736,8 @@
   <item>
     <catalog_num>GB72590</catalog_num>
     <name><![CDATA[Тетрадка А5, офсет, 40л. – тесен и широк ред - момиче]]></name>
-    <price>0.82</price>
-    <price_client>0.82</price_client>
+    <price>0.85</price>
+    <price_client>0.85</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Gabol]]></brand>
@@ -29747,8 +29747,8 @@
   <item>
     <catalog_num>GB72591</catalog_num>
     <name><![CDATA[Тетрадка А5, офсет, 40л. – тесен и широк ред - момче]]></name>
-    <price>0.82</price>
-    <price_client>0.82</price_client>
+    <price>0.85</price>
+    <price_client>0.85</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Gabol]]></brand>
@@ -29758,8 +29758,8 @@
   <item>
     <catalog_num>GB72120</catalog_num>
     <name><![CDATA[Тетрадка А5, офсет, 40л. – широк ред – за момичета]]></name>
-    <price>0.82</price>
-    <price_client>0.82</price_client>
+    <price>0.85</price>
+    <price_client>0.85</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Gabol]]></brand>
@@ -29769,8 +29769,8 @@
   <item>
     <catalog_num>GB72121</catalog_num>
     <name><![CDATA[Тетрадка А5, офсет, 40л. – широк ред – за момчета]]></name>
-    <price>0.82</price>
-    <price_client>0.82</price_client>
+    <price>0.85</price>
+    <price_client>0.85</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Gabol]]></brand>
@@ -29780,8 +29780,8 @@
   <item>
     <catalog_num>GB72130</catalog_num>
     <name><![CDATA[Тетрадка А5, офсет, 56л. – ред – за момичета]]></name>
-    <price>0.92</price>
-    <price_client>0.92</price_client>
+    <price>1.05</price>
+    <price_client>1.05</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Gabol]]></brand>
@@ -29791,8 +29791,8 @@
   <item>
     <catalog_num>GB72131</catalog_num>
     <name><![CDATA[Тетрадка А5, офсет, 56л. – ред – за момчета]]></name>
-    <price>0.92</price>
-    <price_client>0.92</price_client>
+    <price>1.05</price>
+    <price_client>1.05</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Gabol]]></brand>
@@ -29835,8 +29835,8 @@
   <item>
     <catalog_num>GB72141</catalog_num>
     <name><![CDATA[Тетрадка А5, офсет, 80л. – ред момиче]]></name>
-    <price>1.33</price>
-    <price_client>1.33</price_client>
+    <price>1.40</price>
+    <price_client>1.40</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Gabol]]></brand>
@@ -29846,8 +29846,8 @@
   <item>
     <catalog_num>GB72142</catalog_num>
     <name><![CDATA[Тетрадка А5, офсет, 80л. – ред момче]]></name>
-    <price>1.33</price>
-    <price_client>1.33</price_client>
+    <price>1.40</price>
+    <price_client>1.40</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Gabol]]></brand>
@@ -29868,8 +29868,8 @@
   <item>
     <catalog_num>GB4042</catalog_num>
     <name><![CDATA[Тетрадка А4, офсет, 40л. – каре]]></name>
-    <price>1.53</price>
-    <price_client>1.53</price_client>
+    <price>1.55</price>
+    <price_client>1.55</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Gabol]]></brand>
@@ -29879,8 +29879,8 @@
   <item>
     <catalog_num>GB40411</catalog_num>
     <name><![CDATA[Тетрадка А4, офсет, 40л. – широк ред момиче]]></name>
-    <price>1.53</price>
-    <price_client>1.53</price_client>
+    <price>1.55</price>
+    <price_client>1.55</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Gabol]]></brand>
@@ -29890,8 +29890,8 @@
   <item>
     <catalog_num>GB40412</catalog_num>
     <name><![CDATA[Тетрадка А4, офсет, 40л. – широк ред момче]]></name>
-    <price>1.53</price>
-    <price_client>1.53</price_client>
+    <price>1.55</price>
+    <price_client>1.55</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Gabol]]></brand>
@@ -29901,8 +29901,8 @@
   <item>
     <catalog_num>GB72192</catalog_num>
     <name><![CDATA[Тетрадка А4, офсет, 60л. м. кв.]]></name>
-    <price>1.94</price>
-    <price_client>1.94</price_client>
+    <price>1.95</price>
+    <price_client>1.95</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Gabol]]></brand>
@@ -29912,8 +29912,8 @@
   <item>
     <catalog_num>GB7135</catalog_num>
     <name><![CDATA[Тетрадка А4, офсет, 60л. – бели листа]]></name>
-    <price>1.94</price>
-    <price_client>1.94</price_client>
+    <price>1.95</price>
+    <price_client>1.95</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Gabol]]></brand>
@@ -29923,8 +29923,8 @@
   <item>
     <catalog_num>GB72201</catalog_num>
     <name><![CDATA[Тетрадка А4, офсет, 60л. – каре- за момичета]]></name>
-    <price>1.94</price>
-    <price_client>1.94</price_client>
+    <price>1.95</price>
+    <price_client>1.95</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Gabol]]></brand>
@@ -29934,8 +29934,8 @@
   <item>
     <catalog_num>GB72202</catalog_num>
     <name><![CDATA[Тетрадка А4, офсет, 60л. – каре-за момчета]]></name>
-    <price>1.94</price>
-    <price_client>1.94</price_client>
+    <price>1.95</price>
+    <price_client>1.95</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Gabol]]></brand>
@@ -29945,8 +29945,8 @@
   <item>
     <catalog_num>GB72190</catalog_num>
     <name><![CDATA[Тетрадка А4, офсет, 60л. – широк ред – за момичета]]></name>
-    <price>1.94</price>
-    <price_client>1.94</price_client>
+    <price>1.95</price>
+    <price_client>1.95</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Gabol]]></brand>
@@ -29956,8 +29956,8 @@
   <item>
     <catalog_num>GB72191</catalog_num>
     <name><![CDATA[Тетрадка А4, офсет, 60л. – широк ред – за момчета]]></name>
-    <price>1.94</price>
-    <price_client>1.94</price_client>
+    <price>1.95</price>
+    <price_client>1.95</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Gabol]]></brand>
@@ -31399,7 +31399,7 @@
     <name><![CDATA[MITAMA Girls Club несесер с 3 ципа, ПЪЛЕН]]></name>
     <price>30.63</price>
     <price_client>21.44</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8026624642886]]></barcode>
     <brand><![CDATA[MITAMA]]></brand>
     <category></category>
@@ -31696,7 +31696,7 @@
     <name><![CDATA[BackUp L 31 Cherry ученическа раница]]></name>
     <price>40.85</price>
     <price_client>28.60</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130064236]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -31704,7 +31704,7 @@
   </item>
   <item>
     <catalog_num>82605</catalog_num>
-    <name><![CDATA[BackUp A 32 Water овален несесер]]></name>
+    <name><![CDATA[BackUp 4 A 32 Water овален несесер]]></name>
     <price>9.66</price>
     <price_client>6.76</price_client>
     <available>Да</available>
@@ -31982,7 +31982,7 @@
     <name><![CDATA[BackUp A 27 овален несесер]]></name>
     <price>9.66</price>
     <price_client>6.76</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130065400]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -32972,7 +32972,7 @@
     <name><![CDATA[BackUp R 68 Pixels ученическа раница]]></name>
     <price>45.97</price>
     <price_client>32.18</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130089352]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -33035,7 +33035,7 @@
   </item>
   <item>
     <catalog_num>89277</catalog_num>
-    <name><![CDATA[BackUp P 61 Gamer ученическа раница]]></name>
+    <name><![CDATA[BackUp P 61 Minecraft ученическа раница]]></name>
     <price>42.39</price>
     <price_client>29.67</price_client>
     <available>Да</available>
@@ -34171,7 +34171,7 @@
     <name><![CDATA[RACCOON малка раница]]></name>
     <price>21.47</price>
     <price_client>15.03</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903235663611]]></barcode>
     <brand><![CDATA[St.Majewski]]></brand>
     <category></category>
@@ -34402,7 +34402,7 @@
     <name><![CDATA[PAW PATROL SKY 3D малка раница]]></name>
     <price>15.29</price>
     <price_client>10.70</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5903235661051]]></barcode>
     <brand><![CDATA[St.Majewski]]></brand>
     <category></category>
@@ -35172,7 +35172,7 @@
     <name><![CDATA[Химикалка с гума OCEAN]]></name>
     <price>2.05</price>
     <price_client>0.89</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5904335821147]]></barcode>
     <brand><![CDATA[Starpak]]></brand>
     <category></category>
@@ -35502,7 +35502,7 @@
     <name><![CDATA[MINECRAFT тетрадка А5, офсет, 20л. – малки квадрати]]></name>
     <price>0.61</price>
     <price_client>0.43</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[457403293]]></barcode>
     <brand><![CDATA[Disney]]></brand>
     <category></category>
@@ -35568,7 +35568,7 @@
     <name><![CDATA[MINECRAFT  тефтерче А6 40 листа]]></name>
     <price>1.43</price>
     <price_client>1.00</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[90001178]]></barcode>
     <brand><![CDATA[Disney]]></brand>
     <category></category>
@@ -35755,7 +35755,7 @@
     <name><![CDATA[STITCH сухо лепило 8 гр]]></name>
     <price>2.30</price>
     <price_client>1.57</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903686374753]]></barcode>
     <brand><![CDATA[Colorino]]></brand>
     <category></category>
@@ -35898,7 +35898,7 @@
     <name><![CDATA[FOOTBALL 19 куфарче с дръжка 10 см]]></name>
     <price>11.50</price>
     <price_client>8.05</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130104147]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -35920,7 +35920,7 @@
     <name><![CDATA[HORSES 25 куфарче с дръжка 10 см]]></name>
     <price>11.50</price>
     <price_client>8.05</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130104086]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -36107,7 +36107,7 @@
     <name><![CDATA[FROZEN 2 Dream кръгла чанта]]></name>
     <price>15.29</price>
     <price_client>10.70</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[8445118071689]]></barcode>
     <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
@@ -36765,8 +36765,8 @@
   <item>
     <catalog_num>24995780</catalog_num>
     <name><![CDATA[Семейство Пепа комплект 4 бр.]]></name>
-    <price>33.23</price>
-    <price_client>23.26</price_client>
+    <price>50.00</price>
+    <price_client>38.00</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Disney]]></brand>
@@ -36877,7 +36877,7 @@
     <name><![CDATA[SPIDERMAN чанта за рамо]]></name>
     <price>12.73</price>
     <price_client>8.91</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8054708305341]]></barcode>
     <brand><![CDATA[Coriex]]></brand>
     <category></category>
@@ -36943,7 +36943,7 @@
     <name><![CDATA[SONIC спортна чанта]]></name>
     <price>29.91</price>
     <price_client>20.94</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8054708311113]]></barcode>
     <brand><![CDATA[Coriex]]></brand>
     <category></category>
@@ -37427,7 +37427,7 @@
     <name><![CDATA[PAW PATROL автоматичен чадър]]></name>
     <price>8.64</price>
     <price_client>6.05</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5904009118245]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -37537,7 +37537,7 @@
     <name><![CDATA[PX ергономична раница]]></name>
     <price>76.18</price>
     <price_client>53.33</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903235653858]]></barcode>
     <brand><![CDATA[St.Majewski]]></brand>
     <category></category>
@@ -38483,7 +38483,7 @@
     <name><![CDATA[KOALA ламинирана подложка]]></name>
     <price>1.99</price>
     <price_client>1.40</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[1010000440231]]></barcode>
     <brand><![CDATA[St.Majewski]]></brand>
     <category></category>
@@ -38736,7 +38736,7 @@
     <name><![CDATA[MITAMA количка за раница Синя]]></name>
     <price>22.50</price>
     <price_client>15.75</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8026624619871]]></barcode>
     <brand><![CDATA[MITAMA]]></brand>
     <category></category>
@@ -39462,7 +39462,7 @@
     <name><![CDATA[MINECRAFT  шапка с помпон]]></name>
     <price>12.27</price>
     <price_client>8.59</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5056463470282]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -40210,7 +40210,7 @@
     <name><![CDATA[PASO STITCH плюшен таен дневник]]></name>
     <price>13.55</price>
     <price_client>9.48</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5903162132075]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -40265,7 +40265,7 @@
     <name><![CDATA[STITCH голям плюшен дневник с бродерия А4]]></name>
     <price>18.87</price>
     <price_client>13.21</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5903162132594]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -40419,7 +40419,7 @@
     <name><![CDATA[BLUEY кутия за храна с 3 отделения]]></name>
     <price>9.15</price>
     <price_client>6.41</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8412497506200]]></barcode>
     <brand><![CDATA[STOR]]></brand>
     <category></category>
@@ -40826,7 +40826,7 @@
     <name><![CDATA[KAOS FLIGHTHEART 2 в 1 раница с колела]]></name>
     <price>99.70</price>
     <price_client>69.79</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[3830052869693]]></barcode>
     <brand><![CDATA[KAOS]]></brand>
     <category></category>
@@ -40881,7 +40881,7 @@
     <name><![CDATA[KAOS TILLY 2 в 1 раница с колела]]></name>
     <price>99.70</price>
     <price_client>69.79</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[3830052869778]]></barcode>
     <brand><![CDATA[KAOS]]></brand>
     <category></category>
@@ -41244,7 +41244,7 @@
     <name><![CDATA[KAOS DREAMER 2 в 1 раница с колела]]></name>
     <price>99.70</price>
     <price_client>69.79</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[3830052870347]]></barcode>
     <brand><![CDATA[KAOS]]></brand>
     <category></category>
@@ -41596,7 +41596,7 @@
     <name><![CDATA[LILO and Stitch Love 3D куфар]]></name>
     <price>58.80</price>
     <price_client>41.16</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[8445118065572]]></barcode>
     <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
@@ -41783,7 +41783,7 @@
     <name><![CDATA[Cherry Pazzi Пъзел 500 ел. Просто се отпусни]]></name>
     <price>9.66</price>
     <price_client>7.84</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903728720203]]></barcode>
     <brand><![CDATA[Cherry Pazzi]]></brand>
     <category></category>
@@ -42333,7 +42333,7 @@
     <name><![CDATA[BLUEY комплект модни аксесоари]]></name>
     <price>11.25</price>
     <price_client>7.87</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8445484363142]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -43169,7 +43169,7 @@
     <name><![CDATA[BLUEY комплект шапка и плажна кърпа в сак]]></name>
     <price>20.40</price>
     <price_client>14.28</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8445484488487]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -45413,7 +45413,7 @@
     <name><![CDATA[OJC GIRL кутия с ластик]]></name>
     <price>6.60</price>
     <price_client>4.62</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5997416594139]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -45644,7 +45644,7 @@
     <name><![CDATA[CORNELL CHERRY GOLD кутия с ластик]]></name>
     <price>6.60</price>
     <price_client>4.62</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5997416593965]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -46458,7 +46458,7 @@
     <name><![CDATA[LIZZY CARD FAIRY BALLERINA Dance кутия с ластик А4]]></name>
     <price>7.11</price>
     <price_client>4.97</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5999121312862]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -47382,7 +47382,7 @@
     <name><![CDATA[LIZZY CARD FORD Black комплект 5 в 1 - раница, несесер, спортна торба, бутилка, кутия за храна]]></name>
     <price>142.65</price>
     <price_client>99.86</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5999121311971]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -47459,7 +47459,7 @@
     <name><![CDATA[LIZZY CARD FORD Black кутия с ластик А5]]></name>
     <price>5.57</price>
     <price_client>3.90</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5999121313012]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -47591,7 +47591,7 @@
     <name><![CDATA[LIZZY CARD XRCISE LOOK Twelve тетрадка А4, МКВ]]></name>
     <price>5.88</price>
     <price_client>4.12</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5999121306014]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -48196,7 +48196,7 @@
     <name><![CDATA[PEPPA PIG Bubble чадър]]></name>
     <price>10.69</price>
     <price_client>7.48</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8445484285079]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -48328,7 +48328,7 @@
     <name><![CDATA[BLUEY  пъзел 2х20  ел.]]></name>
     <price>8.13</price>
     <price_client>5.69</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8005125248070]]></barcode>
     <brand><![CDATA[Clementoni]]></brand>
     <category></category>
@@ -50011,7 +50011,7 @@
     <name><![CDATA[PASO MINECRAFT ергономична раница]]></name>
     <price>55.73</price>
     <price_client>39.01</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5903162135977]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -50066,7 +50066,7 @@
     <name><![CDATA[PASO MINECRAFT овален несесер]]></name>
     <price>15.29</price>
     <price_client>10.70</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5903162135984]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -50165,7 +50165,7 @@
     <name><![CDATA[DISNEY STITCH спортна чанта]]></name>
     <price>20.40</price>
     <price_client>14.28</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162133393]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -50495,7 +50495,7 @@
     <name><![CDATA[PASO CAT ергономична раница]]></name>
     <price>55.73</price>
     <price_client>39.01</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162134246]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -50682,7 +50682,7 @@
     <name><![CDATA[DISNEY STITCH портмоне с връзка]]></name>
     <price>7.93</price>
     <price_client>5.55</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162133430]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -50891,7 +50891,7 @@
     <name><![CDATA[PASO GAME Play несесер с 2 ципа]]></name>
     <price>12.22</price>
     <price_client>8.55</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5903162135403]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -51045,7 +51045,7 @@
     <name><![CDATA[DISNEY STITCH раница с колела]]></name>
     <price>81.30</price>
     <price_client>56.91</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162133485]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -52035,7 +52035,7 @@
     <name><![CDATA[PANDA 10 подложка за бюро ламинирана]]></name>
     <price>1.99</price>
     <price_client>1.40</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601706349]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -52076,7 +52076,7 @@
   </item>
   <item>
     <catalog_num>701788</catalog_num>
-    <name><![CDATA[GAME 7 A 61  подложка за бюро ламинирана]]></name>
+    <name><![CDATA[Minecraft 7 A 61  подложка за бюро ламинирана]]></name>
     <price>1.99</price>
     <price_client>1.40</price_client>
     <available>Да</available>
@@ -52112,7 +52112,7 @@
     <name><![CDATA[UNICORN 16  подложка за бюро ламинирана]]></name>
     <price>1.99</price>
     <price_client>1.40</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601706288]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -52849,7 +52849,7 @@
     <name><![CDATA[BACKUP 7 DW 43 Blaze несесер с 2 ципа, ПЪЛЕН]]></name>
     <price>16.36</price>
     <price_client>11.45</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601702822]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -52860,7 +52860,7 @@
     <name><![CDATA[BACKUP 7 DW 44 Bytewave несесер с 2 ципа, ПЪЛЕН]]></name>
     <price>16.36</price>
     <price_client>11.45</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601702839]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -52926,7 +52926,7 @@
     <name><![CDATA[BACKUP 7 EW 01 Dream несесер с 3 ципа, ПЪЛЕН]]></name>
     <price>20.40</price>
     <price_client>14.28</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601702938]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -54224,7 +54224,7 @@
     <name><![CDATA[BACKUP 7 A 44 Bytewave спортна торба]]></name>
     <price>5.57</price>
     <price_client>3.90</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601703317]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -54386,7 +54386,7 @@
   </item>
   <item>
     <catalog_num>705465</catalog_num>
-    <name><![CDATA[Game DF 37 портмоне]]></name>
+    <name><![CDATA[Game DF 37 портмоне Minecraft]]></name>
     <price>6.60</price>
     <price_client>4.62</price_client>
     <available>Да</available>
@@ -55269,7 +55269,7 @@
     <name><![CDATA[STUDIO PETS несесер с 3 ципа]]></name>
     <price>13.24</price>
     <price_client>9.27</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162055671]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -55643,7 +55643,7 @@
     <name><![CDATA[STUDIO PETS кутия за храна]]></name>
     <price>4.55</price>
     <price_client>3.19</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162102306]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -55772,7 +55772,7 @@
   </item>
   <item>
     <catalog_num>703836</catalog_num>
-    <name><![CDATA[Game DF 61 папка с ластик]]></name>
+    <name><![CDATA[Minecraft DF 61 папка с ластик]]></name>
     <price>1.99</price>
     <price_client>1.40</price_client>
     <available>Да</available>
@@ -56410,7 +56410,7 @@
   </item>
   <item>
     <catalog_num>704987</catalog_num>
-    <name><![CDATA[GAME DF 37 престилка за рисуване]]></name>
+    <name><![CDATA[GAME DF 37 престилка за рисуване Minecraft]]></name>
     <price>7.11</price>
     <price_client>4.97</price_client>
     <available>Да</available>
@@ -56421,7 +56421,7 @@
   </item>
   <item>
     <catalog_num>704796</catalog_num>
-    <name><![CDATA[GAME DF 37 ергономична раница]]></name>
+    <name><![CDATA[GAME DF 37 ергономична раница Minecraft]]></name>
     <price>65.96</price>
     <price_client>46.17</price_client>
     <available>Да</available>
@@ -56432,7 +56432,7 @@
   </item>
   <item>
     <catalog_num>704680</catalog_num>
-    <name><![CDATA[GAME DF 37 малка раница]]></name>
+    <name><![CDATA[GAME DF 37 малка раница Minecraft]]></name>
     <price>15.29</price>
     <price_client>10.70</price_client>
     <available>Да</available>
@@ -56743,7 +56743,7 @@
     <name><![CDATA[Етикети GAMER 7 A 61]]></name>
     <price>0.51</price>
     <price_client>0.36</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601703928]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -56886,7 +56886,7 @@
     <name><![CDATA[CARBON малка чанта]]></name>
     <price>12.78</price>
     <price_client>8.95</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[3831119587888]]></barcode>
     <brand><![CDATA[Rucksack Only]]></brand>
     <category></category>
@@ -57337,7 +57337,7 @@
     <name><![CDATA[RACHAEL HALE тефтер с твърди корици и магнитно затваряне]]></name>
     <price>3.83</price>
     <price_client>2.68</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162063362]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -58800,7 +58800,7 @@
     <name><![CDATA[CLEO and FRANK 45 куфарче с дръжка 5 см]]></name>
     <price>9.66</price>
     <price_client>6.76</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601706134]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -59064,7 +59064,7 @@
     <name><![CDATA[SPIDERMAN подложка PVC]]></name>
     <price>3.02</price>
     <price_client>2.11</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8720029096977]]></barcode>
     <brand><![CDATA[Disney]]></brand>
     <category></category>
@@ -59097,7 +59097,7 @@
     <name><![CDATA[STITCH пъзел 2х60  ел.]]></name>
     <price>8.13</price>
     <price_client>5.69</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8005125248223]]></barcode>
     <brand><![CDATA[Clementoni]]></brand>
     <category></category>
@@ -61803,7 +61803,7 @@
     <name><![CDATA[BackUp 2 A 31 спортна торба Череши]]></name>
     <price>5.06</price>
     <price_client>3.54</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130066179]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -61902,7 +61902,7 @@
     <name><![CDATA[BackUp 3 A 50 спортна торба Shark]]></name>
     <price>5.06</price>
     <price_client>3.54</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130073726]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -62111,7 +62111,7 @@
     <name><![CDATA[BackUp 4 A 36 спортна торба Pink]]></name>
     <price>5.06</price>
     <price_client>3.54</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130083671]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -62232,7 +62232,7 @@
     <name><![CDATA[BackUp 4 A 39 спортна торба Minnie Style]]></name>
     <price>5.57</price>
     <price_client>3.90</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130083695]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -62529,7 +62529,7 @@
     <name><![CDATA[PASO Panda 22 кутия за храна]]></name>
     <price>4.55</price>
     <price_client>3.19</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162109060]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -62936,7 +62936,7 @@
     <name><![CDATA[LIZZY CARD HAPPY RAINBOW несесер с програма]]></name>
     <price>5.57</price>
     <price_client>3.90</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5997416595266]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -64795,7 +64795,7 @@
     <name><![CDATA[Кутия за храна BackUp - Розова]]></name>
     <price>6.08</price>
     <price_client>4.26</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130083855]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -65100,7 +65100,7 @@
   </item>
   <item>
     <catalog_num>88409</catalog_num>
-    <name><![CDATA[BackUp 4 A 61 овален несесер Gamer]]></name>
+    <name><![CDATA[BackUp Minecraft 4 A 61 овален несесер]]></name>
     <price>9.66</price>
     <price_client>6.76</price_client>
     <available>Да</available>
@@ -65433,7 +65433,7 @@
     <name><![CDATA[Тетрадка Mitama Fantasy - A4, малки квадратчета, 52+2 листа, асортимент]]></name>
     <price>3.02</price>
     <price_client>2.11</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8026624621645]]></barcode>
     <brand><![CDATA[MITAMA]]></brand>
     <category></category>
@@ -65631,7 +65631,7 @@
     <name><![CDATA[CAPYBARA 10 папка с ластик]]></name>
     <price>2.00</price>
     <price_client>1.40</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601713293]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -65719,7 +65719,7 @@
     <name><![CDATA[CLEO and FRANK 46 куфарче с дръжка 10 см]]></name>
     <price>11.80</price>
     <price_client>8.26</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601713552]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -65730,7 +65730,7 @@
     <name><![CDATA[CLEO and FRANK 47 куфарче с дръжка 10 см]]></name>
     <price>11.80</price>
     <price_client>8.26</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601713569]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -65741,7 +65741,7 @@
     <name><![CDATA[SUPER MARIO куфарче с дръжка 10 см]]></name>
     <price>11.80</price>
     <price_client>8.26</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601713606]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -65763,7 +65763,7 @@
     <name><![CDATA[PANDA 11 куфарче с дръжка 10 см]]></name>
     <price>11.80</price>
     <price_client>8.26</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601713583]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -65774,7 +65774,7 @@
     <name><![CDATA[FOOTBALL 21 куфарче с дръжка 10 см]]></name>
     <price>11.80</price>
     <price_client>8.26</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601713590]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -65807,7 +65807,7 @@
     <name><![CDATA[PANDA 11 куфарче с дръжка 5 см]]></name>
     <price>9.80</price>
     <price_client>6.86</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601713538]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -65818,7 +65818,7 @@
     <name><![CDATA[FOOTBALL 21 куфарче с дръжка 5 см]]></name>
     <price>9.80</price>
     <price_client>6.86</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601713408]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -66926,7 +66926,7 @@
   </item>
   <item>
     <catalog_num>711909</catalog_num>
-    <name><![CDATA[BACKUP 8 A 61 GAME спортна торба]]></name>
+    <name><![CDATA[BACKUP 8 A 61 GAME спортна торба Minecraft]]></name>
     <price>6.00</price>
     <price_client>4.20</price_client>
     <available>Да</available>
@@ -66940,7 +66940,7 @@
     <name><![CDATA[BACKUP 8 A 58 BYTEWAVE спортна торба]]></name>
     <price>6.00</price>
     <price_client>4.20</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601711602]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -66962,7 +66962,7 @@
     <name><![CDATA[BACKUP 8 A 50 PANTHER спортна торба]]></name>
     <price>6.00</price>
     <price_client>4.20</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601711862]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -67050,7 +67050,7 @@
     <name><![CDATA[BACKUP 8 A 29 VIOLET CHECKERBOARD спортна торба]]></name>
     <price>6.00</price>
     <price_client>4.20</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601711718]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -67094,7 +67094,7 @@
     <name><![CDATA[BACKUP 8 A 20 RUBBER GRID спортна торба]]></name>
     <price>6.00</price>
     <price_client>4.20</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601711657]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -67303,7 +67303,7 @@
     <name><![CDATA[BACKUP 8 X 32 GLITTER HEARTS ученическа раница]]></name>
     <price>47.50</price>
     <price_client>33.25</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601711251]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -67314,7 +67314,7 @@
     <name><![CDATA[BACKUP 8 X 20 RUBBER GRID ученическа раница]]></name>
     <price>47.50</price>
     <price_client>33.25</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601711244]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -67325,7 +67325,7 @@
     <name><![CDATA[BACKUP 8 X 15 MAGIC PAW PAWS ученическа раница]]></name>
     <price>47.50</price>
     <price_client>33.25</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601711237]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -67402,7 +67402,7 @@
     <name><![CDATA[BACKUP 8 W 01 PASTEL CHECKERED ученическа раница]]></name>
     <price>51.50</price>
     <price_client>36.05</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601711114]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -67468,7 +67468,7 @@
     <name><![CDATA[BACKUP 8 O 94Z CHECKERBOARD YELLOW ученическа раница]]></name>
     <price>49.50</price>
     <price_client>34.65</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601711046]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -67479,7 +67479,7 @@
     <name><![CDATA[BACKUP 8 O 94P CHECKERBOARD GREEN ученическа раница]]></name>
     <price>49.50</price>
     <price_client>34.65</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601711039]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -67487,10 +67487,10 @@
   </item>
   <item>
     <catalog_num>711022</catalog_num>
-    <name><![CDATA[BACKUP 8 O 94O CHECKERBOARD PURPLE ученическа раница]]></name>
+    <name><![CDATA[BACKUP 8 O 94F CHECKERBOARD PURPLE ученическа раница]]></name>
     <price>49.50</price>
     <price_client>34.65</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601711022]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -67545,7 +67545,7 @@
     <name><![CDATA[BACKUP 8 O 56 BLACK ученическа раница]]></name>
     <price>49.50</price>
     <price_client>34.65</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601711893]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -67556,7 +67556,7 @@
     <name><![CDATA[BACKUP 8 O 52 WILD KITTY ученическа раница]]></name>
     <price>49.50</price>
     <price_client>34.65</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601710971]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -67600,7 +67600,7 @@
     <name><![CDATA[BACKUP 8 O 28 RAINBOW LEOPARD ученическа раница]]></name>
     <price>49.50</price>
     <price_client>34.65</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601710902]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -67622,7 +67622,7 @@
     <name><![CDATA[BACKUP 8 O 08 PINK LOVE ученическа раница]]></name>
     <price>49.50</price>
     <price_client>34.65</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601711008]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -67710,7 +67710,7 @@
     <name><![CDATA[BACKUP 8 G 83 NEON TECH ученическа раница]]></name>
     <price>48.50</price>
     <price_client>33.95</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601710070]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -67776,7 +67776,7 @@
     <name><![CDATA[BACKUP 8 D 22 NEON WAVES раница с 3 лица]]></name>
     <price>50.50</price>
     <price_client>35.35</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601711367]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -67798,7 +67798,7 @@
     <name><![CDATA[BACKUP 8 C 75 TECHNO RED ученическа раница]]></name>
     <price>28.60</price>
     <price_client>20.02</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601710766]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -67809,7 +67809,7 @@
     <name><![CDATA[BACKUP 8 C 50 PANTHER ученическа раница]]></name>
     <price>28.60</price>
     <price_client>20.02</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601709715]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -67820,7 +67820,7 @@
     <name><![CDATA[BACKUP 8 C 28 RAINBOW LEOPARD ученическа раница]]></name>
     <price>28.60</price>
     <price_client>20.02</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601710759]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -67831,7 +67831,7 @@
     <name><![CDATA[BACKUP 8 C 08 PINK LOVE ученическа раница]]></name>
     <price>28.60</price>
     <price_client>20.02</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601710773]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -67842,7 +67842,7 @@
     <name><![CDATA[BACKUP 8 C 05 RETRO POLKA DOT ученическа раница]]></name>
     <price>28.60</price>
     <price_client>20.02</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601711343]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -67853,7 +67853,7 @@
     <name><![CDATA[BACKUP 8 C 01 PASTEL CHECKERED ученическа раница]]></name>
     <price>28.60</price>
     <price_client>20.02</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601710711]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -68092,7 +68092,7 @@
   </item>
   <item>
     <catalog_num>710285</catalog_num>
-    <name><![CDATA[BACKUP 8 EW 61 GAME несесер с 3 ЦИПА, пълен]]></name>
+    <name><![CDATA[BACKUP 8 EW 61 GAME несесер с 3 ЦИПА, пълен, Minecraft]]></name>
     <price>20.40</price>
     <price_client>14.28</price_client>
     <available>Да</available>
@@ -68411,7 +68411,7 @@
   </item>
   <item>
     <catalog_num>709845</catalog_num>
-    <name><![CDATA[BACKUP 8 A 61 GAME овален несесер]]></name>
+    <name><![CDATA[BACKUP 8 A 61 GAME овален несесер Minecraft]]></name>
     <price>10.70</price>
     <price_client>7.49</price_client>
     <available>Да</available>
@@ -68447,7 +68447,7 @@
     <name><![CDATA[BACKUP 8 A 56F BLACK овален несесер]]></name>
     <price>10.70</price>
     <price_client>7.49</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601709470]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -68458,7 +68458,7 @@
     <name><![CDATA[BACKUP 8 A 52 WILD KITTY овален несесер]]></name>
     <price>10.70</price>
     <price_client>7.49</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601709814]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -68469,7 +68469,7 @@
     <name><![CDATA[BACKUP 8 A 50 PANTHER овален несесер]]></name>
     <price>10.70</price>
     <price_client>7.49</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601709791]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -68513,7 +68513,7 @@
     <name><![CDATA[BACKUP 8 A 35 BEIGE DOGS овален несесер]]></name>
     <price>10.70</price>
     <price_client>7.49</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601710346]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -68557,7 +68557,7 @@
     <name><![CDATA[BACKUP 8 A 29 VIOLET CHECKERBOARD овален несесер]]></name>
     <price>10.70</price>
     <price_client>7.49</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601709630]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -68612,7 +68612,7 @@
     <name><![CDATA[BACKUP 8 A 20 RUBBER GRID овален несесер]]></name>
     <price>10.70</price>
     <price_client>7.49</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601709562]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -68810,7 +68810,7 @@
     <name><![CDATA[CLEO and FRANK 46 бутилка]]></name>
     <price>6.60</price>
     <price_client>4.62</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601712630]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -68997,7 +68997,7 @@
     <name><![CDATA[CAPYBARA 10 ученическа раница]]></name>
     <price>39.60</price>
     <price_client>27.72</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601712111]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -69107,7 +69107,7 @@
     <name><![CDATA[CLEO and FRANK 46 несесер с 3 ципа, ПЪЛЕН]]></name>
     <price>23.50</price>
     <price_client>16.45</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601712500]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -69151,7 +69151,7 @@
     <name><![CDATA[CAPYBARA 10 несесер с 3 ципа, ПЪЛЕН]]></name>
     <price>23.50</price>
     <price_client>16.45</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601712524]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -69173,7 +69173,7 @@
     <name><![CDATA[FOOTBALL 21 несесер с 3 ципа, ПЪЛЕН]]></name>
     <price>23.50</price>
     <price_client>16.45</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601712548]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -69217,7 +69217,7 @@
     <name><![CDATA[CAPYBARA 10 кутия за храна]]></name>
     <price>5.80</price>
     <price_client>4.06</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601712692]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -69228,7 +69228,7 @@
     <name><![CDATA[PANDA 11 кутия за храна]]></name>
     <price>5.80</price>
     <price_client>4.06</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601712708]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -69272,7 +69272,7 @@
     <name><![CDATA[CAPYBARA 10 ергономична раница]]></name>
     <price>61.50</price>
     <price_client>43.05</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601712173]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -69294,7 +69294,7 @@
     <name><![CDATA[MINECRAFT 8 A 61 куфарче с дръжка 5 см]]></name>
     <price>9.80</price>
     <price_client>6.86</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601711794]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -69393,7 +69393,7 @@
     <name><![CDATA[BackUP кутия за храна 8 D 42, две нива]]></name>
     <price>7.50</price>
     <price_client>5.25</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601713644]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -69459,7 +69459,7 @@
     <name><![CDATA[SUPER MARIO DF 42 етикети]]></name>
     <price>0.50</price>
     <price_client>0.35</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601713781]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -69470,7 +69470,7 @@
     <name><![CDATA[PANDA 11 етикети]]></name>
     <price>0.50</price>
     <price_client>0.35</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601713804]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -69492,7 +69492,7 @@
     <name><![CDATA[CAPYBARA 10 етикети]]></name>
     <price>0.50</price>
     <price_client>0.35</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130105564]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -69616,6 +69616,2833 @@
     <available>Да</available>
     <barcode><![CDATA[5906601712838]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>90808</catalog_num>
+    <name><![CDATA[Етикети A 82 Ballerina]]></name>
+    <price>0.51</price>
+    <price_client>0.36</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130090808]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>SP26FF-503</catalog_num>
+    <name><![CDATA[SPIDERMAN 3D малка раница]]></name>
+    <price>15.50</price>
+    <price_client>10.85</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162146324]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>DF26AA-074</catalog_num>
+    <name><![CDATA[PASO FROZEN спортна чанта]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162145327]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>DS25BO-3556</catalog_num>
+    <name><![CDATA[DISNEY STITCH Besties Life таен дневник]]></name>
+    <price>8.60</price>
+    <price_client>6.02</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162141817]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>DS25BE-3676</catalog_num>
+    <name><![CDATA[DISNEY STITCH 626 плюшен таен дневник]]></name>
+    <price>15.30</price>
+    <price_client>10.71</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162141824]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>DS26VV-074</catalog_num>
+    <name><![CDATA[PASO STITCH and ANGEL ALOHA спортна чанта]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162143354]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>DS26VV-210</catalog_num>
+    <name><![CDATA[PASO STITCH and ANGEL ALOHA чанта за смартфон]]></name>
+    <price>16.80</price>
+    <price_client>11.76</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162143132]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>DS26VV-013</catalog_num>
+    <name><![CDATA[PASO STITCH and ANGEL ALOHA овален несесер]]></name>
+    <price>15.30</price>
+    <price_client>10.71</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162143392]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>DS26VV-P001BW</catalog_num>
+    <name><![CDATA[PASO STITCH and ANGEL ALOHA несесер с 1 цип]]></name>
+    <price>11.50</price>
+    <price_client>8.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162144771]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>DS26WW-045</catalog_num>
+    <name><![CDATA[STITCH and ANGEL OHANA плюшен несесер]]></name>
+    <price>17.00</price>
+    <price_client>11.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162146485]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>DS26WW-074</catalog_num>
+    <name><![CDATA[STITCH and ANGEL OHANA спортна чанта]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162145518]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>DS26WW-003</catalog_num>
+    <name><![CDATA[STITCH and ANGEL OHANA цилиндричен несесер]]></name>
+    <price>6.60</price>
+    <price_client>4.62</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162145549]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>DS26WW-P001BW</catalog_num>
+    <name><![CDATA[STITCH and ANGEL OHANA несесер с 1 цип]]></name>
+    <price>11.50</price>
+    <price_client>8.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162144795]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>DS26XX-997</catalog_num>
+    <name><![CDATA[STITCH - COASTAL COOL раница с колела]]></name>
+    <price>81.50</price>
+    <price_client>57.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162145570]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>DS26XX-210</catalog_num>
+    <name><![CDATA[STITCH - COASTAL COOL чанта за смартфон]]></name>
+    <price>16.80</price>
+    <price_client>11.76</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162143156]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>DS26XX-208</catalog_num>
+    <name><![CDATA[STITCH - COASTAL COOL малка плюшена чанта]]></name>
+    <price>16.80</price>
+    <price_client>11.76</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162146911]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>DS26XX-013</catalog_num>
+    <name><![CDATA[STITCH - COASTAL COOL овален несесер]]></name>
+    <price>15.30</price>
+    <price_client>10.71</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162145648]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>DS26XX-056</catalog_num>
+    <name><![CDATA[STITCH - COASTAL COOL несесер с емблема]]></name>
+    <price>18.00</price>
+    <price_client>12.60</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162145655]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>DS26ZZ-116</catalog_num>
+    <name><![CDATA[STITCH - EXP. 626 ученическа раница]]></name>
+    <price>45.00</price>
+    <price_client>31.50</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162145662]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>DS26ZZ-525</catalog_num>
+    <name><![CDATA[STITCH - EXP. 626 ергономична раница]]></name>
+    <price>56.00</price>
+    <price_client>39.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162145679]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>DS26ZZ-074</catalog_num>
+    <name><![CDATA[STITCH - EXP. 626 спортна чанта]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162145693]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>DS26ZZ-013</catalog_num>
+    <name><![CDATA[STITCH - EXP. 626 овален несесер]]></name>
+    <price>15.30</price>
+    <price_client>10.71</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162145754]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>DS26ZZ-045</catalog_num>
+    <name><![CDATA[STITCH - EXP. 626 плюшен несесер]]></name>
+    <price>17.00</price>
+    <price_client>11.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162146508]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26AK-260</catalog_num>
+    <name><![CDATA[ACROBAT ученическа раница]]></name>
+    <price>36.00</price>
+    <price_client>25.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162143484]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26BC-081</catalog_num>
+    <name><![CDATA[BLACK CAT ученическа раница]]></name>
+    <price>45.00</price>
+    <price_client>31.50</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162143514]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26BC-074</catalog_num>
+    <name><![CDATA[BLACK CAT спортна чанта]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162143552]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26BC-013</catalog_num>
+    <name><![CDATA[BLACK CAT овален несесер]]></name>
+    <price>15.30</price>
+    <price_client>10.71</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162143583]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26BC-045</catalog_num>
+    <name><![CDATA[BLACK CAT плюшен несесер]]></name>
+    <price>15.00</price>
+    <price_client>10.50</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162147031]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26BC-P001</catalog_num>
+    <name><![CDATA[BLACK CAT несесер с 1 цип, ПЪЛЕН]]></name>
+    <price>17.80</price>
+    <price_client>12.46</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162144870]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26BC-P001BW</catalog_num>
+    <name><![CDATA[BLACK CAT несесер с 1 цип]]></name>
+    <price>11.50</price>
+    <price_client>8.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162144887]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26CK-503</catalog_num>
+    <name><![CDATA[CUTE KITTY 3D малка раница]]></name>
+    <price>15.30</price>
+    <price_client>10.71</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162143743]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26CK-074</catalog_num>
+    <name><![CDATA[CUTE KITTY спортна чанта]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162143750]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26CK-108</catalog_num>
+    <name><![CDATA[CUTE KITTY малка чанта]]></name>
+    <price>15.30</price>
+    <price_client>10.71</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162143767]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26CS-260</catalog_num>
+    <name><![CDATA[LOVELY CAT ученическа раница]]></name>
+    <price>36.00</price>
+    <price_client>25.20</price_client>
+    <available>Не</available>
+    <barcode><![CDATA[5903162145808]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26CS-013</catalog_num>
+    <name><![CDATA[LOVELY CAT овален несесер]]></name>
+    <price>15.30</price>
+    <price_client>10.71</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162145860]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26CS-P001</catalog_num>
+    <name><![CDATA[LOVELY CAT несесер с 1 цип, ПЪЛЕН]]></name>
+    <price>17.80</price>
+    <price_client>12.46</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162144955]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26FL-074</catalog_num>
+    <name><![CDATA[FLAMINGO спортна чанта]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162145938]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26FL-013</catalog_num>
+    <name><![CDATA[FLAMINGO овален несесер]]></name>
+    <price>15.30</price>
+    <price_client>10.71</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162145952]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26FL-3676</catalog_num>
+    <name><![CDATA[FLAMINGO плюшен таен дневник]]></name>
+    <price>14.00</price>
+    <price_client>9.80</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162146966]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26FL-3555</catalog_num>
+    <name><![CDATA[FLAMINGO холограмен дневник с катинар]]></name>
+    <price>8.60</price>
+    <price_client>6.02</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162146973]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26KI-3676</catalog_num>
+    <name><![CDATA[CAPYBARA плюшен таен дневник]]></name>
+    <price>14.00</price>
+    <price_client>9.80</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162147000]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26KI-002</catalog_num>
+    <name><![CDATA[CAPYBARA портмоне с връзка]]></name>
+    <price>7.90</price>
+    <price_client>5.53</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162144207]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26KI-013</catalog_num>
+    <name><![CDATA[CAPYBARA овален несесер]]></name>
+    <price>15.30</price>
+    <price_client>10.71</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162144214]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26KI-P001</catalog_num>
+    <name><![CDATA[CAPYBARA несесер с 1 цип, ПЪЛЕН]]></name>
+    <price>17.80</price>
+    <price_client>12.46</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162145099]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26KI-P001BW</catalog_num>
+    <name><![CDATA[CAPYBARA несесер с 1 цип]]></name>
+    <price>11.50</price>
+    <price_client>8.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162145105]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26LB-278</catalog_num>
+    <name><![CDATA[PASO BUBU ученическа раница]]></name>
+    <price>55.00</price>
+    <price_client>38.50</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162144221]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26LB-013</catalog_num>
+    <name><![CDATA[PASO BUBU овален несесер]]></name>
+    <price>15.30</price>
+    <price_client>10.71</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162144269]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26LB-210</catalog_num>
+    <name><![CDATA[PASO BUBU чанта за смартфон]]></name>
+    <price>16.80</price>
+    <price_client>11.76</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162143187]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26DR-260</catalog_num>
+    <name><![CDATA[DINO ученическа раница]]></name>
+    <price>36.00</price>
+    <price_client>25.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162143804]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26DR-P001BW</catalog_num>
+    <name><![CDATA[DINO несесер с 1 цип]]></name>
+    <price>11.50</price>
+    <price_client>8.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162144986]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26RA-090</catalog_num>
+    <name><![CDATA[RAINBOW ученическа раница]]></name>
+    <price>35.70</price>
+    <price_client>24.99</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162146164]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26RA-074</catalog_num>
+    <name><![CDATA[RAINBOW спортна чанта]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162146171]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26RA-013</catalog_num>
+    <name><![CDATA[RAINBOW овален несесер]]></name>
+    <price>15.30</price>
+    <price_client>10.71</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162146195]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26RA-P001BW</catalog_num>
+    <name><![CDATA[RAINBOW несесер с 1 цип]]></name>
+    <price>11.50</price>
+    <price_client>8.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162145150]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26BV-116</catalog_num>
+    <name><![CDATA[HEY ученическа раница]]></name>
+    <price>45.00</price>
+    <price_client>31.50</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162143590]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26BV-074</catalog_num>
+    <name><![CDATA[HEY спортна чанта]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162143606]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26BV-510</catalog_num>
+    <name><![CDATA[HEY чанта за кръста]]></name>
+    <price>12.50</price>
+    <price_client>8.75</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162143637]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26BV-210</catalog_num>
+    <name><![CDATA[HEY чанта за смартфон]]></name>
+    <price>16.80</price>
+    <price_client>11.76</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162143163]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26BV-P001BW</catalog_num>
+    <name><![CDATA[HEY несесер с 1 цип]]></name>
+    <price>11.50</price>
+    <price_client>8.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162144900]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26BV-3683</catalog_num>
+    <name><![CDATA[HEY бележник с ластик]]></name>
+    <price>8.60</price>
+    <price_client>6.02</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162147024]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26BV-3555</catalog_num>
+    <name><![CDATA[HEY холограмен дневник с катинар]]></name>
+    <price>8.60</price>
+    <price_client>6.02</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162147086]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26FD-116</catalog_num>
+    <name><![CDATA[FOOTBALL CLUB ученическа раница]]></name>
+    <price>45.00</price>
+    <price_client>31.50</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162143873]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26FD-503</catalog_num>
+    <name><![CDATA[FOOTBALL CLUB 3D малка раница]]></name>
+    <price>15.30</price>
+    <price_client>10.71</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162143897]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26FD-002</catalog_num>
+    <name><![CDATA[FOOTBALL CLUB портмоне с връзка]]></name>
+    <price>7.90</price>
+    <price_client>5.53</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162143927]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26FD-013</catalog_num>
+    <name><![CDATA[FOOTBALL CLUB овален несесер]]></name>
+    <price>15.30</price>
+    <price_client>10.71</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162143934]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26FD-P001BW</catalog_num>
+    <name><![CDATA[FOOTBALL CLUB несесер с 1 цип]]></name>
+    <price>11.50</price>
+    <price_client>8.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162144993]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26FD-3030</catalog_num>
+    <name><![CDATA[FOOTBALL CLUB бутилка]]></name>
+    <price>7.80</price>
+    <price_client>5.46</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162146607]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26FD-3022</catalog_num>
+    <name><![CDATA[FOOTBALL CLUB кутия за храна]]></name>
+    <price>6.80</price>
+    <price_client>4.76</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162146614]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26FT-260</catalog_num>
+    <name><![CDATA[FOOTBALL CLUB STRIPES ученическа раница]]></name>
+    <price>36.00</price>
+    <price_client>25.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162143989]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26FT-002</catalog_num>
+    <name><![CDATA[FOOTBALL CLUB STRIPES портмоне с връзка]]></name>
+    <price>7.90</price>
+    <price_client>5.53</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162144016]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26FT-013</catalog_num>
+    <name><![CDATA[FOOTBALL CLUB STRIPES овален несесер]]></name>
+    <price>15.30</price>
+    <price_client>10.71</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162144030]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26FT-P001</catalog_num>
+    <name><![CDATA[FOOTBALL CLUB STRIPES несесер с 1 цип, ПЪЛЕН]]></name>
+    <price>17.80</price>
+    <price_client>12.46</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162145020]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26FT-P001BW</catalog_num>
+    <name><![CDATA[FOOTBALL CLUB STRIPES несесер с 1 цип]]></name>
+    <price>11.50</price>
+    <price_client>8.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162145037]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26FT-3030</catalog_num>
+    <name><![CDATA[FOOTBALL CLUB STRIPES бутилка]]></name>
+    <price>7.80</price>
+    <price_client>5.46</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162146645]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26FT-3022</catalog_num>
+    <name><![CDATA[FOOTBALL CLUB STRIPES кутия за храна]]></name>
+    <price>6.80</price>
+    <price_client>4.76</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162146652]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26GM-260</catalog_num>
+    <name><![CDATA[GAMER ученическа раница]]></name>
+    <price>36.00</price>
+    <price_client>25.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162144092]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26GM-074</catalog_num>
+    <name><![CDATA[GAMER спортна чанта]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162144115]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26GM-002</catalog_num>
+    <name><![CDATA[GAMER портмоне с връзка]]></name>
+    <price>7.90</price>
+    <price_client>5.53</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162144139]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26GM-013</catalog_num>
+    <name><![CDATA[GAMER овален несесер]]></name>
+    <price>15.30</price>
+    <price_client>10.71</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162144146]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26GM-P001BW</catalog_num>
+    <name><![CDATA[GAMER несесер с 1 цип]]></name>
+    <price>11.50</price>
+    <price_client>8.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162145051]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26GQ-260</catalog_num>
+    <name><![CDATA[NEVER QUIT ученическа раница]]></name>
+    <price>36.00</price>
+    <price_client>25.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162145969]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26GQ-074</catalog_num>
+    <name><![CDATA[NEVER QUIT спортна чанта]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162145983]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26GQ-013</catalog_num>
+    <name><![CDATA[NEVER QUIT овален несесер]]></name>
+    <price>15.30</price>
+    <price_client>10.71</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162146010]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26GQ-002</catalog_num>
+    <name><![CDATA[NEVER QUIT портмоне с връзка]]></name>
+    <price>7.90</price>
+    <price_client>5.53</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162146003]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26ME-260</catalog_num>
+    <name><![CDATA[PIXEL MASK ученическа раница]]></name>
+    <price>36.00</price>
+    <price_client>25.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162144276]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26ME-525</catalog_num>
+    <name><![CDATA[PIXEL MASK ергономична раница]]></name>
+    <price>56.00</price>
+    <price_client>39.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162144283]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26ME-997</catalog_num>
+    <name><![CDATA[PIXEL MASK раница с колела]]></name>
+    <price>81.50</price>
+    <price_client>57.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162144290]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26ME-074</catalog_num>
+    <name><![CDATA[PIXEL MASK спортна чанта]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162144306]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26ME-013</catalog_num>
+    <name><![CDATA[PIXEL MASK овален несесер]]></name>
+    <price>15.30</price>
+    <price_client>10.71</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162144337]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26ME-P001</catalog_num>
+    <name><![CDATA[PIXEL MASK несесер с 1 цип, ПЪЛЕН]]></name>
+    <price>17.80</price>
+    <price_client>12.46</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162145129]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26ME-P001BW</catalog_num>
+    <name><![CDATA[PIXEL MASK несесер с 1 цип]]></name>
+    <price>11.50</price>
+    <price_client>8.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162145136]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26ME-3030</catalog_num>
+    <name><![CDATA[PIXEL MASK бутилка]]></name>
+    <price>7.80</price>
+    <price_client>5.46</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162146720]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26ME-3038</catalog_num>
+    <name><![CDATA[PIXEL MASK кутия за храна]]></name>
+    <price>10.20</price>
+    <price_client>7.14</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162146737]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP25PX-303</catalog_num>
+    <name><![CDATA[PIXEL BLOCKS малка раница]]></name>
+    <price>15.60</price>
+    <price_client>10.92</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162136028]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP25PX-P001BW</catalog_num>
+    <name><![CDATA[PIXEL BLOCKS несесер с 1 цип]]></name>
+    <price>11.50</price>
+    <price_client>8.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162136967]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>PP26NM-074</catalog_num>
+    <name><![CDATA[NASA CAMO спортна чанта]]></name>
+    <price>20.40</price>
+    <price_client>14.28</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162146119]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>94967</catalog_num>
+    <name><![CDATA[BackUp 5 A 36 спортна торба Pink]]></name>
+    <price>6.00</price>
+    <price_client>4.20</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130094967]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7240439001</catalog_num>
+    <name><![CDATA[LIZZY CARD Street RULES ученическа раница Trend]]></name>
+    <price>43.00</price>
+    <price_client>30.10</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579823]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7210045010</catalog_num>
+    <name><![CDATA[LIZZY CARD Street RULES овален несесер Comfort]]></name>
+    <price>11.70</price>
+    <price_client>8.19</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579564]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7670046010</catalog_num>
+    <name><![CDATA[LIZZY CARD Street RULES  спортна торба]]></name>
+    <price>6.60</price>
+    <price_client>4.62</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361580157]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7470216010</catalog_num>
+    <name><![CDATA[LIZZY CARD Street RULES кутия с ластик А4]]></name>
+    <price>7.20</price>
+    <price_client>5.04</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579946]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7460148010</catalog_num>
+    <name><![CDATA[LIZZY CARD Street RULES папка с ластик А4]]></name>
+    <price>2.90</price>
+    <price_client>2.03</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582076]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7470218007</catalog_num>
+    <name><![CDATA[LIZZY CARD Street RULES вертикална поставка]]></name>
+    <price>3.20</price>
+    <price_client>2.24</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582311]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7500163001</catalog_num>
+    <name><![CDATA[LIZZY CARD Street RULES  тетрадка А4, МКВ]]></name>
+    <price>5.50</price>
+    <price_client>3.85</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582472]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7500163003</catalog_num>
+    <name><![CDATA[LIZZY CARD Street RULES тетрадка А4, РЕД]]></name>
+    <price>5.50</price>
+    <price_client>3.85</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582441]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7500164004</catalog_num>
+    <name><![CDATA[LIZZY CARD Street RULES тетрадка А4, редове]]></name>
+    <price>1.90</price>
+    <price_client>1.33</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582557]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7500165004</catalog_num>
+    <name><![CDATA[LIZZY CARD Street RULES тетрадка А4, малки квадрати]]></name>
+    <price>1.90</price>
+    <price_client>1.33</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582724]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7500166004</catalog_num>
+    <name><![CDATA[LIZZY CARD Street RULES тетрадка А4, бели листи]]></name>
+    <price>1.90</price>
+    <price_client>1.33</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582847]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7240439002</catalog_num>
+    <name><![CDATA[LIZZY CARD Manhattan NEW YORK ученическа раница Trend]]></name>
+    <price>43.00</price>
+    <price_client>30.10</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579830]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7210045011</catalog_num>
+    <name><![CDATA[LIZZY CARD Manhattan NEW YORK овален несесер Comfort]]></name>
+    <price>11.70</price>
+    <price_client>8.19</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579571]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7670046011</catalog_num>
+    <name><![CDATA[LIZZY CARD Manhattan NEW YORK спортна торба]]></name>
+    <price>6.60</price>
+    <price_client>4.62</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361580164]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7470216011</catalog_num>
+    <name><![CDATA[LIZZY CARD Manhattan NEW YORK кутия с ластик А4]]></name>
+    <price>7.20</price>
+    <price_client>5.04</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579953]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7460148011</catalog_num>
+    <name><![CDATA[LIZZY CARD Manhattan NEW YORK папка с ластик А4]]></name>
+    <price>2.90</price>
+    <price_client>2.03</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582083]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7470218008</catalog_num>
+    <name><![CDATA[LIZZY CARD Manhattan NEW YORK вертикална поставка]]></name>
+    <price>3.20</price>
+    <price_client>2.24</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582328]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7500164005</catalog_num>
+    <name><![CDATA[LIZZY CARD Manhattan NEW YORK тетрадка А4, редове]]></name>
+    <price>1.90</price>
+    <price_client>1.33</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582526]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7500165005</catalog_num>
+    <name><![CDATA[LIZZY CARD Manhattan NEW YORK тетрадка А4, малки квадрати]]></name>
+    <price>1.90</price>
+    <price_client>1.33</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582748]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7500166005</catalog_num>
+    <name><![CDATA[LIZZY CARD Manhattan NEW YORK тетрадка А4, бели листи]]></name>
+    <price>1.90</price>
+    <price_client>1.33</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582861]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7240439000</catalog_num>
+    <name><![CDATA[LIZZY CARD Cornell LOVE ученическа раница Trend]]></name>
+    <price>43.00</price>
+    <price_client>30.10</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579816]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7210045009</catalog_num>
+    <name><![CDATA[LIZZY CARD Cornell LOVES овален несесер Comfort]]></name>
+    <price>11.70</price>
+    <price_client>8.19</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579557]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7670046009</catalog_num>
+    <name><![CDATA[LIZZY CARD Cornell LOVE спортна торба]]></name>
+    <price>6.60</price>
+    <price_client>4.62</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361580140]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7470216009</catalog_num>
+    <name><![CDATA[LIZZY CARD Cornell LOVE кутия с ластик А4]]></name>
+    <price>7.20</price>
+    <price_client>5.04</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579939]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7460148009</catalog_num>
+    <name><![CDATA[LIZZY CARD Cornell LOVE папка с ластик А4]]></name>
+    <price>2.90</price>
+    <price_client>2.03</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582069]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7470218006</catalog_num>
+    <name><![CDATA[LIZZY CARD Cornell LOVE вертикална поставка]]></name>
+    <price>3.20</price>
+    <price_client>2.24</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582298]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7500163000</catalog_num>
+    <name><![CDATA[LIZZY CARD Cornell LOVE тетрадка със спирала А4, МКВ]]></name>
+    <price>5.50</price>
+    <price_client>3.85</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582458]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7500163002</catalog_num>
+    <name><![CDATA[LIZZY CARD Cornell LOVE тетрадка със спирала А4, РЕД]]></name>
+    <price>5.50</price>
+    <price_client>3.85</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582496]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7500164003</catalog_num>
+    <name><![CDATA[LIZZY CARD Cornell LOVEтетрадка А4, редове]]></name>
+    <price>1.90</price>
+    <price_client>1.33</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582625]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7500165003</catalog_num>
+    <name><![CDATA[LIZZY CARD Cornell LOVE тетрадка А4, малки квадрати]]></name>
+    <price>1.90</price>
+    <price_client>1.33</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582700]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7500166003</catalog_num>
+    <name><![CDATA[LIZZY CARD Cornell LOVE тетрадка А4, бели листи]]></name>
+    <price>1.90</price>
+    <price_client>1.33</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582823]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7240437000</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP CAPYBARA ергономична раница]]></name>
+    <price>95.50</price>
+    <price_client>66.85</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579366]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>9660023000</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP CAPYBARA комплект 3 в 1 - раница, несесер, спортна торба]]></name>
+    <price>108.00</price>
+    <price_client>75.60</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361583295]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>9660024000</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP CAPYBARA комплект 5 в 1 - раница, несесер, спортна торба, бутилка, кутия за храна]]></name>
+    <price>127.00</price>
+    <price_client>88.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361583387]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7210046000</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP CAPYBARA несесер с 1 цип]]></name>
+    <price>9.60</price>
+    <price_client>6.72</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579588]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7210043000</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP CAPYBARA несесер с 2 ципа]]></name>
+    <price>13.20</price>
+    <price_client>9.24</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579373]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7210044000</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP CAPYBARA несесер с 3 ципа]]></name>
+    <price>15.30</price>
+    <price_client>10.71</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579410]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7210045000</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP CAPYBARA овален несесер Comfort]]></name>
+    <price>11.70</price>
+    <price_client>8.19</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579465]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7670046000</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP CAPYBARA спортна торба]]></name>
+    <price>6.60</price>
+    <price_client>4.62</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361580058]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7700019000</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP CAPYBARA бутилка 600 мл]]></name>
+    <price>13.80</price>
+    <price_client>9.66</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361580171]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7720001000</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP CAPYBARA кутия за храна]]></name>
+    <price>5.50</price>
+    <price_client>3.85</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361580263]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7470216000</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP CAPYBARA кутия с ластик А4]]></name>
+    <price>7.20</price>
+    <price_client>5.04</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579847]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7470217000</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP CAPYBARA кутия с ластик А5]]></name>
+    <price>5.60</price>
+    <price_client>3.92</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579960]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7460148000</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP CAPYBARA папка с ластик А4]]></name>
+    <price>2.90</price>
+    <price_client>2.03</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361581895]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7470218000</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP CAPYBARA вертикална поставка]]></name>
+    <price>3.20</price>
+    <price_client>2.24</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582199]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7490225000</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP CAPYBARA таен дневник с катинар]]></name>
+    <price>9.00</price>
+    <price_client>6.30</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582342]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7730001000</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP CAPYBARA етикети]]></name>
+    <price>0.80</price>
+    <price_client>0.56</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582571]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7500164000</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP CAPYBARA тетрадка А4, редове]]></name>
+    <price>1.90</price>
+    <price_client>1.33</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582779]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7500165000</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP CAPYBARA тетрадка А4, малки квадрати]]></name>
+    <price>1.90</price>
+    <price_client>1.33</price_client>
+    <available>Не</available>
+    <barcode><![CDATA[5997361582243]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7500166000</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP CAPYBARA тетрадка А4, бели листи]]></name>
+    <price>1.90</price>
+    <price_client>1.33</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582052]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7240437001</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP RAINBOW ергономична раница]]></name>
+    <price>95.50</price>
+    <price_client>66.85</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579670]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>9660023001</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP RAINBOW комплект 3 в 1 - раница, несесер, спортна торба]]></name>
+    <price>108.00</price>
+    <price_client>75.60</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361583301]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>9660024001</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP RAINBOW комплект 5 в 1 - раница, несесер, спортна торба, бутилка, кутия за храна]]></name>
+    <price>127.00</price>
+    <price_client>88.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361583394]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7210046001</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP RAINBOW несесер с 1 цип]]></name>
+    <price>9.60</price>
+    <price_client>6.72</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579595]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7210043001</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP RAINBOW несесер с 2 ципа]]></name>
+    <price>13.20</price>
+    <price_client>9.24</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579380]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7210045001</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP RAINBOW овален несесер Comfort]]></name>
+    <price>11.70</price>
+    <price_client>8.19</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579472]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7670046001</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP RAINBOW спортна торба]]></name>
+    <price>6.60</price>
+    <price_client>4.62</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361580065]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7700019001</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP RAINBOW бутилка 600 мл]]></name>
+    <price>13.80</price>
+    <price_client>9.66</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361580188]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7720001001</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP RAINBOW кутия за храна]]></name>
+    <price>5.50</price>
+    <price_client>3.85</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361580270]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7470216001</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP RAINBOW кутия с ластик А4]]></name>
+    <price>7.20</price>
+    <price_client>5.04</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579854]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7470217001</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP RAINBOW кутия с ластик А5]]></name>
+    <price>5.60</price>
+    <price_client>3.92</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579977]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7460148001</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP RAINBOW папка с ластик А4]]></name>
+    <price>2.90</price>
+    <price_client>2.03</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361581925]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7470218001</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP RAINBOW вертикална поставка]]></name>
+    <price>3.20</price>
+    <price_client>2.24</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582212]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7490225001</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP RAINBOW таен дневник с катинар]]></name>
+    <price>9.00</price>
+    <price_client>6.30</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582366]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7730001001</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP RAINBOW етикети]]></name>
+    <price>0.80</price>
+    <price_client>0.56</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582229]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7740001001</catalog_num>
+    <name><![CDATA[LIZZY CARD LOLLIPOP RAINBOW програма]]></name>
+    <price>0.50</price>
+    <price_client>0.35</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582038]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7240437003</catalog_num>
+    <name><![CDATA[LIZZY CARD LOVELY BALLERINA ергономична раница]]></name>
+    <price>95.50</price>
+    <price_client>66.85</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579694]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>9660023003</catalog_num>
+    <name><![CDATA[LIZZY CARD LOVELY BALLERINA комплект 3 в 1 - раница, несесер, спортна торба]]></name>
+    <price>108.00</price>
+    <price_client>75.60</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361583332]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>9660024003</catalog_num>
+    <name><![CDATA[LIZZY CARD LOVELY BALLERINA комплект 5 в 1 - раница, несесер, спортна торба, бутилка, кутия за храна]]></name>
+    <price>127.00</price>
+    <price_client>88.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361583417]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7210046003</catalog_num>
+    <name><![CDATA[LIZZY CARD LOVELY BALLERINA несесер с 1 цип]]></name>
+    <price>9.60</price>
+    <price_client>6.72</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579618]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7210044002</catalog_num>
+    <name><![CDATA[LIZZY CARD LOVELY BALLERINA несесер с 3 ципа]]></name>
+    <price>15.30</price>
+    <price_client>10.71</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579434]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7210045003</catalog_num>
+    <name><![CDATA[LIZZY CARD LOVELY BALLERINA овален несесер Comfort]]></name>
+    <price>11.70</price>
+    <price_client>8.19</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579496]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7670046003</catalog_num>
+    <name><![CDATA[LIZZY CARD LOVELY BALLERINA спортна торба]]></name>
+    <price>6.60</price>
+    <price_client>4.62</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361580089]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7700019003</catalog_num>
+    <name><![CDATA[LIZZY CARD LOVELY BALLERINA бутилка 600 мл]]></name>
+    <price>13.80</price>
+    <price_client>9.66</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361580201]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7720001003</catalog_num>
+    <name><![CDATA[LIZZY CARD LOVELY BALLERINA кутия за храна]]></name>
+    <price>5.50</price>
+    <price_client>3.85</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361580294]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7470216003</catalog_num>
+    <name><![CDATA[LIZZY CARD LOVELY BALLERINA кутия с ластик А4]]></name>
+    <price>7.20</price>
+    <price_client>5.04</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579878]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7470217003</catalog_num>
+    <name><![CDATA[LIZZY CARD LOVELY BALLERINA кутия с ластик А5]]></name>
+    <price>5.60</price>
+    <price_client>3.92</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579991]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7460148003</catalog_num>
+    <name><![CDATA[LIZZY CARD LOVELY BALLERINA папка с ластик А4]]></name>
+    <price>2.90</price>
+    <price_client>2.03</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361581963]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7470218003</catalog_num>
+    <name><![CDATA[LIZZY CARD LOVELY BALLERINA вертикална поставка]]></name>
+    <price>3.20</price>
+    <price_client>2.24</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582250]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7490225002</catalog_num>
+    <name><![CDATA[LIZZY CARD LOVELY BALLERINA таен дневник с катинар]]></name>
+    <price>9.00</price>
+    <price_client>6.30</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582380]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7730001003</catalog_num>
+    <name><![CDATA[LIZZY CARD LOVELY BALLERINA етикети]]></name>
+    <price>0.80</price>
+    <price_client>0.56</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582182]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7740001003</catalog_num>
+    <name><![CDATA[LIZZY CARD LOVELY BALLERINA програма]]></name>
+    <price>0.50</price>
+    <price_client>0.35</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361583851]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7240437002</catalog_num>
+    <name><![CDATA[LIZZY CARD KitTok PURRFECT ергономична раница]]></name>
+    <price>95.50</price>
+    <price_client>66.85</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579687]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>9660023002</catalog_num>
+    <name><![CDATA[LIZZY CARD KitTok PURRFECT комплект 3 в 1 - раница, несесер, спортна торба]]></name>
+    <price>108.00</price>
+    <price_client>75.60</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361583318]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>9660024002</catalog_num>
+    <name><![CDATA[LIZZY CARD KitTok PURRFECT комплект 5 в 1 - раница, несесер, спортна торба, бутилка, кутия за храна]]></name>
+    <price>127.00</price>
+    <price_client>88.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361583400]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7240438001</catalog_num>
+    <name><![CDATA[LIZZY CARD KitTok PURRFECT ученическа раница Active]]></name>
+    <price>55.00</price>
+    <price_client>38.50</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579762]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7210046002</catalog_num>
+    <name><![CDATA[LIZZY CARD KitTok PURRFECT несесер с 1 цип]]></name>
+    <price>9.60</price>
+    <price_client>6.72</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579601]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7210044001</catalog_num>
+    <name><![CDATA[LIZZY CARD KitTok PURRFECT несесер с 3 ципа]]></name>
+    <price>15.30</price>
+    <price_client>10.71</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579427]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7210045002</catalog_num>
+    <name><![CDATA[LIZZY CARD KitTok PURRFECT овален несесер Comfort]]></name>
+    <price>11.70</price>
+    <price_client>8.19</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579489]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7670046002</catalog_num>
+    <name><![CDATA[LIZZY CARD KitTok PURRFECT спортна торба]]></name>
+    <price>6.60</price>
+    <price_client>4.62</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361580072]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7700019002</catalog_num>
+    <name><![CDATA[LIZZY CARD KitTok PURRFECT бутилка 600 мл]]></name>
+    <price>13.80</price>
+    <price_client>9.66</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361580195]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7720001002</catalog_num>
+    <name><![CDATA[LIZZY CARD KitTok PURRFECT кутия за храна]]></name>
+    <price>5.50</price>
+    <price_client>3.85</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361580287]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7470216002</catalog_num>
+    <name><![CDATA[LIZZY CARD KitTok PURRFECT кутия с ластик А4]]></name>
+    <price>7.20</price>
+    <price_client>5.04</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579861]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7470217002</catalog_num>
+    <name><![CDATA[LIZZY CARD KitTok PURRFECT кутия с ластик А5]]></name>
+    <price>5.60</price>
+    <price_client>3.92</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579984]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7460148002</catalog_num>
+    <name><![CDATA[LIZZY CARD KitTok PURRFECT папка с ластик А4]]></name>
+    <price>2.90</price>
+    <price_client>2.03</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361581949]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7470218002</catalog_num>
+    <name><![CDATA[LIZZY CARD KitTok PURRFECT вертикална поставка]]></name>
+    <price>3.20</price>
+    <price_client>2.24</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582236]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7740001002</catalog_num>
+    <name><![CDATA[LIZZY CARD KitTok PURRFECTпрограма]]></name>
+    <price>0.50</price>
+    <price_client>0.35</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582595]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7500164001</catalog_num>
+    <name><![CDATA[LIZZY CARD KitTok PURRFECT тетрадка А4, редове]]></name>
+    <price>1.90</price>
+    <price_client>1.33</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582663]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7500165001</catalog_num>
+    <name><![CDATA[LIZZY CARD KitTok PURRFECTтетрадка А4, малки квадрати]]></name>
+    <price>1.90</price>
+    <price_client>1.33</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582793]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7500166001</catalog_num>
+    <name><![CDATA[LIZZY CARD KitTok PURRFECTтетрадка А4, бели листи]]></name>
+    <price>1.90</price>
+    <price_client>1.33</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582014]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7240437008</catalog_num>
+    <name><![CDATA[LIZZY CARD Esport GAMER ON DUTY ергономична раница]]></name>
+    <price>95.50</price>
+    <price_client>66.85</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579748]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>9660023008</catalog_num>
+    <name><![CDATA[LIZZY CARD Esport GAMER ON DUTY комплект 3 в 1 - раница, несесер, спортна торба]]></name>
+    <price>108.00</price>
+    <price_client>75.60</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361583370]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>9660024008</catalog_num>
+    <name><![CDATA[LIZZY CARD Esport GAMER ON DUTY комплект 5 в 1 - раница, несесер, спортна торба, бутилка, кутия за храна]]></name>
+    <price>127.00</price>
+    <price_client>88.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361583462]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7240438005</catalog_num>
+    <name><![CDATA[LIZZY CARD Esport GAMER ON DUTY ученическа раница Active]]></name>
+    <price>55.00</price>
+    <price_client>38.50</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579809]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7210046008</catalog_num>
+    <name><![CDATA[LIZZY CARD Esport GAMER ON DUTY несесер с 1 цип]]></name>
+    <price>9.60</price>
+    <price_client>6.72</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579663]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7210043003</catalog_num>
+    <name><![CDATA[LIZZY CARD Esport GAMER ON DUTY несесер с 2 ципа]]></name>
+    <price>13.20</price>
+    <price_client>9.24</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579403]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7210044004</catalog_num>
+    <name><![CDATA[LIZZY CARD Esport GAMER ON DUTY несесер с 3 ципа]]></name>
+    <price>15.30</price>
+    <price_client>10.71</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579458]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7210045008</catalog_num>
+    <name><![CDATA[LIZZY CARD Esport GAMER ON DUTY овален несесер Comfort]]></name>
+    <price>11.70</price>
+    <price_client>8.19</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579540]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7670046008</catalog_num>
+    <name><![CDATA[LIZZY CARD Esport GAMER ON DUTY спортна торба]]></name>
+    <price>6.60</price>
+    <price_client>4.62</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361580133]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7700019008</catalog_num>
+    <name><![CDATA[LIZZY CARD Esport GAMER ON DUTY бутилка 600 мл]]></name>
+    <price>13.80</price>
+    <price_client>9.66</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361580256]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7720001008</catalog_num>
+    <name><![CDATA[LIZZY CARD Esport GAMER ON DUTY кутия за храна]]></name>
+    <price>5.50</price>
+    <price_client>3.85</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361580348]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7470216008</catalog_num>
+    <name><![CDATA[LIZZY CARD Esport GAMER ON DUTY кутия с ластик А4]]></name>
+    <price>7.20</price>
+    <price_client>5.04</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579922]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7470217008</catalog_num>
+    <name><![CDATA[LIZZY CARD Esport GAMER ON DUTY кутия с ластик А5]]></name>
+    <price>5.60</price>
+    <price_client>3.92</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361580041]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7460148008</catalog_num>
+    <name><![CDATA[LIZZY CARD Esport GAMER ON DUTY папка с ластик А4]]></name>
+    <price>2.90</price>
+    <price_client>2.03</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582045]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7470218005</catalog_num>
+    <name><![CDATA[LIZZY CARD Esport GAMER ON DUTY вертикална поставка]]></name>
+    <price>3.20</price>
+    <price_client>2.24</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582274]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7730001008</catalog_num>
+    <name><![CDATA[LIZZY CARD Esport GAMER ON DUTY етикети]]></name>
+    <price>0.80</price>
+    <price_client>0.56</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582090]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7740001008</catalog_num>
+    <name><![CDATA[LIZZY CARD Esport GAMER ON DUTY програма]]></name>
+    <price>0.50</price>
+    <price_client>0.35</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361581888]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7240437005</catalog_num>
+    <name><![CDATA[LIZZY CARD Top League FTW ергономична раница]]></name>
+    <price>95.50</price>
+    <price_client>66.85</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579717]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>9660023005</catalog_num>
+    <name><![CDATA[LIZZY CARD Top League FTW комплект 3 в 1 - раница, несесер, спортна торба]]></name>
+    <price>108.00</price>
+    <price_client>75.60</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361583349]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>9660024005</catalog_num>
+    <name><![CDATA[LIZZY CARD Top League FTW комплект 5 в 1 - раница, несесер, спортна торба, бутилка, кутия за храна]]></name>
+    <price>127.00</price>
+    <price_client>88.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361583431]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7240438003</catalog_num>
+    <name><![CDATA[LIZZY CARD Top League FTW ученическа раница Active]]></name>
+    <price>55.00</price>
+    <price_client>38.50</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579786]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7210046005</catalog_num>
+    <name><![CDATA[LIZZY CARD Top League FTW несесер с 1 цип]]></name>
+    <price>9.60</price>
+    <price_client>6.72</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579632]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7210044003</catalog_num>
+    <name><![CDATA[LIZZY CARD Top League FTW несесер с 3 ципа]]></name>
+    <price>15.30</price>
+    <price_client>10.71</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579441]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7210045005</catalog_num>
+    <name><![CDATA[LIZZY CARD Top League FTW овален несесер Comfort]]></name>
+    <price>11.70</price>
+    <price_client>8.19</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579519]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7670046005</catalog_num>
+    <name><![CDATA[LIZZY CARD Top League FTW спортна торба]]></name>
+    <price>6.60</price>
+    <price_client>4.62</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361580102]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7700019005</catalog_num>
+    <name><![CDATA[LIZZY CARD Top League FTW бутилка 600 мл]]></name>
+    <price>13.80</price>
+    <price_client>9.66</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361580225]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7720001005</catalog_num>
+    <name><![CDATA[LIZZY CARD Top League FTW кутия за храна]]></name>
+    <price>5.50</price>
+    <price_client>3.85</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361580317]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7470216005</catalog_num>
+    <name><![CDATA[LIZZY CARD Top League FTW кутия с ластик А4]]></name>
+    <price>7.20</price>
+    <price_client>5.04</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579892]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7470217005</catalog_num>
+    <name><![CDATA[LIZZY CARD Top League FTW кутия с ластик А5]]></name>
+    <price>5.60</price>
+    <price_client>3.92</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361580010]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7460148005</catalog_num>
+    <name><![CDATA[LIZZY CARD Top League FTW папка с ластик А4]]></name>
+    <price>2.90</price>
+    <price_client>2.03</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361581994]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7470218004</catalog_num>
+    <name><![CDATA[LIZZY CARD Top League FTW вертикална поставка]]></name>
+    <price>3.20</price>
+    <price_client>2.24</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582267]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7490225003</catalog_num>
+    <name><![CDATA[LIZLIZZY CARD Top League FTW таен дневник с катинар]]></name>
+    <price>9.00</price>
+    <price_client>6.30</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582403]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7730001005</catalog_num>
+    <name><![CDATA[LILIZZY CARD Top League FTW етикети]]></name>
+    <price>0.80</price>
+    <price_client>0.56</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582618]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7740001005</catalog_num>
+    <name><![CDATA[LIZZY CARD Top League FTW програма]]></name>
+    <price>0.50</price>
+    <price_client>0.35</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582687]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7500164002</catalog_num>
+    <name><![CDATA[LIZZY CARD Top League FTW тетрадка А4, редове]]></name>
+    <price>1.90</price>
+    <price_client>1.33</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582809]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7500165002</catalog_num>
+    <name><![CDATA[LIZZY CARD Top League FTW тетрадка А4, малки квадрати]]></name>
+    <price>1.90</price>
+    <price_client>1.33</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582144]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7500166002</catalog_num>
+    <name><![CDATA[LIZZY CARD Top League FTW тетрадка А4, бели листи]]></name>
+    <price>1.90</price>
+    <price_client>1.33</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361583905]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7210044005</catalog_num>
+    <name><![CDATA[LIZZY CARD Mars MISSION несесер с 3 ципа]]></name>
+    <price>15.30</price>
+    <price_client>10.71</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361580355]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7470216006</catalog_num>
+    <name><![CDATA[LIZZY CARD Mars MISSION кутия с ластик А4]]></name>
+    <price>7.20</price>
+    <price_client>5.04</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579908]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7240437007</catalog_num>
+    <name><![CDATA[LIZZY CARD Shark ATTACK ергономична раница]]></name>
+    <price>95.50</price>
+    <price_client>66.85</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579731]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>9660023007</catalog_num>
+    <name><![CDATA[LIZZY CARD Shark ATTACK комплект 3 в 1 - раница, несесер, спортна торба]]></name>
+    <price>108.00</price>
+    <price_client>75.60</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361583363]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>9660024007</catalog_num>
+    <name><![CDATA[LIZZY CARD Shark ATTACK комплект 5 в 1 - раница, несесер, спортна торба, бутилка, кутия за храна]]></name>
+    <price>127.00</price>
+    <price_client>88.90</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361583455]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7240438004</catalog_num>
+    <name><![CDATA[LIZZY CARD Shark ATTACK ученическа раница Active]]></name>
+    <price>55.00</price>
+    <price_client>38.50</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579793]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7210046007</catalog_num>
+    <name><![CDATA[LIZZY CARD Shark ATTACK несесер с 1 цип]]></name>
+    <price>9.60</price>
+    <price_client>6.72</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579656]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7210043002</catalog_num>
+    <name><![CDATA[LIZZY CARD Shark ATTACK несесер с 2 ципа]]></name>
+    <price>13.20</price>
+    <price_client>9.24</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579397]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7210044007</catalog_num>
+    <name><![CDATA[LIZZY CARD Shark ATTACK несесер с 3 ципа]]></name>
+    <price>15.30</price>
+    <price_client>10.71</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361588221]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7210045007</catalog_num>
+    <name><![CDATA[LIZZY CARD Shark ATTACK овален несесер Comfort]]></name>
+    <price>11.70</price>
+    <price_client>8.19</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579533]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7670046007</catalog_num>
+    <name><![CDATA[LIZZY CARD Shark ATTACK спортна торба]]></name>
+    <price>6.60</price>
+    <price_client>4.62</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361580126]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7700019007</catalog_num>
+    <name><![CDATA[LIZZY CARD Shark ATTACK бутилка 600 мл]]></name>
+    <price>13.80</price>
+    <price_client>9.66</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361580249]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7720001007</catalog_num>
+    <name><![CDATA[LIZZY CARD Shark ATTACK кутия за храна]]></name>
+    <price>5.50</price>
+    <price_client>3.85</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361580331]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7470216007</catalog_num>
+    <name><![CDATA[LIZZY CARD Shark ATTACK кутия с ластик А4]]></name>
+    <price>7.20</price>
+    <price_client>5.04</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361579915]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7470217007</catalog_num>
+    <name><![CDATA[LIZZY CARD Shark ATTACK кутия с ластик А5]]></name>
+    <price>5.60</price>
+    <price_client>3.92</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361580034]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7460148007</catalog_num>
+    <name><![CDATA[LIZZY CARD Shark ATTACK папка с ластик А4]]></name>
+    <price>2.90</price>
+    <price_client>2.03</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582021]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7730001007</catalog_num>
+    <name><![CDATA[LIZZY CARD Shark ATTACK етикети]]></name>
+    <price>0.80</price>
+    <price_client>0.56</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361582106]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>7740001007</catalog_num>
+    <name><![CDATA[LIZZY CARD Shark ATTACK програма]]></name>
+    <price>0.50</price>
+    <price_client>0.35</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5997361583943]]></barcode>
+    <brand><![CDATA[Lizzy Card]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>68166</catalog_num>
+    <name><![CDATA[MERMAID 10 малка раница]]></name>
+    <price>14.80</price>
+    <price_client>10.36</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130068166]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>711183</catalog_num>
+    <name><![CDATA[Minecraft 8 A 61  подложка за бюро ламинирана]]></name>
+    <price>1.99</price>
+    <price_client>1.40</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601711183]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>90464</catalog_num>
+    <name><![CDATA[MAP ламинирана подложка]]></name>
+    <price>2.00</price>
+    <price_client>1.40</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5901130090464]]></barcode>
+    <brand><![CDATA[BackUp]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>379662</catalog_num>
+    <name><![CDATA[Етикети K-pop Demon Hunters]]></name>
+    <price>0.70</price>
+    <price_client>0.49</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[9780201379662]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>686535</catalog_num>
+    <name><![CDATA[STITCH куфарче с дръжка 10 см]]></name>
+    <price>12.80</price>
+    <price_client>8.96</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903235686535]]></barcode>
+    <brand><![CDATA[Derform]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
