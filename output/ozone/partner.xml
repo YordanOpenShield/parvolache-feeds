@@ -66082,7 +66082,7 @@
     <name><![CDATA[Играчка Squishy Dumpling]]></name>
     <price>6.00</price>
     <price_client>4.50</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[6941848255206]]></barcode>
     <brand><![CDATA[N/A]]></brand>
     <category></category>
@@ -66093,7 +66093,7 @@
     <name><![CDATA[Играчка Squishy Dumplings комплект 4 бр.]]></name>
     <price>10.90</price>
     <price_client>8.00</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[6941848255207]]></barcode>
     <brand><![CDATA[N/A]]></brand>
     <category></category>
@@ -66104,7 +66104,7 @@
     <name><![CDATA[Играчка Squishy Dumpling Rainbow]]></name>
     <price>7.00</price>
     <price_client>5.00</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[6941848255208]]></barcode>
     <brand><![CDATA[N/A]]></brand>
     <category></category>
@@ -72442,7 +72442,7 @@
     <price_client>8.96</price_client>
     <available>Да</available>
     <barcode><![CDATA[5903235686535]]></barcode>
-    <brand><![CDATA[Derform]]></brand>
+    <brand><![CDATA[St.Majewski]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
