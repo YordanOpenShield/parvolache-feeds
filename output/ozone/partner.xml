@@ -62408,7 +62408,7 @@
     <name><![CDATA[BackUp 3 A 67 спортна торба Minnie Black]]></name>
     <price>5.06</price>
     <price_client>3.54</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130074242]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -72707,6 +72707,17 @@
     <available>Да</available>
     <barcode><![CDATA[8026624644729]]></barcode>
     <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>713033</catalog_num>
+    <name><![CDATA[KIDEA образователна дървена дъска за смятане Плюшено мече]]></name>
+    <price>12.20</price>
+    <price_client>8.54</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601713033]]></barcode>
+    <brand><![CDATA[KIDEA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
