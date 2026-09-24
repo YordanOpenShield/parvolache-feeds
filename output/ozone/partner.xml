@@ -35821,7 +35821,7 @@
     <name><![CDATA[BALLET  12 куфарче с дръжка 5 см]]></name>
     <price>9.15</price>
     <price_client>6.41</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130103652]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -35854,7 +35854,7 @@
     <name><![CDATA[FOOTBALL 19 куфарче с дръжка 5 см]]></name>
     <price>9.15</price>
     <price_client>6.41</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130104130]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -38967,7 +38967,7 @@
     <name><![CDATA[Превозни средства куфарче с дръжка 10 см]]></name>
     <price>11.50</price>
     <price_client>8.05</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130105526]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -47338,7 +47338,7 @@
     <name><![CDATA[LIZZY CARD NYC BRKLYN кутия с ластик А4]]></name>
     <price>7.11</price>
     <price_client>4.97</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5999121312930]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -58778,7 +58778,7 @@
     <name><![CDATA[FOOTBALL 20 куфарче с дръжка 5 см]]></name>
     <price>9.66</price>
     <price_client>6.76</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601706370]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -65807,7 +65807,7 @@
     <name><![CDATA[PANDA 11 куфарче с дръжка 5 см]]></name>
     <price>9.80</price>
     <price_client>6.86</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601713538]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -65829,7 +65829,7 @@
     <name><![CDATA[CAPYBARA 10 куфарче с дръжка 5 см]]></name>
     <price>9.80</price>
     <price_client>6.86</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601713392]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
