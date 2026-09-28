@@ -54873,7 +54873,7 @@
     <name><![CDATA[PASO Flowers портмоне]]></name>
     <price>5.57</price>
     <price_client>3.90</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5903162052076]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -66179,9 +66179,9 @@
   <item>
     <catalog_num>6941848255225</catalog_num>
     <name><![CDATA[Играчка Squishy Масло]]></name>
-    <price>7.00</price>
-    <price_client>5.00</price_client>
-    <available>Не</available>
+    <price>5.00</price>
+    <price_client>4.00</price_client>
+    <available>Да</available>
     <barcode><![CDATA[6941848255210]]></barcode>
     <brand><![CDATA[N/A]]></brand>
     <category></category>
