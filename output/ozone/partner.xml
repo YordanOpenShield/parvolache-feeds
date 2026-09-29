@@ -54983,7 +54983,7 @@
     <name><![CDATA[RACHAEL HALE Цветни моливи 12 цв. с острилка]]></name>
     <price>2.51</price>
     <price_client>1.75</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162048604]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -72982,6 +72982,17 @@
     <available>Да</available>
     <barcode><![CDATA[8445484676549]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>712982</catalog_num>
+    <name><![CDATA[KIDEA комплект 5 бр. ароматни гуми Hello]]></name>
+    <price>2.20</price>
+    <price_client>1.54</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5906601712982]]></barcode>
+    <brand><![CDATA[KIDEA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
