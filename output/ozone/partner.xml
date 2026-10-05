@@ -2623,7 +2623,7 @@
     <name><![CDATA[SPIDERMAN Powerful 3D термо чанта]]></name>
     <price>14.78</price>
     <price_client>10.34</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8445118055986]]></barcode>
     <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
@@ -42496,8 +42496,8 @@
   <item>
     <catalog_num>0373797-7</catalog_num>
     <name><![CDATA[CAPYBARA  плюшена играчка 23 см]]></name>
-    <price>10.17</price>
-    <price_client>7.12</price_client>
+    <price>11.50</price>
+    <price_client>8.05</price_client>
     <available>Да</available>
     <barcode><![CDATA[5050565786425]]></barcode>
     <brand><![CDATA[Capybara]]></brand>
