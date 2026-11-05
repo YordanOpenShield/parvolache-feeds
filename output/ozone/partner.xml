@@ -467,7 +467,7 @@
     <name><![CDATA[BackUp 5 X 15 Manga ученическа раница]]></name>
     <price>44.43</price>
     <price_client>31.10</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130094325]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -2953,7 +2953,7 @@
     <name><![CDATA[HULK Green Streng малка раница с маска]]></name>
     <price>17.38</price>
     <price_client>12.17</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8445118056365]]></barcode>
     <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
@@ -4119,7 +4119,7 @@
     <name><![CDATA[HULK 3D термо чанта]]></name>
     <price>13.75</price>
     <price_client>9.63</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[8445118029161]]></barcode>
     <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
@@ -4372,7 +4372,7 @@
     <name><![CDATA[LADYBUG Чанта за таблет]]></name>
     <price>14.27</price>
     <price_client>9.99</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8435376322517]]></barcode>
     <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
@@ -5087,7 +5087,7 @@
     <name><![CDATA[MINNIE малка раница с брокат и помпон]]></name>
     <price>20.40</price>
     <price_client>14.28</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8427934289431]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -8717,7 +8717,7 @@
     <name><![CDATA[PAW PATROL Heroes детски чадър]]></name>
     <price>8.64</price>
     <price_client>6.05</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5904009081341]]></barcode>
     <brand><![CDATA[Disney]]></brand>
     <category></category>
@@ -9278,7 +9278,7 @@
     <name><![CDATA[MINNIE рисувателен комплект 52 ел.]]></name>
     <price>12.27</price>
     <price_client>8.59</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8032780948328]]></barcode>
     <brand><![CDATA[Disney]]></brand>
     <category></category>
@@ -10719,7 +10719,7 @@
     <name><![CDATA[LIZZY CARD BOSSTEAM VR GAMER тефтерче]]></name>
     <price>0.77</price>
     <price_client>0.54</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5999121307394]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -12314,7 +12314,7 @@
     <name><![CDATA[PASO FOOTBALL кутия за храна]]></name>
     <price>6.14</price>
     <price_client>4.29</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162128634]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -12380,7 +12380,7 @@
     <name><![CDATA[PASO GAME раница с колела Minecraft]]></name>
     <price>74.14</price>
     <price_client>51.90</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162127774]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -12391,7 +12391,7 @@
     <name><![CDATA[PASO GAME Minecraft малка раница]]></name>
     <price>16.36</price>
     <price_client>11.45</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5903162127781]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -13062,7 +13062,7 @@
     <name><![CDATA[PASO SMILEY ученическа раница]]></name>
     <price>45.97</price>
     <price_client>32.18</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5903162124872]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -15775,6 +15775,17 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>724468</catalog_num>
+    <name><![CDATA[BLACK HOLE раница с колела]]></name>
+    <price>89.48</price>
+    <price_client>62.63</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3831125724468]]></barcode>
+    <brand><![CDATA[Rucksack Only]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>724475</catalog_num>
     <name><![CDATA[BLACK HOLE овален несесер Jumbo]]></name>
     <price>14.83</price>
@@ -15808,6 +15819,17 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>724512</catalog_num>
+    <name><![CDATA[FUN GRAVITY раница с колела]]></name>
+    <price>89.48</price>
+    <price_client>62.63</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3831125724512]]></barcode>
+    <brand><![CDATA[Rucksack Only]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>724536</catalog_num>
     <name><![CDATA[URBAN CAMU раница с 5 отделения]]></name>
     <price>52.41</price>
@@ -15825,6 +15847,17 @@
     <price_client>27.92</price_client>
     <available>Да</available>
     <barcode><![CDATA[3831125724543]]></barcode>
+    <brand><![CDATA[Rucksack Only]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>724567</catalog_num>
+    <name><![CDATA[URBAN CAMU раница с колела]]></name>
+    <price>89.48</price>
+    <price_client>62.63</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[3831125724567]]></barcode>
     <brand><![CDATA[Rucksack Only]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -18286,7 +18319,7 @@
     <catalog_num>84074</catalog_num>
     <name><![CDATA[DINOSAUR 15 рисувателен комплект 71 ел.]]></name>
     <price>13.24</price>
-    <price_client>13.24</price_client>
+    <price_client>9.27</price_client>
     <available>Да</available>
     <barcode><![CDATA[5901130084074]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
@@ -19013,7 +19046,7 @@
     <name><![CDATA[STITCH Palms метална бутилка 400 мл]]></name>
     <price>10.17</price>
     <price_client>7.12</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[8412497750344]]></barcode>
     <brand><![CDATA[STOR]]></brand>
     <category></category>
@@ -20069,7 +20102,7 @@
     <name><![CDATA[CLEO AND FRANK 34 несесер с 2 ципа, ПЪЛЕН]]></name>
     <price>18.36</price>
     <price_client>18.36</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130087617]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -20454,7 +20487,7 @@
     <name><![CDATA[CARS 50 престилка за рисуване]]></name>
     <price>6.95</price>
     <price_client>4.87</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130087419]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -20949,7 +20982,7 @@
     <name><![CDATA[BEST FRIENDS 10 несесер с 2 ципа, ПЪЛЕН]]></name>
     <price>18.87</price>
     <price_client>13.21</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130095544]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -21103,7 +21136,7 @@
     <name><![CDATA[BEST FRIENDS 10 овален несесер]]></name>
     <price>11.71</price>
     <price_client>8.20</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130095834]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -23996,7 +24029,7 @@
     <name><![CDATA[BackUP 6 кутия за храна с 3 отделения B 33 ЛИЛАВА]]></name>
     <price>6.08</price>
     <price_client>4.26</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130104185]]></barcode>
     <brand><![CDATA[N/A]]></brand>
     <category></category>
@@ -24414,7 +24447,7 @@
     <name><![CDATA[STITCH модни аксесоари в чанта]]></name>
     <price>14.27</price>
     <price_client>9.99</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8445484401332]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -25544,7 +25577,7 @@
   </item>
   <item>
     <catalog_num>80182</catalog_num>
-    <name><![CDATA[KIDEA текстмаркери 6 цв.  пастелни цветове]]></name>
+    <name><![CDATA[KIDEA текст маркери 6 цв.  пастелни цветове]]></name>
     <price>5.06</price>
     <price_client>3.54</price_client>
     <available>Да</available>
@@ -25734,7 +25767,7 @@
     <name><![CDATA[Комплект от 10 акрилни блестящи маркера с шаблони]]></name>
     <price>5.06</price>
     <price_client>3.54</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130089871]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
     <category></category>
@@ -25844,7 +25877,7 @@
     <name><![CDATA[Престилка за творчески дейности с ръкави СИНЯ, размер 3-6 години]]></name>
     <price>7.41</price>
     <price_client>5.19</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130090006]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
     <category></category>
@@ -26031,7 +26064,7 @@
     <name><![CDATA[KIDEA молив с фигурка]]></name>
     <price>0.92</price>
     <price_client>0.64</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130087020]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
     <category></category>
@@ -26856,7 +26889,7 @@
     <name><![CDATA[KIDEA Дракула боички за лице]]></name>
     <price>4.55</price>
     <price_client>3.19</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130085491]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
     <category></category>
@@ -26977,7 +27010,7 @@
     <name><![CDATA[Комплект бои за лице с диадема Коте]]></name>
     <price>5.52</price>
     <price_client>3.87</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130097128]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
     <category></category>
@@ -27120,7 +27153,7 @@
     <name><![CDATA[KIDEA EMOTICON магическа лента за декорация 4 м]]></name>
     <price>2.66</price>
     <price_client>1.86</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130084319]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
     <category></category>
@@ -27307,7 +27340,7 @@
     <name><![CDATA[KIDEA Space книжка за оцветяване с вода]]></name>
     <price>5.57</price>
     <price_client>3.90</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130082124]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
     <category></category>
@@ -27868,7 +27901,7 @@
     <name><![CDATA[PIXELS Minecraft таблет за рисуване с LCD дисплей]]></name>
     <price>11.71</price>
     <price_client>8.20</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130085293]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
     <category></category>
@@ -28363,7 +28396,7 @@
     <name><![CDATA[KIDEA ароматен дневник с шоколадови аксесоари]]></name>
     <price>5.57</price>
     <price_client>3.90</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130104413]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
     <category></category>
@@ -30101,7 +30134,7 @@
     <name><![CDATA[MITAMA Plus COLOR CAMU ученическа раница]]></name>
     <price>69.54</price>
     <price_client>48.67</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[8026624637639]]></barcode>
     <brand><![CDATA[MITAMA]]></brand>
     <category></category>
@@ -30431,7 +30464,7 @@
     <name><![CDATA[MITAMA Dr.Trolley One куфар-раница]]></name>
     <price>91.52</price>
     <price_client>64.06</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[MITAMA]]></brand>
     <category></category>
@@ -31190,7 +31223,7 @@
     <name><![CDATA[MITAMA Run City Bro ученическа раница с колела]]></name>
     <price>86.87</price>
     <price_client>60.81</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8026624642725]]></barcode>
     <brand><![CDATA[MITAMA]]></brand>
     <category></category>
@@ -31410,7 +31443,7 @@
     <name><![CDATA[MITAMA Super Cool Bro несесер с 3 ципа, ПЪЛЕН]]></name>
     <price>35.28</price>
     <price_client>24.70</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8026624643371]]></barcode>
     <brand><![CDATA[MITAMA]]></brand>
     <category></category>
@@ -33599,7 +33632,7 @@
     <name><![CDATA[GAME DF 35  кутия за храна]]></name>
     <price>5.57</price>
     <price_client>3.90</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130102167]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -34017,7 +34050,7 @@
     <name><![CDATA[FOOTBALL 19 престилка за рисуване]]></name>
     <price>7.11</price>
     <price_client>4.97</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130102624]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -35502,7 +35535,7 @@
     <name><![CDATA[MINECRAFT тетрадка А5, офсет, 20л. – малки квадрати]]></name>
     <price>0.61</price>
     <price_client>0.43</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[457403293]]></barcode>
     <brand><![CDATA[Disney]]></brand>
     <category></category>
@@ -35568,7 +35601,7 @@
     <name><![CDATA[MINECRAFT  тефтерче А6 40 листа]]></name>
     <price>1.43</price>
     <price_client>1.00</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[90001178]]></barcode>
     <brand><![CDATA[Disney]]></brand>
     <category></category>
@@ -35876,7 +35909,7 @@
     <name><![CDATA[BALLET  12 куфарче с дръжка 10 см]]></name>
     <price>11.50</price>
     <price_client>8.05</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130103669]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -37845,7 +37878,7 @@
     <name><![CDATA[PX ученическа раница 4 отделения]]></name>
     <price>60.84</price>
     <price_client>42.59</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5903235653742]]></barcode>
     <brand><![CDATA[St.Majewski]]></brand>
     <category></category>
@@ -38813,7 +38846,7 @@
     <name><![CDATA[KIDEA книжка за оцветяване с вода Майнкрафт]]></name>
     <price>5.57</price>
     <price_client>3.90</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601700453]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
     <category></category>
@@ -40881,7 +40914,7 @@
     <name><![CDATA[KAOS TILLY 2 в 1 раница с колела]]></name>
     <price>99.70</price>
     <price_client>69.79</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[3830052869778]]></barcode>
     <brand><![CDATA[KAOS]]></brand>
     <category></category>
@@ -41244,7 +41277,7 @@
     <name><![CDATA[KAOS DREAMER 2 в 1 раница с колела]]></name>
     <price>99.70</price>
     <price_client>69.79</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[3830052870347]]></barcode>
     <brand><![CDATA[KAOS]]></brand>
     <category></category>
@@ -41519,7 +41552,7 @@
     <name><![CDATA[BATMAN Rage 3D малка раница]]></name>
     <price>16.87</price>
     <price_client>11.81</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8445118029222]]></barcode>
     <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
@@ -41607,7 +41640,7 @@
     <name><![CDATA[LILO and Stitch Muffin малка чанта-сърце]]></name>
     <price>13.24</price>
     <price_client>9.27</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[8445118076196]]></barcode>
     <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
@@ -42740,7 +42773,7 @@
     <name><![CDATA[Lilo and Stitch Stitch and Angel несесер с 3 отд.]]></name>
     <price>15.29</price>
     <price_client>10.70</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8445118061871]]></barcode>
     <brand><![CDATA[KARACTERMANIA]]></brand>
     <category></category>
@@ -43232,10 +43265,10 @@
   </item>
   <item>
     <catalog_num>81238</catalog_num>
-    <name><![CDATA[CAPYBARA химикалка с 8 цвята]]></name>
-    <price>2.51</price>
-    <price_client>1.75</price_client>
-    <available>Не</available>
+    <name><![CDATA[CAPYBARA химикалка с 10 цвята]]></name>
+    <price>2.60</price>
+    <price_client>1.82</price_client>
+    <available>Да</available>
     <barcode><![CDATA[4030969812389]]></barcode>
     <brand><![CDATA[Capybara]]></brand>
     <category></category>
@@ -43961,7 +43994,7 @@
     <name><![CDATA[MITAMA цветна глина 2 в 1]]></name>
     <price>3.60</price>
     <price_client>2.52</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8026624628958]]></barcode>
     <brand><![CDATA[MITAMA]]></brand>
     <category></category>
@@ -44016,7 +44049,7 @@
     <name><![CDATA[Minecraft Boom двулицева възглавница]]></name>
     <price>16.36</price>
     <price_client>11.45</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8592753032077]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -45809,7 +45842,7 @@
     <name><![CDATA[Тетрадка А4 RACCOON със спирала, 70 листа, редове]]></name>
     <price>3.83</price>
     <price_client>2.68</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5997416589401]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -46183,7 +46216,7 @@
     <name><![CDATA[LIZZY CARD LOLLIPOP Thiny Hippo етикети]]></name>
     <price>0.77</price>
     <price_client>0.54</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5999121315016]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -47228,7 +47261,7 @@
     <name><![CDATA[LIZZY CARD TOP LEAGUE Win кутия с ластик А5]]></name>
     <price>5.57</price>
     <price_client>3.90</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5999121312992]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -47272,7 +47305,7 @@
     <name><![CDATA[LIZZY CARD TOP LEAGUE Win таен дневник с катинар]]></name>
     <price>6.60</price>
     <price_client>4.62</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5999121314057]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -47459,7 +47492,7 @@
     <name><![CDATA[LIZZY CARD FORD Black кутия с ластик А5]]></name>
     <price>5.57</price>
     <price_client>3.90</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5999121313012]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -48196,7 +48229,7 @@
     <name><![CDATA[PEPPA PIG Bubble чадър]]></name>
     <price>10.69</price>
     <price_client>7.48</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[8445484285079]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -52838,7 +52871,7 @@
     <name><![CDATA[BACKUP 7 DW 41 Ballons несесер с 2 ципа, ПЪЛЕН]]></name>
     <price>16.36</price>
     <price_client>11.45</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601702815]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -53795,7 +53828,7 @@
     <name><![CDATA[BACKUP 7 X 36 Capybara ученическа раница]]></name>
     <price>47.50</price>
     <price_client>33.25</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601701702]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -54191,7 +54224,7 @@
     <name><![CDATA[BACKUP 7 A 36 Capybara спортна торба]]></name>
     <price>5.57</price>
     <price_client>3.90</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601701726]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -54389,7 +54422,7 @@
     <name><![CDATA[Game DF 37 портмоне Minecraft]]></name>
     <price>6.60</price>
     <price_client>4.62</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601705465]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -55760,7 +55793,7 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
-    <catalog_num>DS24LI-3677</catalog_num>
+    <catalog_num>DS25LI-3677</catalog_num>
     <name><![CDATA[STITCH плюшен таен дневник]]></name>
     <price>15.29</price>
     <price_client>10.70</price_client>
@@ -57084,7 +57117,7 @@
     <name><![CDATA[KAOS FOOTBALL раница с колела 2 в 1]]></name>
     <price>94.59</price>
     <price_client>66.21</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[3830052868467]]></barcode>
     <brand><![CDATA[KAOS]]></brand>
     <category></category>
@@ -57238,7 +57271,7 @@
     <name><![CDATA[RACHAEL HALE плюшен дневник]]></name>
     <price>7.62</price>
     <price_client>5.33</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162063799]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -57554,9 +57587,9 @@
   </item>
   <item>
     <catalog_num>642296</catalog_num>
-    <name><![CDATA[PEPPA PIG блок за рисуване А5]]></name>
-    <price>1.02</price>
-    <price_client>0.72</price_client>
+    <name><![CDATA[PEPPA PIG книжка за оцветяване]]></name>
+    <price>1.20</price>
+    <price_client>0.84</price_client>
     <available>Да</available>
     <barcode><![CDATA[5903235642296]]></barcode>
     <brand><![CDATA[St.Majewski]]></brand>
@@ -58756,7 +58789,7 @@
     <name><![CDATA[UNICORN 16 куфарче с дръжка 5 см]]></name>
     <price>9.15</price>
     <price_client>6.41</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601706257]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -58921,7 +58954,7 @@
     <name><![CDATA[SPIDERMAN HERO шапка с помпон]]></name>
     <price>10.99</price>
     <price_client>7.69</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[0669168755674]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -59077,6 +59110,17 @@
     <price_client>5.69</price_client>
     <available>Не</available>
     <barcode><![CDATA[8005125247790]]></barcode>
+    <brand><![CDATA[Clementoni]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>24825CL</catalog_num>
+    <name><![CDATA[FROZEN пъзел 2х20  ел.]]></name>
+    <price>8.13</price>
+    <price_client>5.69</price_client>
+    <available>Не</available>
+    <barcode><![CDATA[8005125248254]]></barcode>
     <brand><![CDATA[Clementoni]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -59702,7 +59746,7 @@
     <name><![CDATA[MINECRAFT комплект шапка и ръкавици]]></name>
     <price>14.78</price>
     <price_client>10.34</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5056599768895]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -60395,7 +60439,7 @@
     <name><![CDATA[MITAMA голяма чанта за рисунки и чертежи Черна]]></name>
     <price>22.80</price>
     <price_client>15.96</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[80266244120521]]></barcode>
     <brand><![CDATA[MITAMA]]></brand>
     <category></category>
@@ -60428,7 +60472,7 @@
     <name><![CDATA[MITAMA голяма чанта за рисунки и чертежи Бяла]]></name>
     <price>22.80</price>
     <price_client>15.96</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[80266244120524]]></barcode>
     <brand><![CDATA[MITAMA]]></brand>
     <category></category>
@@ -62936,7 +62980,7 @@
     <name><![CDATA[LIZZY CARD HAPPY RAINBOW несесер с програма]]></name>
     <price>5.57</price>
     <price_client>3.90</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5997416595266]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -63167,7 +63211,7 @@
     <name><![CDATA[CARS комплект куфар, малка раница и торба]]></name>
     <price>86.87</price>
     <price_client>60.81</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8712645288775]]></barcode>
     <brand><![CDATA[Vadobag]]></brand>
     <category></category>
@@ -64718,7 +64762,7 @@
     <name><![CDATA[Раница за детска градина Paw Patrol - Чейс, 3D]]></name>
     <price>16.82</price>
     <price_client>11.77</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8712645277861]]></barcode>
     <brand><![CDATA[Vadobag]]></brand>
     <category></category>
@@ -64770,7 +64814,7 @@
   </item>
   <item>
     <catalog_num>90341</catalog_num>
-    <name><![CDATA[Бутилка за вода BackUp - сива, 400 ml]]></name>
+    <name><![CDATA[Бутилка BackUp - сива, 400 ml]]></name>
     <price>8.13</price>
     <price_client>5.69</price_client>
     <available>Да</available>
@@ -64781,7 +64825,7 @@
   </item>
   <item>
     <catalog_num>90372</catalog_num>
-    <name><![CDATA[Бутилка за вода BackUp -  Мента, 400 ml]]></name>
+    <name><![CDATA[Бутилка BackUp -  Мента, 400 ml]]></name>
     <price>8.13</price>
     <price_client>5.69</price_client>
     <available>Да</available>
@@ -65796,7 +65840,7 @@
     <name><![CDATA[CLEO and FRANK 47 куфарче с дръжка 5 см]]></name>
     <price>9.80</price>
     <price_client>6.86</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601713385]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -65829,7 +65873,7 @@
     <name><![CDATA[CAPYBARA 10 куфарче с дръжка 5 см]]></name>
     <price>9.80</price>
     <price_client>6.86</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601713392]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -65873,7 +65917,7 @@
     <name><![CDATA[UNICORN таблет за рисуване с LCD дисплей]]></name>
     <price>11.71</price>
     <price_client>8.20</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130085286]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
     <category></category>
@@ -66225,7 +66269,7 @@
     <name><![CDATA[SONIC плюшена играчка 30 см Silver the Hedgehog]]></name>
     <price>11.50</price>
     <price_client>8.05</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[81851102981574]]></barcode>
     <brand><![CDATA[Disney]]></brand>
     <category></category>
@@ -66962,7 +67006,7 @@
     <name><![CDATA[BACKUP 8 A 50 PANTHER спортна торба]]></name>
     <price>6.00</price>
     <price_client>4.20</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601711862]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -67094,7 +67138,7 @@
     <name><![CDATA[BACKUP 8 A 20 RUBBER GRID спортна торба]]></name>
     <price>6.00</price>
     <price_client>4.20</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5906601711657]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -67160,7 +67204,7 @@
     <name><![CDATA[BACKUP 8 A 04 CAPYBARA DREAM спортна торба]]></name>
     <price>6.00</price>
     <price_client>4.20</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601711534]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -67644,7 +67688,7 @@
     <name><![CDATA[BACKUP 8 K 57 раница ЗЕЛЕНА]]></name>
     <price>36.50</price>
     <price_client>25.55</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601711374]]></barcode>
     <brand><![CDATA[BackUp]]></brand>
     <category></category>
@@ -69316,7 +69360,7 @@
     <name><![CDATA[CLEO and FRANK 47 спортна торба]]></name>
     <price>6.00</price>
     <price_client>4.20</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5906601712234]]></barcode>
     <brand><![CDATA[Derform]]></brand>
     <category></category>
@@ -69818,6 +69862,17 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>DS26YY-997</catalog_num>
+    <name><![CDATA[STITCH - LITTLE DREAMER раница с колела]]></name>
+    <price>81.50</price>
+    <price_client>57.05</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[5903162143422]]></barcode>
+    <brand><![CDATA[PASO]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>DS26ZZ-116</catalog_num>
     <name><![CDATA[STITCH - EXP. 626 ученическа раница]]></name>
     <price>45.00</price>
@@ -70119,7 +70174,7 @@
     <name><![CDATA[PASO BUBU ученическа раница]]></name>
     <price>55.00</price>
     <price_client>38.50</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162144221]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -70636,7 +70691,7 @@
     <name><![CDATA[PIXEL MASK кутия за храна]]></name>
     <price>10.20</price>
     <price_client>7.14</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162146737]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -70933,7 +70988,7 @@
     <name><![CDATA[LIZZY CARD Cornell LOVE спортна торба]]></name>
     <price>6.60</price>
     <price_client>4.62</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5997361580140]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -71109,7 +71164,7 @@
     <name><![CDATA[LIZZY CARD LOLLIPOP CAPYBARA спортна торба]]></name>
     <price>6.60</price>
     <price_client>4.62</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5997361580058]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -72837,7 +72892,7 @@
     <price>3.53</price>
     <price_client>2.47</price_client>
     <available>Да</available>
-    <barcode><![CDATA[8445484679830]]></barcode>
+    <barcode><![CDATA[8445484679823]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -72969,7 +73024,7 @@
     <price>3.53</price>
     <price_client>2.47</price_client>
     <available>Да</available>
-    <barcode><![CDATA[8445484679823]]></barcode>
+    <barcode><![CDATA[8445484679830]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
@@ -73140,6 +73195,17 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>704086</catalog_num>
+    <name><![CDATA[Kidea дизайнерско студио Принцеси]]></name>
+    <price>3.80</price>
+    <price_client>2.66</price_client>
+    <available>Не</available>
+    <barcode><![CDATA[5906601704086]]></barcode>
+    <brand><![CDATA[KIDEA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>704079</catalog_num>
     <name><![CDATA[Kidea дизайнерско студио Животни]]></name>
     <price>3.80</price>
@@ -73158,6 +73224,270 @@
     <available>Да</available>
     <barcode><![CDATA[5906601704437]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>61993</catalog_num>
+    <name><![CDATA[Цветни моливи Mitama - 36 цвята]]></name>
+    <price>12.00</price>
+    <price_client>8.40</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>62925</catalog_num>
+    <name><![CDATA[MITAMA цветни моливи с гума 18 цв.]]></name>
+    <price>6.20</price>
+    <price_client>4.34</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8026624628255]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>62826</catalog_num>
+    <name><![CDATA[MITAMA Fluo цветни моливи 12 цв.]]></name>
+    <price>5.00</price>
+    <price_client>3.50</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8026624628262]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>62827</catalog_num>
+    <name><![CDATA[MITAMA Pastel цветни моливи 12 цв.]]></name>
+    <price>5.00</price>
+    <price_client>3.50</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8026624628279]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>61994</catalog_num>
+    <name><![CDATA[MITAMA Jumbo цветни моливи 12 цв.]]></name>
+    <price>6.60</price>
+    <price_client>4.62</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8026624619949]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>62569</catalog_num>
+    <name><![CDATA[MITAMA гел химикалки 10 бр.]]></name>
+    <price>5.10</price>
+    <price_client>3.57</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8026624625698]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>62859</catalog_num>
+    <name><![CDATA[MITAMA MONSTERS комплект 2 бр.  острилки]]></name>
+    <price>3.00</price>
+    <price_client>2.10</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8026624628590]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>62897</catalog_num>
+    <name><![CDATA[MITAMA Пастели Jumbo 14 цв.]]></name>
+    <price>4.40</price>
+    <price_client>3.08</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8026624628972]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>62860</catalog_num>
+    <name><![CDATA[MITAMA акварелни пастели 6 цв.]]></name>
+    <price>5.00</price>
+    <price_client>3.50</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8026624628606]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>62829</catalog_num>
+    <name><![CDATA[MITAMA тънкописци 15 цв.]]></name>
+    <price>9.00</price>
+    <price_client>6.30</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8026624628293]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>62509</catalog_num>
+    <name><![CDATA[MITAMA GLITTER блестящи флумастери 8 цв.]]></name>
+    <price>6.80</price>
+    <price_client>4.76</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8026624625094]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>62845</catalog_num>
+    <name><![CDATA[MITAMA GLITTER блестящи флумастери 16 цв.]]></name>
+    <price>13.00</price>
+    <price_client>9.10</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8026624628453]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>61998</catalog_num>
+    <name><![CDATA[MITAMA Jumbo маркери 12 цв.]]></name>
+    <price>4.90</price>
+    <price_client>3.43</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8026624619987]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>62513-1</catalog_num>
+    <name><![CDATA[MITAMA брокатно лепило FLUO]]></name>
+    <price>11.85</price>
+    <price_client>8.30</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[80266246251311]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>62513-2</catalog_num>
+    <name><![CDATA[MITAMA брокатно лепило Brilliant]]></name>
+    <price>11.85</price>
+    <price_client>8.30</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[80266246251312]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>62513-3</catalog_num>
+    <name><![CDATA[MITAMA брокатно лепило с пайети]]></name>
+    <price>11.85</price>
+    <price_client>8.30</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[80266246251313]]></barcode>
+    <brand><![CDATA[MITAMA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>62862</catalog_num>
+    <name><![CDATA[MITAMA четки за рисуване 5 бр.]]></name>
+    <price>4.80</price>
+    <price_client>3.36</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8026624628620]]></barcode>
+    <brand><![CDATA[KIDEA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>62855-1</catalog_num>
+    <name><![CDATA[MITAMA комплект 2 бр. линии 20 см]]></name>
+    <price>2.50</price>
+    <price_client>1.75</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[80266246285521]]></barcode>
+    <brand><![CDATA[KIDEA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>62855-2</catalog_num>
+    <name><![CDATA[MITAMA комплект 2 бр. линии 20 см]]></name>
+    <price>2.50</price>
+    <price_client>1.75</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[80266246285522]]></barcode>
+    <brand><![CDATA[KIDEA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>62870</catalog_num>
+    <name><![CDATA[MITAMA текст маркери 4 цв.  пастелни цветове]]></name>
+    <price>4.40</price>
+    <price_client>3.08</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[8026624628705]]></barcode>
+    <brand><![CDATA[KIDEA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>6970478401712</catalog_num>
+    <name><![CDATA[Скачащ пластилин 12 цв.]]></name>
+    <price>3.00</price>
+    <price_client>2.10</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[6970478401712]]></barcode>
+    <brand><![CDATA[St.Majewski]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>302090</catalog_num>
+    <name><![CDATA[PILOT FriXion изтриващ се ролер с гума - Син, 0.7 mm]]></name>
+    <price>2.90</price>
+    <price_client>2.03</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[4902505322723]]></barcode>
+    <brand><![CDATA[KIDEA]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>6991206167175</catalog_num>
+    <name><![CDATA[K-pop Demon Hunters караоке микрофон]]></name>
+    <price>15.90</price>
+    <price_client>11.13</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[6991206167175]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>6991203331906</catalog_num>
+    <name><![CDATA[K-pop Demon Hunters голяма рок китара]]></name>
+    <price>16.90</price>
+    <price_client>11.83</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[6991203331906]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
