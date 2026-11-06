@@ -36092,6 +36092,28 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
+    <catalog_num>ML100000100</catalog_num>
+    <name><![CDATA[Количествени методи и модели в управлението]]></name>
+    <price>12.78</price>
+    <price_client>12.78</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[N/A]]></barcode>
+    <brand><![CDATA[Ламбовска]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>ML100609383</catalog_num>
+    <name><![CDATA[Организационно поведение]]></name>
+    <price>15.34</price>
+    <price_client>15.34</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[97896191609383]]></barcode>
+    <brand><![CDATA[Ламбовска]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
     <catalog_num>41344</catalog_num>
     <name><![CDATA[KAOS PIASE ученическа раница 2 в 1]]></name>
     <price>74.14</price>
@@ -36792,6 +36814,17 @@
     <available>Да</available>
     <barcode><![CDATA[3830052868474]]></barcode>
     <brand><![CDATA[KAOS]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>ML100904562</catalog_num>
+    <name><![CDATA[Бюджетно управление на стопанската организация]]></name>
+    <price>12.78</price>
+    <price_client>12.78</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[9789544904562]]></barcode>
+    <brand><![CDATA[Ламбовска]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
