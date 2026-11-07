@@ -73494,10 +73494,43 @@
   <item>
     <catalog_num>6991200903090</catalog_num>
     <name><![CDATA[Кукла бебе Lovely Baby с аксесоари]]></name>
-    <price>26.00</price>
+    <price>29.00</price>
     <price_client>18.20</price_client>
     <available>Да</available>
     <barcode><![CDATA[6991200903090]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>6991202691940</catalog_num>
+    <name><![CDATA[Реалистично бебе момче с легло]]></name>
+    <price>90.00</price>
+    <price_client>56.00</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[6991202691940]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>6991207424499</catalog_num>
+    <name><![CDATA[Реалистично бебе момиче с легло]]></name>
+    <price>90.00</price>
+    <price_client>56.00</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[6991207424499]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>108519</catalog_num>
+    <name><![CDATA[Количка за кукла Stars]]></name>
+    <price>45.00</price>
+    <price_client>31.50</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[69912074244991]]></barcode>
     <brand><![CDATA[N/A]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
