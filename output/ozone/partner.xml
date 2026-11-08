@@ -63592,17 +63592,6 @@
     <color><![CDATA[N/A]]></color>
   </item>
   <item>
-    <catalog_num>21888010</catalog_num>
-    <name><![CDATA[LIZZY CARD Xcited street 2 спортна торба]]></name>
-    <price>6.60</price>
-    <price_client>4.62</price_client>
-    <available>Да</available>
-    <barcode><![CDATA[5997416588800]]></barcode>
-    <brand><![CDATA[Lizzy Card]]></brand>
-    <category></category>
-    <color><![CDATA[N/A]]></color>
-  </item>
-  <item>
     <catalog_num>21887808</catalog_num>
     <name><![CDATA[LIZZY CARD Alpha спортна торба]]></name>
     <price>6.60</price>
@@ -73553,6 +73542,17 @@
     <price_client>20.93</price_client>
     <available>Да</available>
     <barcode><![CDATA[699120742449915]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>121815</catalog_num>
+    <name><![CDATA[Capybara конструктор 398 части]]></name>
+    <price>24.00</price>
+    <price_client>16.80</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[699120742449815]]></barcode>
     <brand><![CDATA[N/A]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
