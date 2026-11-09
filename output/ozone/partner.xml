@@ -14415,7 +14415,7 @@
     <name><![CDATA[PASO Ballerina ученическа раница]]></name>
     <price>45.97</price>
     <price_client>32.18</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162114620]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -26845,7 +26845,7 @@
     <name><![CDATA[KIDEA бои за лице 6 цв.]]></name>
     <price>3.37</price>
     <price_client>2.36</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5901130068944]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
     <category></category>
@@ -26889,7 +26889,7 @@
     <name><![CDATA[KIDEA Дракула боички за лице]]></name>
     <price>4.55</price>
     <price_client>3.19</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130085491]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
     <category></category>
