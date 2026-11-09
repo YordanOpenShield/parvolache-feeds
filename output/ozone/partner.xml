@@ -48392,7 +48392,7 @@
   <item>
     <catalog_num>690348-24</catalog_num>
     <name><![CDATA[Акрилни маркери 24 цвята]]></name>
-    <price>25.00</price>
+    <price>27.00</price>
     <price_client>17.50</price_client>
     <available>Да</available>
     <barcode><![CDATA[6973056690348]]></barcode>
@@ -48403,7 +48403,7 @@
   <item>
     <catalog_num>691840-48</catalog_num>
     <name><![CDATA[Акрилни маркери 48 цвята]]></name>
-    <price>49.03</price>
+    <price>52.00</price>
     <price_client>34.32</price_client>
     <available>Да</available>
     <barcode><![CDATA[6973056691840]]></barcode>
@@ -48414,7 +48414,7 @@
   <item>
     <catalog_num>691857-60</catalog_num>
     <name><![CDATA[Акрилни маркери 60 цвята]]></name>
-    <price>61.30</price>
+    <price>65.00</price>
     <price_client>42.91</price_client>
     <available>Да</available>
     <barcode><![CDATA[6973056691857]]></barcode>
@@ -58943,7 +58943,7 @@
     <name><![CDATA[MINECRAFT шапка]]></name>
     <price>12.27</price>
     <price_client>8.59</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5056463434390]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -59757,7 +59757,7 @@
     <name><![CDATA[MINECRAFT комплект шапка и ръкавици]]></name>
     <price>14.78</price>
     <price_client>10.34</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5056599768918]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
