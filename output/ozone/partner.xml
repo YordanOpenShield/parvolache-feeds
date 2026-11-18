@@ -58976,7 +58976,7 @@
     <name><![CDATA[SONIC пъзел 104 ел.]]></name>
     <price>8.13</price>
     <price_client>5.69</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8005125272563]]></barcode>
     <brand><![CDATA[Clementoni]]></brand>
     <category></category>
@@ -73575,6 +73575,17 @@
     <price_client>13.65</price_client>
     <available>Да</available>
     <barcode><![CDATA[69912005364271]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>6991206167176</catalog_num>
+    <name><![CDATA[Играчка Squishy Dumpling Glitter Christmas]]></name>
+    <price>7.50</price>
+    <price_client>5.25</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[6991206167176]]></barcode>
     <brand><![CDATA[N/A]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
