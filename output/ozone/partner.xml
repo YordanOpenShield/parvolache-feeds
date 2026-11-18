@@ -5241,7 +5241,7 @@
     <name><![CDATA[MINNIE четка за коса]]></name>
     <price>5.57</price>
     <price_client>3.90</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[8427934555833]]></barcode>
     <brand><![CDATA[CERDA]]></brand>
     <category></category>
@@ -12974,7 +12974,7 @@
     <name><![CDATA[PASO PANDA Rainbow  3D малка раница]]></name>
     <price>16.87</price>
     <price_client>11.81</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903162127378]]></barcode>
     <brand><![CDATA[PASO]]></brand>
     <category></category>
@@ -37922,7 +37922,7 @@
     <name><![CDATA[GAMEPLAY раница на колела]]></name>
     <price>91.52</price>
     <price_client>64.06</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5903235655364]]></barcode>
     <brand><![CDATA[St.Majewski]]></brand>
     <category></category>
@@ -39768,8 +39768,8 @@
   <item>
     <catalog_num>150232</catalog_num>
     <name><![CDATA[Химикалка Коледа]]></name>
-    <price>0.92</price>
-    <price_client>0.64</price_client>
+    <price>1.00</price>
+    <price_client>0.70</price_client>
     <available>Да</available>
     <barcode><![CDATA[N/A]]></barcode>
     <brand><![CDATA[Lebez]]></brand>
