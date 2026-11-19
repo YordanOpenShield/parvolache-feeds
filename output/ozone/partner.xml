@@ -9850,7 +9850,7 @@
     <name><![CDATA[LIZZY CARD LOLLIPOP CUTE BUTTERFLY тефтерче]]></name>
     <price>0.77</price>
     <price_client>0.54</price_client>
-    <available>Да</available>
+    <available>Не</available>
     <barcode><![CDATA[5999121307318]]></barcode>
     <brand><![CDATA[Lizzy Card]]></brand>
     <category></category>
@@ -47610,7 +47610,7 @@
   </item>
   <item>
     <catalog_num>23060019</catalog_num>
-    <name><![CDATA[LIZZY CARD XRCISE LOOK Butterflies тетрадка А4, МКВ]]></name>
+    <name><![CDATA[LIZZY CARD XRCISE LOOK Butterflies тетрадка А4, малки квадрати]]></name>
     <price>5.88</price>
     <price_client>4.12</price_client>
     <available>Да</available>
@@ -47621,7 +47621,7 @@
   </item>
   <item>
     <catalog_num>23060120</catalog_num>
-    <name><![CDATA[LIZZY CARD XRCISE LOOK Twelve тетрадка А4, МКВ]]></name>
+    <name><![CDATA[LIZZY CARD XRCISE LOOK Twelve тетрадка А4, малки квадрати]]></name>
     <price>5.88</price>
     <price_client>4.12</price_client>
     <available>Не</available>
@@ -47643,7 +47643,7 @@
   </item>
   <item>
     <catalog_num>24140647</catalog_num>
-    <name><![CDATA[LIZZY CARD  CORNELL Flower тетрадка А4, МКВ]]></name>
+    <name><![CDATA[LIZZY CARD  CORNELL Flower тетрадка А4, малки квадрати]]></name>
     <price>5.88</price>
     <price_client>4.12</price_client>
     <available>Да</available>
@@ -47665,7 +47665,7 @@
   </item>
   <item>
     <catalog_num>24140801</catalog_num>
-    <name><![CDATA[LIZZY CARD NYC BRKLYN тетрадка А4, МКВ]]></name>
+    <name><![CDATA[LIZZY CARD NYC BRKLYN тетрадка А4, малки квадрати]]></name>
     <price>5.88</price>
     <price_client>4.12</price_client>
     <available>Да</available>
@@ -71018,7 +71018,7 @@
   </item>
   <item>
     <catalog_num>7500163000</catalog_num>
-    <name><![CDATA[LIZZY CARD Cornell LOVE тетрадка със спирала А4, МКВ]]></name>
+    <name><![CDATA[LIZZY CARD Cornell LOVE тетрадка със спирала А4, малки квадрати]]></name>
     <price>5.50</price>
     <price_client>3.85</price_client>
     <available>Да</available>
