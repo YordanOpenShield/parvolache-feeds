@@ -35656,7 +35656,7 @@
     <name><![CDATA[KIDEA електрическа острилка двойна Розова]]></name>
     <price>12.22</price>
     <price_client>8.55</price_client>
-    <available>Не</available>
+    <available>Да</available>
     <barcode><![CDATA[5901130098774]]></barcode>
     <brand><![CDATA[KIDEA]]></brand>
     <category></category>
@@ -73598,6 +73598,17 @@
     <available>Да</available>
     <barcode><![CDATA[6991200679155]]></barcode>
     <brand><![CDATA[Coriex]]></brand>
+    <category></category>
+    <color><![CDATA[N/A]]></color>
+  </item>
+  <item>
+    <catalog_num>69912061671761</catalog_num>
+    <name><![CDATA[Адвент календар Mystery Dumpling]]></name>
+    <price>18.00</price>
+    <price_client>12.60</price_client>
+    <available>Да</available>
+    <barcode><![CDATA[69912061671761]]></barcode>
+    <brand><![CDATA[N/A]]></brand>
     <category></category>
     <color><![CDATA[N/A]]></color>
   </item>
